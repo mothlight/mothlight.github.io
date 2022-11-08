@@ -1,65 +1,81 @@
 <!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN"
     "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
 <html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en-au" lang="en-au">
-
-
- 
-</body>
 </html>
 
 <head>
+<script type = "text/javascript">  
+window.onload = function(){
 
+ // This is to clear the previous clicked content.
+  tabcontent = document.getElementsByClassName("tabcontent");
+  for (i = 0; i < tabcontent.length; i++) {
+    tabcontent[i].style.display = "none";
+  }
+
+  // Set the tab to be "active".
+  tablinks = document.getElementsByClassName("tablinks");
+  for (i = 0; i < tablinks.length; i++) {
+    tablinks[i].className = tablinks[i].className.replace(" active", "");
+  }
+
+  // Display the clicked tab and set it to active.
+  document.getElementById('Position').style.display = "block";
+  evt.currentTarget.className += " active";
+ 
+}  
+</script>  
+
+
+<script>
+function clickHandle(evt, animalName) {
+  let i, tabcontent, tablinks;
+
+  // This is to clear the previous clicked content.
+  tabcontent = document.getElementsByClassName("tabcontent");
+  for (i = 0; i < tabcontent.length; i++) {
+    tabcontent[i].style.display = "none";
+  }
+
+  // Set the tab to be "active".
+  tablinks = document.getElementsByClassName("tablinks");
+  for (i = 0; i < tablinks.length; i++) {
+    tablinks[i].className = tablinks[i].className.replace(" active", "");
+  }
+
+  // Display the clicked tab and set it to active.
+  document.getElementById(animalName).style.display = "block";
+  evt.currentTarget.className += " active";
+}
+</script>
+<link rel="stylesheet" type="text/css" href="scss.css" />
 <meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
-<title>Dr. Kerry Nice, University of Melbourne / Monash University</title>
-
-
+<title>Dr. Kerry Nice, University of Melbourne </title>
 <meta name="keywords" content="urban,climate,modelling,Australia" />
 <meta name="dc.title" content="Kerry Nice"/>
-
 </head>
 <body>
 
-
-<center>
-<a href="index.html#Position">Position</a>
-<a href="index.html#Bio">Bio</a>
-<a href="index.html#ResearchAreas">Research Areas</a>
-<a href="index.html#Contact">Contact</a>
-<a href="index.html#Qualifications">Qualifications</a>
-<a href="index.html#ModelsAndSourceCode">Models and Source Code</a>
-<a href="index.html#Publications">Publications</a>
-<a href="index.html#BookChapters">Book Chapters</a>
-<a href="index.html#PeerReviews">Peer Reviews</a>
-<a href="index.html#Reports">Reports</a>
-<a href="index.html#Grants">Grants</a>
-<a href="index.html#SubmittedGrants">Submitted Grants</a>
-<a href="index.html#ProfessionalActitivies">Professional Actitivies</a>
-<a href="index.html#Supervision">Supervision</a>
-<a href="index.html#ConferencePresentations">Conference Presentations</a>
-<a href="index.html#Media">Media</a>
-<a href="index.html#Consulting">Consulting</a>
-</center>
-
-
 <a name="content" id="skiplink"></a>
-<!--   C O N T E N T   B E G I N S   -->
-<div id="ges">
 <center><h1>Dr. Kerry Nice</h1></center>
 
+<div class="tab">
+<button class="tablinks" onclick="clickHandle(event, 'Position')">Biography</button>    
+<button class="tablinks" onclick="clickHandle(event, 'Publications')">Publications</button>
+<button class="tablinks" onclick="clickHandle(event, 'Reports')">Reports</button>
+<button class="tablinks" onclick="clickHandle(event, 'Conference Presentations')">Conference Presentations</button>
+<button class="tablinks" onclick="clickHandle(event, 'Models')">Models</button>
+<button class="tablinks" onclick="clickHandle(event, 'Peer Reviews')">Peer Reviews</button>
+<button class="tablinks" onclick="clickHandle(event, 'Grants')">Grants</button>
+<button class="tablinks" onclick="clickHandle(event, 'Professional Actitivies')">Professional Actitivies</button>
+<button class="tablinks" onclick="clickHandle(event, 'Supervision')">Supervision</button>
+<button class="tablinks" onclick="clickHandle(event, 'Media')">Media</button>
+<button class="tablinks" onclick="clickHandle(event, 'Consulting')">Consulting</button>
+</div>
 
-<a name="Bio"/>
-<center><h2>Bio</h2></center>
-<br>Building on a background in software engineering and urban climates, Dr. Kerry Nice's work uses modelling and artificial intelligence to study urban environments. His PhD at Monash University focused on the creation and use of an urban micro-climate model (VTUF-3D) to assess the positive human thermal comfort impacts in urban areas of increased urban vegetation and water sensitive design (WSUD) infrastructure.
-
-<p>Kerry's research currently focuses on the investigation of urban factors impacting the accessibility of active transport, assessing the impacts of urban vegetation on transport, health, and micro-climates, and using artificial intelligence, especially deep learning using neural networks, to assess the influence of urban characteristics on urban environments and ultimately on the people who live there. Kerry previously worked as a senior and consulting software engineer in Colorado, New York, and London focusing on building enterprise level multi-tiered work flow applications. Kerry maintains membership in the International Association for Urban Climate (IAUC) and the Australian Meteorological and Oceanographic Society (AMOS).
-
-<a name="ResearchAreas"/>
-<center><h2>Research Areas</h2></center>
-<br>Research in urban climates and human thermal comfort (HTC) with a focus on urban micro climate modelling and WSUD (water sensitive urban design). 
-<br>Research in urban design, transport, health, micro-climates, and urban green space typology using neural network machine learning, agent based modelling, and climate modelling. 
-<br>Software engineering using Java J2EE for application development and architecture.
 
 
+<div id="Position" class="tabcontent">
 <table style="width:100%">
 <tr>
 <th style="width:70%"></th><th style="width:30%"></th>
@@ -70,13 +86,9 @@
 Research Fellow, Transport, Health and Urban Design (THUD) research lab, Faculty of Architecture, Building and Planning, University of Melbourne, 2016-Present.
 <p> <strike>Research Fellow, School of Earth, Atmosphere and Environment, Monash University/CRC for Water Sensitive Cities, 2016-2021.</strike>
 <h2>Affiliations</h2>
-
-
 <img width="15%" height="15%" src="thud.png"/>&nbsp;&nbsp;
 <a href="https://thud.msd.unimelb.edu.au/"><b>Transport, Health and Urban Design (THUD) research lab</b></a>
-
 <p><img width="15%" height="15%" src="LCC.svg"/>&nbsp;&nbsp;<a href="https://lifecoursecentre.org.au/members/dr-kerry-nice/"><b>ARC Centre of Excellence for Children and Families over the Life Course (Life Course Centre)</b></a> 
-
 <h2>Contact</h2>
 Room 415, Level 4, Melbourne School of Design (Building 133), The University of Melbourne, Victoria 3010 Australia
 <br><strong>Email: <a href="mailto:kerry.nice@unimelb.edu.au">kerry.nice@unimelb.edu.au</a></strong> 
@@ -91,59 +103,17 @@ Room 415, Level 4, Melbourne School of Design (Building 133), The University of 
 </td>
 </tr>
 </table> 
-
-
-
-
-<!--
-    
-<div class="float-right">
-<img src="https://raw.githubusercontent.com/mothlight/mothlight.github.io/master/_IMG_20190221_080946214.jpg" alt="Photograph of Kerry Nice"  border="1" class="border1" width=225 height=300/>
-</div>
-
-
-<a name="Position"/>
-<center><h2>Position</h2></center>
-<br>Research Fellow, Transport, Health and Urban Design (THUD) research lab, Faculty of Architecture, Building and Planning, University of Melbourne, 2016-Present. </p>
-<p> Research Fellow, School of Earth, Atmosphere and Environment, Monash University/CRC for Water Sensitive Cities, 2016-2021.
-
-<center><h2>Affiliations</h2></center>
-<img width="15%" height="15%" src="thud.png"/><br/>
-<a href="https://thud.msd.unimelb.edu.au/"><b>Transport, Health and Urban Design (THUD) research lab</b></a>
-<p><img width="15%" height="15%" src="LCC.svg"/><br/><a href="https://lifecoursecentre.org.au/members/dr-kerry-nice/"><b>ARC Centre of Excellence for Children and Families over the Life Course (Life Course Centre)</b></a>
-
---> 
-
-<!--
 <a name="Bio"/>
-<center><h2>Bio</h2></center>
-<br>Building on a background in software engineering and urban climates, Dr. Kerry Nice's work uses modelling and artificial intelligence to study urban environments. His PhD at Monash University focused on the creation and use of an urban micro-climate model (VTUF-3D) to assess the positive human thermal comfort impacts in urban areas of increased urban vegetation and water sensitive design (WSUD) infrastructure.
+<center><h2>Biography</h2></center>
+Building on a background in software engineering and urban climates, Dr. Kerry Nice's work uses modelling and artificial intelligence to study urban environments. His PhD at Monash University focused on the creation and use of an urban micro-climate model (VTUF-3D) to assess the positive human thermal comfort impacts in urban areas of increased urban vegetation and water sensitive design (WSUD) infrastructure.
 
 <p>Kerry's research currently focuses on the investigation of urban factors impacting the accessibility of active transport, assessing the impacts of urban vegetation on transport, health, and micro-climates, and using artificial intelligence, especially deep learning using neural networks, to assess the influence of urban characteristics on urban environments and ultimately on the people who live there. Kerry previously worked as a senior and consulting software engineer in Colorado, New York, and London focusing on building enterprise level multi-tiered work flow applications. Kerry maintains membership in the International Association for Urban Climate (IAUC) and the Australian Meteorological and Oceanographic Society (AMOS).
 
 <a name="ResearchAreas"/>
 <center><h2>Research Areas</h2></center>
-<br>Research in urban climates and human thermal comfort (HTC) with a focus on urban micro climate modelling and WSUD (water sensitive urban design). 
+Research in urban climates and human thermal comfort (HTC) with a focus on urban micro climate modelling and WSUD (water sensitive urban design). 
 <br>Research in urban design, transport, health, micro-climates, and urban green space typology using neural network machine learning, agent based modelling, and climate modelling. 
-<br>Software engineering using Java J2EE for application development and architecture. 
--->
-
-
-<!--
-<a name="Contact"/>
-<center><h2>Contact</h2></center>
-<br>Room 415, Level 4, Melbourne School of Design (Building 133), The University of Melbourne, Victoria 3010 Australia
-<br><strong>Email: <a href="mailto:kerry.nice@unimelb.edu.au">kerry.nice@unimelb.edu.au</a></strong> 
-<br><strong><a href="https://twitter.com/mothlight">Twitter</a></strong>
-<br><strong>Research Gate <a href="https://www.researchgate.net/profile/Kerry_Nice/">profile</a></strong>
-<br><strong>Google Scholar <a href="https://scholar.google.com/citations?authuser=1&user=e1WoO3EAAAAJ">profile</a></strong>
-<br><strong><a href="https://www.findanexpert.unimelb.edu.au/display/person793479">University of Melbourne profile</a></strong>
-<div itemscope itemtype="https://schema.org/Person"><a itemprop="sameAs" content="https://orcid.org/0000-0001-6102-1292" href="https://orcid.org/0000-0001-6102-1292" target="orcid.widget" rel="noopener noreferrer" style="vertical-align:top;"><img src="https://orcid.org/sites/default/files/images/orcid_16x16.png" style="width:1em;margin-right:.5em;" alt="ORCID iD icon">https://orcid.org/0000-0001-6102-1292</a></div>
--->
-
-
-
-
+<br>Software engineering using Java J2EE for application development and architecture.
 
 </p><a name="Qualifications"/>
 <center><h2>Qualifications</h2></center>
@@ -154,17 +124,26 @@ Room 415, Level 4, Melbourne School of Design (Building 133), The University of 
 <li>B.A, 1990, University of Colorado, Boulder. </li>
 </ul>
 
+</div>
 
+
+
+
+
+
+
+<div id="Models" class="tabcontent">
 <a name="ModelsAndSourceCode"/>
 <center><h2>Models and source code</h2></center>
 
-<p>The Air-temperature Response to Green/blue-infrastructure Evaluation Tool (TARGET v1.0): an efficient and user-friendly model of city cooling. <a href="https://bitbucket.org/mothlight/target_java/src/master/">Source code (Java)</a> <a href="https://mothlight.github.io/target_model/index.html">Documents</a> <a href="https://github.com/mothlight/Target-Java.v2">Source code (Java V2)</a>
+The Air-temperature Response to Green/blue-infrastructure Evaluation Tool (TARGET v1.0): an efficient and user-friendly model of city cooling. <a href="https://bitbucket.org/mothlight/target_java/src/master/">Source code (Java)</a> <a href="https://mothlight.github.io/target_model/index.html">Documents</a> <a href="https://github.com/mothlight/Target-Java.v2">Source code (Java V2)</a>
 
 <p>Development of the VTUF-3D v1.0 urban micro-climate model to support assessment of urban vegetation influences on human thermal comfort. <a href="https://github.com/mothlight/VTUF-3D">Source code (FORTRAN)</a> <a href="https://github.com/mothlight/VTUF-3D-Java.v2/">Source code V2 (Java)</a> 
+</div>
 
 
 
-
+<div id="Publications" class="tabcontent">
 <!-- -------------------------------------------------------------------------------- -->
 <a name="Publications"/>
 <center><h2>Publications</h2></center>
@@ -284,7 +263,10 @@ Landscape and Urban Planning, <i> (Submitted)</i>.
 <center><h2>Book Chapters</h2></center>
 <p><center><b>2019</b></center>
 <p>Haifeng Zhao, Jasper S. Wijnands, <b>Kerry A. Nice</b>, Jason Thompson, Gideon D. P. A. Aschwanden, Mark Stevenson, Jingqiu Guo (2019) Unsupervised Deep Learning to Explore Streetscape Factors Associated with Urban Cyclist Safety. In: Qu X., Zhen L., Howlett R., Jain L. (eds) <i>Smart Transportation Systems 2019. Smart Innovation, Systems and Technologies</i>, vol 149. Springer, Singapore. <a href="https://link.springer.com/chapter/10.1007%2F978-981-13-8683-1_16">Book chapter</a>
+</div>
 
+
+<div id="Peer Reviews" class="tabcontent">
 <!-- -------------------------------------------------------------------------------- -->
 <hr><a name="PeerReviews"/>
 <center><h2>Peer reviews</h2></center>
@@ -312,7 +294,10 @@ Landscape and Urban Planning, <i> (Submitted)</i>.
 <ul>
 <li>Australian Research Council grants
 </ul>
+</div>
 
+
+<div id="Reports" class="tabcontent">
 <!-- -------------------------------------------------------------------------------- -->
 <hr><a name="Reports"/>
 <center><h2><b>Reports</b></h2></center>
@@ -348,10 +333,10 @@ Coutts, Andrew; Demuzere, Matthias; Tapper, Nigel; Daly, Edoardo; Beringer, Jaso
 <p> Nice, K. (2012), Urban climate model selection for modelling WSUD features.
 Technical report, Cities as Water Supply Catchments, Project 3: Green Cities
 and Micro-climate.
+</div>
 
 
-
-
+<div id="Grants" class="tabcontent">
 <!-- -------------------------------------------------------------------------------- -->
 <hr><a name="Grants"/>
 <center><h2>Grants</h2></center>
@@ -398,6 +383,9 @@ and Micro-climate.
 <strike>
 <p>2019 MEL-BER Research Partnership, Assessing and designing walkable environments using generative adversarial networks, The University of Melbourne / School of Geography, Humboldt University. 
 </strike>
+</div>
+
+<div id="Professional Actitivies" class="tabcontent">
 <!-- -------------------------------------------------------------------------------- -->
 <hr><a name="ProfessionalActitivies"/>
 <center><h2><b>Professional activities</b></h2></center>
@@ -410,7 +398,9 @@ and Micro-climate.
 <p><center><b>2021</b></center>
 
 <p>Early Career Development Committee for 2022 IAUC Virtual Poster Conference, 30 Aug – 1 Sep 2022. <a href="https://iaucposter2022.com/committees/">Conference</a>
+</div>
 
+<div id="Supervision" class="tabcontent">
 <!-- -------------------------------------------------------------------------------- -->
 <hr><a name="Supervision"/>
 <center><h2><b>Supervision</b></h2></center>
@@ -453,8 +443,9 @@ and Micro-climate.
 <p><center><b>2016</b></center>
 
 <p> Jingming Qian, 'Investigation on Airport Landscape Cooling Associated with Irrigation', 2016-2022, PhD co-supervision with Prof. Nigel J. Tapper, Monash University/ Prof. Dafang Fu, Southeast University.
+</div>
 
-
+<div id="Conference Presentations" class="tabcontent">
 <!-- -------------------------------------------------------------------------------- -->
 <hr><a name="ConferencePresentations"/>
 <center><h2><b>Conference Presentations / Guest lectures</b></h2></center>
@@ -564,7 +555,9 @@ human thermal comfort: <i>Pre-submission presentation. Monash University. 17 Sep
 <p> <b>Nice, K.A.</b>, Coutts, A, Broadbent, A, Beringer, J, Tapper, N and Krahenhoff, S. Evaluation of WSUD modeling strategies. In: <i>8th International Conference on Urban Climate – ICUC 8 and 10th Symposium on the Urban Environment. 6th - 10th August 2012 - Dublin, Ireland.</i> <a href="http://users.monash.edu.au/~kerryn/files/ICUC8Presentation.pdf">Presentation</a>
 
 <p> <b>Nice, K.A.</b> and Isaac, P. The micro-climate of a mixed urban parkland environment [online]. In: <i>WSUD 2012: Water sensitve urban design; Building the water sensitve community; 7th International Conference on Water Sensitive Urban Design, 21 - 23 February 2012, Melbourne Cricket Ground. Barton, A.C.T.: Engineers Australia, 2012</i>: 719-739. ISBN: 9780858258952. <a href="http://users.monash.edu.au/~kerryn/files/WSUDPresentation.pdf">Presentation</a>
+</div>
 
+<div id="Media" class="tabcontent">
 <hr><a name="Media"/>
 <center><h2>Media</h2></center>
 
@@ -577,8 +570,9 @@ human thermal comfort: <i>Pre-submission presentation. Monash University. 17 Sep
 <p>Kerry Nice, June 2020, Identifying the ‘Paris-End’ of town. <a href="https://pursuit.unimelb.edu.au/articles/identifying-the-paris-end-of-town">Article</a>
 
 <p>Nigel Gladstone, 7 May 2018, Sydney Morning Herald, "10 places in Sydney that look like Paris. They're not where you might think." <a href="https://www.smh.com.au/national/nsw/10-places-in-sydney-that-look-like-paris-they-re-not-where-you-might-think-20180503-p4zd60.html">Article</a>
+</div>
 
-
+<div id="Consulting" class="tabcontent">
 <hr><a name="Consulting"/>
 <center><h2>Consulting</h2></center>
 <p><center><b>2021</b></center>
@@ -600,9 +594,11 @@ human thermal comfort: <i>Pre-submission presentation. Monash University. 17 Sep
 <p><center><b>2019</b></center>
 
 CRC /Kerry Nice was part of the successful team for the Fishermans Bend Ecology Strategy. (and GHD)
-
 </div>
-<!--   C O N T E N T   E N D S   -->
+
+
 	
+
+
 </body>
 </html>
