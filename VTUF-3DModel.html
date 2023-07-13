@@ -1,0 +1,133 @@
+<!DOCTYPE html>
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en-us">
+
+  <head>
+  <link href="http://gmpg.org/xfn/11" rel="profile">
+  <meta http-equiv="X-UA-Compatible" content="IE=edge">
+  <meta http-equiv="content-type" content="text/html; charset=utf-8">
+
+  <!-- Enable responsiveness on mobile devices-->
+  <meta name="viewport" content="width=device-width, initial-scale=1.0, maximum-scale=1">
+
+  <title>    
+      Dr. Kerry Nice, University of Melbourne   
+  </title>
+
+  <!-- CSS -->
+  <link rel="stylesheet" href="hyde/hyde-2.1.0/public/css/poole.css">
+  <link rel="stylesheet" href="hyde/hyde-2.1.0/public/css/syntax.css">
+  <link rel="stylesheet" href="hyde/hyde-2.1.0/public/css/hyde.css">
+  <link rel="stylesheet" href="http://fonts.googleapis.com/css?family=PT+Sans:400,400italic,700|Abril+Fatface">
+
+  <!-- Icons -->
+  <link rel="apple-touch-icon-precomposed" sizes="144x144" href="/public/apple-touch-icon-144-precomposed.png">
+                                 <link rel="shortcut icon" href="/public/favicon.ico">
+
+
+<meta name="keywords" content="urban,climate,modelling,Australia" />
+<meta name="dc.title" content="Kerry Nice"/>
+</head>
+
+
+  <body>
+
+    <div class="sidebar">
+  <div class="container sidebar-sticky">
+    <div class="sidebar-about">
+      <h1>
+          Dr. Kerry Nice
+      </h1>
+
+    </div>
+
+    <nav class="sidebar-nav">
+      <a class="sidebar-nav-item active" href="index.html">Home</a>
+	<a class="sidebar-nav-item" href="pubs.html">Publications</a>   
+<a class="sidebar-nav-item" href="reports.html">Reports</a>   
+<a class="sidebar-nav-item" href="conferences.html">Conference Presentations</a>   
+<a class="sidebar-nav-item" href="models.html">Climate models</a>   
+<a class="sidebar-nav-item" href="reviews.html">Peer Reviews</a>   
+<a class="sidebar-nav-item" href="grants.html">Grants</a>   
+<a class="sidebar-nav-item" href="activities.html">Professional Actitivies</a>   
+<a class="sidebar-nav-item" href="supervision.html">Supervision</a>   
+<a class="sidebar-nav-item" href="media.html">Media</a>   
+<a class="sidebar-nav-item" href="consulting.html">Consulting</a>   
+<a class="sidebar-nav-item" href="teaching.html">Teaching</a> 
+<a class="sidebar-nav-item" href="working.html">Stuff I'm working on</a> 
+
+ </nav>
+
+   
+  </div>
+</div>
+
+ <div class="content container">
+      <div class="posts">
+  
+  <div class="post">
+
+
+ 
+
+<center><h3><b>VTUF-3D setup</b></h3></center>
+
+
+<p>The current version of VTUF-3D is 
+ <a href="https://github.com/mothlight/VTUF-3D-Java.v2/">VTUF-3D Github</a>
+<p>
+There is an example.zip as part of the project. If you can get that
+running correctly, then it should be possible to start setting up your
+own configurations.
+
+<p>
+I modified the configuration scripts so that you can run it. I think
+I replaced all the links to locations on my computer. So, there are two
+files <a href="https://mediaflux.researchsoftware.unimelb.edu.au:443/mflux/share.mfjp?_token=pnWyJXQ7HMbsKmCeLSZV11282321497&browser=true&filename=ConfigurationMaker.zip">here</a>:
+ <p>
+The script in the VTUFTEST.zip file should set up a configuration and run the model. Starting with that might be a good way to start with the model.
+
+
+<p>
+VTUFTEST.zip should have all the things needed to generate a
+configuration. You might need to change a few things in the
+run_config.sh script. The Maespa executable was compiled for Ubuntu, so
+needs to be run on something similar.
+<p>
+VTUFTEST_configured.zip is what you should have after setting up the
+configuration.
+<p>
+I haven't updated the Fortran version in a long time and I don't intend
+to in the future since the Java version now runs well enough. The most
+complicated thing is probably to configure model runs, which I already
+had lots of Java scripts to do. I've mostly used the model for my own
+research so haven't had a chance (or time and funding) to set up a more
+friendly configuration interface. So, I'm afraid there isn't much
+documentation but more than happy to help you out and hopefully as part
+of the process can start putting together better documentation.
+<p>
+If you look at <a href="https://github.com/mothlight/VTUF-3D-Java.v2/blob/main/src/VTUF3D/ConfigMaker/UrbanPlumberPhase2ConfigMaker.java">VTUF3D.ConfigMaker.UrbanPlumberPhase2ConfigMaker</a>, that's
+how I've been generating configurations from the two data files the
+project supplies. I'm sorry, the code is very messy and needs some major
+refactoring, but I haven't had the time to do that yet.
+
+<p>
+This was in conjunction with the Urban Plumber evaluation <a href="https://urban-plumber.github.io/AU-Preston/">project</a>
+
+<p>
+So, as a first step, can you see if the example works for you and we can
+go from there. VTUF-3D is a micro-scaled model, so is meant to be very 
+detailed and might be complicated to use initially.
+
+<p> <a href="mailto:kerry.nice@unimelb.edu.au" title="Email" target="_blank" >Contact address</a></strong> 
+
+
+
+
+</div>
+</div>
+</div>
+
+  </body>
+</html>
+
+
