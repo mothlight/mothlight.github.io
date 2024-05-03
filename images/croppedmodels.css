@@ -1,9 +1,9 @@
 .cropped1
 {
 width: 800px;
-height: 140px;
+height: 120px;
 object-fit: cover;
-object-position: 20% 15%;
+object-position: 20% 14%;
 border: 1px solid black;
 }
 .cropped2
@@ -17,8 +17,8 @@ border: 1px solid black;
 .cropped3
 {
 width: 900px;
-height: 700px;
+height: 300px;
 object-fit: cover;
-object-position: 30% 40%;
+object-position: 30% 15%;
 border: 1px solid black;
 }
