@@ -25,6 +25,24 @@ function myFunction(divId) {
      x.style.display = "none";
    }
 }
+
+function myFunction(divId,text) {
+   var x = document.getElementById(divId);
+   if (x.style.display === "none") 
+   {
+     x.innerHTML=text;
+     x.style.display = "block";
+   } else 
+   {
+     x.style.display = "none";
+   }
+}
+
+function displayText(item)
+{
+document.getElementById(item).innerHTML="Hello World";
+}
+
 </script>
 
 <meta name="keywords" content="urban,climate,modelling,Australia" />
@@ -77,8 +95,14 @@ XXX
 
 -->
 
+<script>
+Cheung2024IrrigationTiming='<p>The increasing heat stress in cities due to climate change and urbanisation can prevent people from using urban green spaces. Irrigating vegetation is a promising strategy to cool urban green spaces in summer. Irrigation scheduling, such as daytime vs night-time irrigation and the frequency of irrigation in a day, can influence the cooling benefit of irrigation. This study aimed to investigate whether irrigation scheduling can be optimised to increase the cooling benefit and determine how the cooling benefit changes with weather conditions. A field experiment with twelve identical turfgrass plots (three replicates × four irrigation treatments) was set up to measure the afternoon cooling benefits of irrigation. The four treatments included: no irrigation, single night-time irrigation (4 mm d–1), single daytime irrigation (4 mm d–1) and multiple daytime irrigation (total = 4 mm d–1). The cooling benefit was defined as the air temperature difference measured at 1.1 m above the turfgrass between the irrigated and unirrigated treatments (air temperature sensor accuracy ± 0.2 °C). The afternoon (12:00–15:59) mean cooling benefit of multiple daytime irrigation (–0.9 °C) which was significantly stronger than that of single night-time irrigation (–0.6 °C) and single daytime irrigation (–0.5 °C). Regardless of irrigation scheduling, the afternoon mean cooling benefits of irrigation were greater for days when background air temperature, vapour pressure deficit and incoming shortwave radiation were greater. The findings suggested that irrigation scheduling can be optimised to increase the cooling benefit of urban green space irrigation without increasing overall water use.</p>'
+</script>
 
 
+<!--
+<p>Journal article| <button onclick="myFunction('Cheung2024IrrigationTiming',Cheung2024IrrigationTiming)">Abstract</button><div id="Cheung2024IrrigationTiming" style="display:none;font-size:80%;line-height:0.9"><hr></div>
+-->
 
 
 <p><center><b>2024</b></center>  <!-- publication 29, conference 6 -->
@@ -188,7 +212,10 @@ informatics. Lausanne: Frontiers Media SA. doi: 10.3389/978-2-83251-592-1. <a hr
 <hr>
 <p><center><b>Submitted / Preprints</b></center>
 
-<p>Debjit Bhowmick, Tanapon Lilasathapornkit, Meead Saberi, Sachith Seneviratne, Trisalyn Nelson, Kerry Nice, Ben Beck, Modelling link-level bike riding volumes in Greater Melbourne, <i>45th Australasian Transport Research Forum (ATRF) Conference, Melbourne, 27-29 November 2024</i>. (Submitted) | <button onclick="myFunction('Bhowmick2024LinkLevel')">Abstract</button><div id="Bhowmick2024LinkLevel" style="display:none;font-size:80%;line-height:0.9"><p>Robust bike riding demand models are critical for achieving long-term active transport and sustainability goals of cities across the globe. Bike riding volumes are key to measuring ridership trends, prioritising interventions, and measuring exposure for public health studies. and We developed a bike-riding demand model that estimates link-level bike riding volumes on every street segment across Greater Melbourne. We employed a four-step demand modelling approach which is appropriate for modelling a large geographic area whilst providing a robust platform allowing the introduction of complexities into the model at different stages. The model is also underpinned by a data-driven and locally specific model for route choice developed on the base of large-scale bike riding GPS data collection. Initial model results exhibit patterns consistent with real-world bike riding patterns across Greater Melbourne and exhibits a prediction accuracy of 42% when validated across 46 bike count locations in the study area. We continue to iteratively improve the model by ingesting more recent travel survey data, more bike count data from multiple sources, tweaking parameter values in the route choice model, and introducing complex but appropriate mode choice functions.</p><hr></div> 
+<p>Nan Xu, Mark Stevenson, <b>Kerry A. Nice</b>, Sachith Seneviratne, General Algorithm Of Assigning Raster Features To Vector Maps At Any Resolution Or Scale, <i>Siam Journal On Computing</i>. (Submitted) | <button onclick="myFunction('Xu2024')">Abstract</button><div id="Xu2024" style="display:none;font-size:80%;line-height:0.9"><p>The fusion of multi-source data is essential for a comprehensive analysis of geographic applications. Due to distinct data structures, the fusion process tends to encounter technical difficulties in terms of preservation of the intactness of each source data. Furthermore, a lack of generalized methods is a problem when the method is expected to be applicable in multiple resolutions, sizes, or scales of raster and vector data, to what is being processed. In this study, we propose a general algorithm of assigning features from raster data (concentrations of air pollutants) to vector components (roads represented by edges) in city maps through the iterative construction of virtual layers to expand geolocation from a city centre to boundaries in a 2D projected map. The construction follows the rule of perfect squares with a slight difference depending on the oddness or evenness of the ratio of city size to raster resolution. We demonstrate the algorithm by applying it to assign accurate PM2.5 and NO2 concentrations to roads in 1692 cities globally for a potential graph-based pollution analysis. This method could pave the way for agile studies on urgent climate issues by providing a generic and efficient method to accurately fuse multiple datasets of varying scales and compositions.</p><hr></div> 
+
+
+<p>Debjit Bhowmick, Tanapon Lilasathapornkit, Meead Saberi, Sachith Seneviratne, Trisalyn Nelson, <b>Kerry Nice</b>, Ben Beck, Modelling link-level bike riding volumes in Greater Melbourne, <i>45th Australasian Transport Research Forum (ATRF) Conference, Melbourne, 27-29 November 2024</i>. (Submitted) | <button onclick="myFunction('Bhowmick2024LinkLevel')">Abstract</button><div id="Bhowmick2024LinkLevel" style="display:none;font-size:80%;line-height:0.9"><p>Robust bike riding demand models are critical for achieving long-term active transport and sustainability goals of cities across the globe. Bike riding volumes are key to measuring ridership trends, prioritising interventions, and measuring exposure for public health studies. and We developed a bike-riding demand model that estimates link-level bike riding volumes on every street segment across Greater Melbourne. We employed a four-step demand modelling approach which is appropriate for modelling a large geographic area whilst providing a robust platform allowing the introduction of complexities into the model at different stages. The model is also underpinned by a data-driven and locally specific model for route choice developed on the base of large-scale bike riding GPS data collection. Initial model results exhibit patterns consistent with real-world bike riding patterns across Greater Melbourne and exhibits a prediction accuracy of 42% when validated across 46 bike count locations in the study area. We continue to iteratively improve the model by ingesting more recent travel survey data, more bike count data from multiple sources, tweaking parameter values in the route choice model, and introducing complex but appropriate mode choice functions.</p><hr></div> 
 
 <p>Ellie Traill, <b>Kerry A. Nice</b>, Nigel Tapper, Julie Arblaster, Pavement watering as an urban heat mitigation technique, <i>Urban Climate</i> (1st revision under review).
 
@@ -211,8 +238,6 @@ informatics. Lausanne: Frontiers Media SA. doi: 10.3389/978-2-83251-592-1. <a hr
 <a name="prep"></a>
 <hr>
 <p><center><b>In Preparation</b></center>
-
-<p>NAN XU, MARK STEVENSON, KERRY A. NICE, SACHITH SENEVIRATNE, GENERAL ALGORITHM OF ASSIGNING RASTER FEATURES TO VECTOR MAPS AT ANY RESOLUTION OR SCALE, SIAM Journal on Computing.
 
 <p>Blesson M. Varghese, Berhanu Wondmagegn, Matthew Borg, Michael Tong, Matthias Demuzere, <b>Kerry Nice</b>, Nigel Tapper, Peng Bi, Heat-attributable hospitalisations and associated costs: current risk, future projection, and intervention effectiveness: A Multi-site Study in Australia, 2010-2019, <i>Medical Journal of Australia</i>.
 
@@ -284,9 +309,10 @@ informatics. Lausanne: Frontiers Media SA. doi: 10.3389/978-2-83251-592-1. <a hr
 
 
 
-
-
-
+<!--
+<button onclick="displayText('text')">button</button>
+<div id="text"></div>
+-->
 
 
 
@@ -329,5 +355,9 @@ Journal of Transport Geography (J Transp Geogr) (SRJ Q1 1.85, h-index 132)
 </div>
 </div>
 </div>  
+
+
+
+
 </body>
 </html>
