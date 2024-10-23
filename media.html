@@ -30,6 +30,34 @@
 
 
   <body>
+  
+  <script type="text/javascript" src="abstracts.js">
+</script>
+<script>
+function abstractText(divId) {
+   var x = document.getElementById(divId);
+   if (x.style.display === "none") {
+     x.style.display = "block";
+   } else {
+     x.style.display = "none";
+   }
+}
+function displayAbstract(divId,text) {
+   var x = document.getElementById(divId);
+   if (x.style.display === "none") 
+   {
+     x.innerHTML=text;
+     x.style.display = "block";
+   } else 
+   {
+     x.style.display = "none";
+   }
+}
+function displayText(item)
+{
+document.getElementById(item).innerHTML="Hello World";
+}
+</script>
 
     <div class="sidebar">
   <div class="container sidebar-sticky">
@@ -51,7 +79,7 @@
 <a class="sidebar-nav-item" href="grants.html">Grants</a>   
 <a class="sidebar-nav-item" href="activities.html">Professional Actitivies</a>   
 <a class="sidebar-nav-item" href="supervision.html">Supervision</a>   
-<a class="sidebar-nav-item active" href="media.html">Media</a>   
+<a class="sidebar-nav-item active" href="media.html">Media/Awards</a>   
 <a class="sidebar-nav-item" href="consulting.html">Consulting</a>   
 <a class="sidebar-nav-item" href="teaching.html">Teaching</a> 
 <a class="sidebar-nav-item" href="working.html">Stuff I'm working on</a> 
@@ -91,7 +119,15 @@
 
 <p><center><b>2024</b></center>
 
-Australian Water Association - 2024 VIC Water Award / R&amp;D Excellence Award - "Demonstrating the cooling benefits of irrigating green space and misting at Aquarevo House and Burnley". Team: South East Water, University of Melbourne and Water Sensitive Cities Australia. <a href="https://www.awa.asn.au/upcoming-events/vicgala2023-0">23 October 2024</a>. 
+Australian Water Association - 2024 VIC Water Award / R&amp;D Excellence Award - "Demonstrating the cooling benefits of irrigating green space and misting at Aquarevo House and Burnley". Team: South East Water, University of Melbourne and Water Sensitive Cities Australia. <a href="https://www.awa.asn.au/upcoming-events/vicgala2023-0">23 October 2024</a>. <button onclick="displayAbstract('AWA',AWA)">Nomination details</button><div id="AWA" style="display:none;font-size:80%;line-height:0.9"><hr></div>
+
+
+
+
+
+
+
+
 
 
 
