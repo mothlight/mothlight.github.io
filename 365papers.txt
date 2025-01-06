@@ -1,0 +1,4 @@
+I did 365papers a few years ago. Lots of work but ultimately quite rewarding reading and writing about 365 papers over a year. So, I'll try again this year starting with this very recent paper. 
+1/ #365papers 
+In which a new module for the PUCM urban canopy model is developed, PUCM-mist, to model the impacts of misters. Modelling is performed for Phoenix and Houston (dry and humid climates), finding a flow rate of 0.1L/min can induce reductions in maximum canyon air temperature of 17.5C. Cooling is also seen in Houston, but about half that amount. Optimal cooling under intermediate wind speeds. Rapid cooling can be induced through the combination of misting and pavement sprinkling. Trying to wrap my head around the 17.5C, which is huge, but using lots of water and saturating the air, and altering both the potential maximum temperature and the time of day the maximum is reached.
+https://doi.org/10.1016/j.landurbplan.2024.105290 
