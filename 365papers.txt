@@ -35,23 +35,30 @@ https://onlinelibrary.wiley.com/doi/10.1111/j.1744-7410.2007.00117.x
 In which the rates of divorce (termination of a pair bond) of the Seychelles warbler are examined as influenced by weather. Findings are that increased divorces are preceded by years of low and high rainfall. It remains unclear whether this is adaptive, maladaptive, or neutral. Or can these behaviour changes help adapt to a changing climate?
 https://besjournals.onlinelibrary.wiley.com/doi/10.1111/1365-2656.14216
 9/ #365papers 
-#####
 
-In which the increase in emissions to add AI generated answers (GPT-3) to Google search results is quantified. in 2009, Google search used about 0.0003 kWh per search (0.2g of CO2). Increased efficiency probably means current searches use 0.000004 kWh. Adding AI probably brings this up to 0.002 kWh, or about 100 times more. Further, while training AI is resource intensive, the subsequent use of ChatGPT dominates emissions.
+In which the increase in emissions to add AI generated answers (GPT-3) to Google search results is quantified. In 2009, Google search used about 0.0003 kWh per search (0.2g of CO2). Increased efficiency probably means current searches use 0.000004 kWh. Adding AI probably brings this up to 0.002 kWh, or about 100 times more. Additionally, while training AI is resource intensive, the subsequent usage of ChatGPT dominates emissions.
 http://arxiv.org/abs/2407.16894
 10/ #365papers 
 
-In which the openness of OpenAI (and AI in general) is examined. Findings are that most modern AI is dependent and controlled by a few large corporations. Openness mostly fails in the categories of transparency, reusability, and extensibility. Underlying hidden problem of colonialism - labor exploitation and cultural data sovereignty. Necessary computational resources close general access. AI might have a similar story to corporate dominance moves in open-source software, but some differences exist.
+In which the openness of OpenAI (and AI in general) is examined. Findings are that most modern AI is dependent on and controlled by a few large corporations. Openness mostly fails in the categories of transparency, reusability, and extensibility. Underlying hidden problem of colonialism - labor exploitation and cultural data sovereignty. Necessary computational resources close general access. AI might have a similar story to corporate dominance moves in open-source software, but some differences exist.
 https://www.nature.com/articles/s41586-024-08141-1
 11/ #365papers 
 
 In which the potential for the Kessler Syndrome (runaway debris growth in Earth's orbit rendering the space too dangerous/destructive for satellites and space travel) is examined and a framework for regulating/minimizing that. Mega-constellations (i.e. Starlink) have massively increased the risk. Will mandating shortening de-orbit rules be offset by the increased launches? Can spacecraft be strengthened to resist debris, and in turn create less debris?
 https://link.springer.com/article/10.1007/s40295-024-00458-3
 12/ #365papers 
+#####
+In which Kessler revisits the Kessler Syndrome and finding that (in 1991), many regions of low Earth orbit were already unstable due to space debris from old rockets and payloads and fragments from explosions. Future collisions have the potential to generate new fragments from collisions faster than atmosphereic drag could remove them. Being able to reverse this situation is unlikely.
+13/ #365papers 
+https://doi.org/10.1016/0273-1177(91)90543-S
 
 In which healthcare, in crisis particularly in the US and UK, could continue to degrade. With one path towards ever increasing efficiency, data collection, and technical mechanisation of healthcare, with increased involvement of retail and data corporations and lots of pharmaceuticals. Or the path (obviously favoured by the authors) to recognize the crisis as a crisis in care, requiring human responses and interactions. Going past what makes life possible to what makes living meaningful.
-13/ #365papers 
+14/ #365papers
 https://www.bmj.com/lookup/doi/10.1136/bmj.p464
+
+In which the information processing speed of the brain and how that impacts human behaviour is examined. Our senses work at a rate of 10^9 bits per second while the overall information throughput is 10 bits per second. 
+14/ #365papers
+https://www.cell.com/neuron/abstract/S0896-6273(24)00808-0
 
 08/01/25	8
 09/01/25	9

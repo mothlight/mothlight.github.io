@@ -16,6 +16,7 @@ S153268799,Graylag Goose,Anser anser,264,10,GB-ENG,London,L956644,Kew Royal Bota
 S206680467,Graylag Goose,Anser anser,264,1,GB-ENG,London,L3278538,Victoria Park (South Hackney),51.5357653,-.0402546,2006-05-28,,eBird - Casual Observation,,0
 S204734094,Graylag Goose,Anser anser,264,3,GB-ENG,London,L26421088,"Victoria Park, London, UK",51.533727,-.043818,2006-01-31,,eBird - Casual Observation,,0
 S147796212,Graylag Goose,Anser anser,264,25,NL-NH,,L26695322,"Amsterdam-Noord, NL",52.413234,4.902486,2019-05-02,,eBird - Casual Observation,,0
+S208943191,Graylag Goose,Anser anser,264,12,NO-12,,L39356477,"Leroyna, NO",60.2332075,5.1607322,2008-08-13,,eBird - Casual Observation,,0
 S153678499,Pink-footed Goose,Anser brachyrhynchus,299,50,NO-03,,L4872224,Ekebergparken,59.8954355,10.7677603,2008-08-24,,eBird - Casual Observation,,0
 S149604566,Domestic goose sp. (Domestic type),Anser sp. (Domestic type),300,2,AU-VIC,Boroondara,L2551856,Studley Park Boathouse,-37.80111,145.00779,2019-12-05,,eBird - Casual Observation,,0
 S206835296,Domestic goose sp. (Domestic type),Anser sp. (Domestic type),300,2,GB-ENG,London,L3326765,Hampstead Heath--Hampstead Ponds,51.5591672,-.1665437,2007-08-05,,eBird - Casual Observation,,0
@@ -54,6 +55,7 @@ S206811509,Canada Goose,Branta canadensis,330,1,GB-ENG,West Sussex,L38912594,"To
 S147793999,Hawaiian Goose,Branta sandvicensis,353,1,US-HI,Kauai,L856224,Ha'ena State Park (general),22.2202244,-159.5803642,2022-01-30,,eBird - Casual Observation,,0
 S147794655,Hawaiian Goose,Branta sandvicensis,353,4,US-HI,Kauai,L19347455,Princeville Makai Golf Course,22.2202636,-159.4802692,2022-01-31,,eBird - Casual Observation,,0
 S159482373,Cape Barren Goose,Cereopsis novaehollandiae,360,20,AU-VIC,Bass Coast,L2549788,Penguin Parade,-38.51031,145.15022,2024-01-06,,eBird - Casual Observation,,0
+S208056354,Cape Barren Goose,Cereopsis novaehollandiae,360,1,AU-TAS,King Island,L2548580,Yellow Rock Beach,-39.67706,143.91506,2015-11-29,,eBird - Casual Observation,,0
 S204775137,Mute Swan,Cygnus olor,365,5,ES-CT,Barcelona,L22091437,Barcelona--Platja de la Barceloneta,41.3783865,2.1924591,2005-11-09,,eBird - Casual Observation,,0
 S153286732,Mute Swan,Cygnus olor,365,1,GB-ENG,Cumbria,L5131652,Coniston Water--North End,54.3719186,-3.0547657,2019-05-10,,eBird - Casual Observation,,0
 S206683524,Mute Swan,Cygnus olor,365,3,GB-ENG,Essex,L5400797,Abberton Reservoir--Layer Breton Causeway,51.8149029,.827837,2006-10-29,,eBird - Casual Observation,,0
@@ -274,14 +276,17 @@ S152877738,Helmeted Guineafowl (Domestic type),Numida meleagris (Domestic type),
 S149474174,California Quail,Callipepla californica,1064,1,NZ-BOP,Tauranga City,L1190287,Mount Maunganui--Mauao (The Mount),-37.6312133,176.1713934,2009-04-21,,eBird - Casual Observation,,0
 S207245230,Wild Turkey,Meleagris gallopavo,1242,1,US-ME,Hancock,L39013807,"Baldwin Corners, ME",44.2464657,-68.3595992,2018-08-16,,eBird - Casual Observation,,0
 S193482806,Wild Turkey,Meleagris gallopavo,1242,1,US-HI,Hawaii,L36229882,"Puako Beach Drive, Hawaii, HI",19.9630638,-155.8552075,2024-08-19,,eBird - Casual Observation,,0
+S208037225,Wild Turkey,Meleagris gallopavo,1242,1,AU-TAS,King Island,L3938880,Grassy River,-40.04298,144.06133,2015-11-28,,eBird - Casual Observation,,0
 S160464729,Ring-necked Pheasant,Phasianus colchicus,1444,1,AU-WA,Cockburn,L940571,Rottnest Island,-32.0040765,115.5149853,2009-03-25,,eBird - Casual Observation,,0
 S160465145,Ring-necked Pheasant,Phasianus colchicus,1444,1,AU-WA,Cockburn,L940571,Rottnest Island,-32.0040765,115.5149853,2009-03-26,,eBird - Casual Observation,,0
+S208037225,Ring-necked Pheasant,Phasianus colchicus,1444,1,AU-TAS,King Island,L3938880,Grassy River,-40.04298,144.06133,2015-11-28,,eBird - Casual Observation,,0
 S199552138,Ring-necked Pheasant,Phasianus colchicus,1444,5,GB-WLS,Monmouthshire,L37463059,"Grosmont, UK",51.9179327,-2.8718183,2024-09-27,,eBird - Casual Observation,,0
 S199543853,Ring-necked Pheasant,Phasianus colchicus,1444,1,GB-ENG,Oxfordshire,L37461290,"Charlbury, UK",51.8554795,-1.4736424,2024-09-26,,eBird - Casual Observation,,0
 S199555949,Ring-necked Pheasant,Phasianus colchicus,1444,30,GB-WLS,Powys,L37463935,"Cnyffiad, Wales",52.1534793,-3.5869132,2024-10-01,,eBird - Casual Observation,,0
 S146560835,Ring-necked Pheasant,Phasianus colchicus,1444,1,GB-ENG,Wiltshire,L26422063,"Salisbury (Old Sarum), UK",51.090141,-1.812346,2007-04-09,,eBird - Casual Observation,,0
 S193494520,Kalij Pheasant,Lophura leucomelanos,1496,2,US-HI,Hawaii,L36232254,"Volcano, Hawaii, HI",19.4315113,-155.2232161,2024-08-21,,eBird - Casual Observation,,0
 S205440209,Siamese Fireback,Lophura diardi,1525,1,VN-39,,L10328984,Cat Tien National Park - Headquarters,11.4220245,107.4281014,2008-12-11,,eBird - Casual Observation,,0
+S208037225,Indian Peafowl,Pavo cristatus,1539,1,AU-TAS,King Island,L3938880,Grassy River,-40.04298,144.06133,2015-11-28,,eBird - Casual Observation,,0
 S147903164,Chinese Bamboo-Partridge,Bambusicola thoracicus,1582,X,CN-51,,L26717863,"Chengdu, Panda Research, CN",30.962194,103.590583,2008-11-11,,eBird - Casual Observation,,0
 S205440209,Red Junglefowl,Gallus gallus,1586,1,VN-39,,L10328984,Cat Tien National Park - Headquarters,11.4220245,107.4281014,2008-12-11,,eBird - Casual Observation,,0
 S193456147,Red Junglefowl (Domestic type),Gallus gallus (Domestic type),1592,2,US-HI,Kauai,L36223798,"Glass Beach, Kauai, HI",21.8981151,-159.584421,2024-08-15,,eBird - Casual Observation,,0
@@ -594,6 +599,7 @@ S153490269,Pied Oystercatcher,Haematopus longirostris,5734,8,AU-WA,Bayswater,L27
 S149044921,Pied Oystercatcher,Haematopus longirostris,5734,2,AU-NSW,Coffs Harbour,L7754735,"Jetty Beach, Coffs Harbour",-30.30586,153.1402593,2023-09-05,,eBird - Casual Observation,,0
 S152638471,Pied Oystercatcher,Haematopus longirostris,5734,1,AU-WA,Denmark,L3959292,William Bay National Park--Elephant Cove,-35.0249581,117.2379613,2019-10-23,,eBird - Casual Observation,,0
 S153192407,Pied Oystercatcher,Haematopus longirostris,5734,2,AU-WA,East Fremantle,L6465985,John Tonkin Reserve (East Fremantle),-32.0284014,115.7621911,2011-05-02,,eBird - Casual Observation,,0
+S208055041,Pied Oystercatcher,Haematopus longirostris,5734,1,AU-TAS,King Island,L3498210,Porky Beach (King Island),-39.8373432,143.8666105,2015-11-28,,eBird - Casual Observation,,0
 S207400312,Pied Oystercatcher,Haematopus longirostris,5734,2,AU-TAS,Kingborough,L23542202,Adventure Bay--Captain Cook Creek Mouth,-43.3674988,147.3404893,2011-02-16,,eBird - Casual Observation,,0
 S155067506,Pied Oystercatcher,Haematopus longirostris,5734,1,AU-WA,Manjimup,L28055723,"Nornalup Inlet, WA",-34.9781817,116.7252731,2016-03-31,,eBird - Casual Observation,,0
 S149963118,Pied Oystercatcher,Haematopus longirostris,5734,2,AU-VIC,Melbourne,L2081605,Westgate Park,-37.8311412,144.909153,2009-04-13,,eBird - Casual Observation,,0
@@ -607,6 +613,7 @@ S204113870,Sooty Oystercatcher,Haematopus fuliginosus,5739,2,AU-VIC,Corangamite,
 S159325152,Sooty Oystercatcher,Haematopus fuliginosus,5739,1,AU-TAS,Glamorgan/Spring Bay,L11895242,Freycinet National Park--Honeymoon Bay,-42.1369796,148.2986193,2024-01-12,,eBird - Casual Observation,,0
 S159325212,Sooty Oystercatcher,Haematopus fuliginosus,5739,2,AU-TAS,Glamorgan/Spring Bay,L2549543,Swansea,-42.12369,148.07235,2024-01-11,,eBird - Casual Observation,,0
 S152925489,Sooty Oystercatcher,Haematopus fuliginosus,5739,3,AU-WA,Jerramungup,L27658026,"Pallinup, WA",-34.4722245,118.9013527,2009-02-22,,eBird - Casual Observation,,0
+S208055041,Sooty Oystercatcher,Haematopus fuliginosus,5739,1,AU-TAS,King Island,L3498210,Porky Beach (King Island),-39.8373432,143.8666105,2015-11-28,,eBird - Casual Observation,,0
 S150215847,Sooty Oystercatcher,Haematopus fuliginosus,5739,2,AU-VIC,Mornington Peninsula,L2550141,Mornington Peninsula National Park--Fingal Beach,-38.47111,144.88088,2018-06-23,,eBird - Casual Observation,,0
 S154242620,Sooty Oystercatcher,Haematopus fuliginosus,5739,1,AU-VIC,South Gippsland,L5133303,Wilsons Promontory National Park--South-East Point,-39.1297046,146.4245045,2010-11-14,,eBird - Casual Observation,,0
 S150162950,Pacific Golden-Plover,Pluvialis fulva,5759,1,AU-QLD,Cairns,L930524,Cairns Esplanade,-16.9166305,145.7749471,2012-10-26,,eBird - Casual Observation,,0
@@ -618,6 +625,7 @@ S150618278,Killdeer,Charadrius vociferus,5770,1,US-CO,Douglas,L26489822,"Highlan
 S207909770,Killdeer,Charadrius vociferus,5770,1,US-WY,Teton,L6176864,Fairy Falls Trail,44.5153335,-110.832485,2012-07-26,,eBird - Casual Observation,,0
 S146456927,Hooded Plover,Thinornis cucullatus,5780,15,AU-WA,Albany,L26396201,"Robinson, Albany, WA",-35.037095,117.84903,2022-10-21,05:15 PM,eBird - Stationary Count,20,1,,,1,,Shallows of Frenchmans Bay,,600370411
 S152925941,Hooded Plover,Thinornis cucullatus,5780,2,AU-WA,Jerramungup,L27658026,"Pallinup, WA",-34.4722245,118.9013527,2009-02-23,,eBird - Casual Observation,,0
+S208055041,Hooded Plover,Thinornis cucullatus,5780,1,AU-TAS,King Island,L3498210,Porky Beach (King Island),-39.8373432,143.8666105,2015-11-28,,eBird - Casual Observation,,0
 S150214823,Hooded Plover,Thinornis cucullatus,5780,1,AU-VIC,Mornington Peninsula,L2547633,Mornington Peninsula National Park--St Andrews Beach,-38.41531,144.81855,2017-01-21,,eBird - Casual Observation,,0
 S150162950,Black-fronted Dotterel,Thinornis melanops,5781,1,AU-QLD,Cairns,L930524,Cairns Esplanade,-16.9166305,145.7749471,2012-10-26,,eBird - Casual Observation,,0
 S203518601,Black-fronted Dotterel,Thinornis melanops,5781,1,AU-NT,MacDonnell,L3256152,Tjoritja / West MacDonnell National Park--Ormiston Gorge Ghost Gum track,-23.6288021,132.7260597,2016-09-11,,eBird - Casual Observation,,0
@@ -632,6 +640,7 @@ S150055247,Masked Lapwing,Vanellus miles,5830,1,AU-NSW,Sydney,L6009560,Sydney Op
 S160464729,Greater Sand-Plover,Anarhynchus leschenaultii,5855,1,AU-WA,Cockburn,L940571,Rottnest Island,-32.0040765,115.5149853,2009-03-25,,eBird - Casual Observation,,0
 S149502246,Double-banded Plover,Anarhynchus bicinctus,5860,2,NZ-AUK,Rodney District,L1014714,Tiritiri Matangi--general,-36.6007143,174.89007,2009-04-24,,eBird - Casual Observation,,0
 S149502246,Red-breasted Dotterel,Anarhynchus obscurus,5864,1,NZ-AUK,Rodney District,L1014714,Tiritiri Matangi--general,-36.6007143,174.89007,2009-04-24,,eBird - Casual Observation,,0
+S208056354,Red-capped Plover,Anarhynchus ruficapillus,5879,6,AU-TAS,King Island,L2548580,Yellow Rock Beach,-39.67706,143.91506,2015-11-29,,eBird - Casual Observation,,0
 S149963118,Red-capped Plover,Anarhynchus ruficapillus,5879,1,AU-VIC,Melbourne,L2081605,Westgate Park,-37.8311412,144.909153,2009-04-13,,eBird - Casual Observation,,0
 S146469887,Comb-crested Jacana,Irediparra gallinacea,5940,1,AU-NT,West Arnhem,L26399411,"Anbangbang Billabong, Kakadu, NT",-12.865221,132.797543,2023-07-29,11:00 AM,eBird - Stationary Count,30,1,,,1
 S150162950,Whimbrel,Numenius phaeopus,5951,1,AU-QLD,Cairns,L930524,Cairns Esplanade,-16.9166305,145.7749471,2012-10-26,,eBird - Casual Observation,,0
@@ -949,6 +958,7 @@ S154719710,Australasian Grebe,Tachybaptus novaehollandiae,6762,1,AU-NT,MacDonnel
 S153687348,Australasian Grebe,Tachybaptus novaehollandiae,6762,1,AU-VIC,Merri-bek,L2550718,Merri Creek--Bell St-Newlands Rd,-37.73697,144.97723,2023-11-04,,eBird - Casual Observation,,0
 S203926946,Pied-billed Grebe,Podilymbus podiceps,6776,1,US-CO,Arapahoe,L1817902,South Platte River--West Bowles Ave to S. Prince St,39.6155126,-105.0215812,2010-06-23,,eBird - Casual Observation,,0
 S153430358,Hoary-headed Grebe,Poliocephalus poliocephalus,6781,2,AU-WA,Albany,L4835655,Lake Powell Nature Reserve,-35.0186801,117.7467012,2011-04-24,,eBird - Casual Observation,,0
+S208037225,Hoary-headed Grebe,Poliocephalus poliocephalus,6781,1,AU-TAS,King Island,L3938880,Grassy River,-40.04298,144.06133,2015-11-28,,eBird - Casual Observation,,0
 S152888876,Great Crested Grebe,Podiceps cristatus,6793,1,SE-AB,,L27651614,"Finnhamn, SE",59.4787348,18.8186129,2008-09-02,,eBird - Casual Observation,,0
 S147795538,Great Crested Grebe,Podiceps cristatus,6793,1,NL-NH,,L7961965,Kalverpolder,52.4779655,4.8183401,2019-05-02,,eBird - Casual Observation,,0
 S147794655,White-tailed Tropicbird,Phaethon lepturus,6829,1,US-HI,Kauai,L19347455,Princeville Makai Golf Course,22.2202636,-159.4802692,2022-01-31,,eBird - Casual Observation,,0
@@ -1136,6 +1146,7 @@ S155144081,White-faced Heron,Egretta novaehollandiae,7573,1,AU-QLD,Cassowary Coa
 S148838355,White-faced Heron,Egretta novaehollandiae,7573,1,AU-NSW,Coffs Harbour,L7754735,"Jetty Beach, Coffs Harbour",-30.30586,153.1402593,2023-09-03,,eBird - Casual Observation,,0
 S157439721,White-faced Heron,Egretta novaehollandiae,7573,1,AU-VIC,Darebin,L12004255,Strettle Wetland Reserve,-37.7523142,144.9826629,2023-10-21,,eBird - Casual Observation,,0
 S149499790,White-faced Heron,Egretta novaehollandiae,7573,1,NZ-WKO,Hauraki District,L3448871,Miranda--'Stilt Hide' & pools,-37.1791153,175.3218019,2009-04-23,,eBird - Casual Observation,,0
+S208056354,White-faced Heron,Egretta novaehollandiae,7573,1,AU-TAS,King Island,L2548580,Yellow Rock Beach,-39.67706,143.91506,2015-11-29,,eBird - Casual Observation,,0
 S154729890,White-faced Heron,Egretta novaehollandiae,7573,1,AU-NT,MacDonnell,L2386631,Tjoritja / West MacDonnell National Park--Ellery Creek Big Hole,-23.776548,133.073273,2016-09-09,,eBird - Casual Observation,,0
 S203509202,White-faced Heron,Egretta novaehollandiae,7573,1,AU-NT,MacDonnell,L921757,Tjoritja / West MacDonnell National Park--Ormiston Gorge,-23.6315018,132.7272763,2016-09-10,,eBird - Casual Observation,,0
 S150215847,White-faced Heron,Egretta novaehollandiae,7573,1,AU-VIC,Mornington Peninsula,L2550141,Mornington Peninsula National Park--Fingal Beach,-38.47111,144.88088,2018-06-23,,eBird - Casual Observation,,0
@@ -1263,6 +1274,7 @@ S147907293,Eurasian Sparrowhawk,Accipiter nisus,8150,X,CN-51,,L26718824,"Yujiazh
 S155633364,Cooper's Hawk,Astur cooperii,8183,1,US-WA,Grays Harbor,L1745170,Lake Quinalt,47.4738026,-123.8695795,2013-06-22,,eBird - Casual Observation,,0
 S204584590,Swamp Harrier,Circus approximans,8219,1,AU-WA,Albany,L38452574,"Point Posession, Albany, WA",-35.057379,117.926463,2022-10-16,,eBird - Casual Observation,,0
 S149499790,Swamp Harrier,Circus approximans,8219,1,NZ-WKO,Hauraki District,L3448871,Miranda--'Stilt Hide' & pools,-37.1791153,175.3218019,2009-04-23,,eBird - Casual Observation,,0
+S208055041,Swamp Harrier,Circus approximans,8219,1,AU-TAS,King Island,L3498210,Porky Beach (King Island),-39.8373432,143.8666105,2015-11-28,,eBird - Casual Observation,,0
 S153908261,Swamp Harrier,Circus approximans,8219,1,AU-VIC,Mornington Peninsula,L2078092,Mornington Peninsula National Park--Cape Schanck,-38.4932347,144.8882103,2010-09-19,,eBird - Casual Observation,,0
 S149502246,Swamp Harrier,Circus approximans,8219,1,NZ-AUK,Rodney District,L1014714,Tiritiri Matangi--general,-36.6007143,174.89007,2009-04-24,,eBird - Casual Observation,,0
 S149474174,Swamp Harrier,Circus approximans,8219,1,NZ-BOP,Tauranga City,L1190287,Mount Maunganui--Mauao (The Mount),-37.6312133,176.1713934,2009-04-21,,eBird - Casual Observation,,0
@@ -1307,6 +1319,7 @@ S155144081,White-bellied Sea-Eagle,Icthyophaga leucogaster,8280,1,AU-QLD,Cassowa
 S146288865,White-bellied Sea-Eagle,Icthyophaga leucogaster,8280,1,AU-NT,Darwin,L26357765,"East Point, Darwin, NT",-12.4140388,130.8206198,2023-07-23,,Historical,,1
 S152638471,White-bellied Sea-Eagle,Icthyophaga leucogaster,8280,1,AU-WA,Denmark,L3959292,William Bay National Park--Elephant Cove,-35.0249581,117.2379613,2019-10-23,,eBird - Casual Observation,,0
 S207392435,White-bellied Sea-Eagle,Icthyophaga leucogaster,8280,1,AU-TAS,Glamorgan/Spring Bay,L3489006,Freycinet National Park--Richardsons Beach and Campground,-42.1291981,148.3010101,2011-02-13,,eBird - Casual Observation,,0
+S208055041,White-bellied Sea-Eagle,Icthyophaga leucogaster,8280,1,AU-TAS,King Island,L3498210,Porky Beach (King Island),-39.8373432,143.8666105,2015-11-28,,eBird - Casual Observation,,0
 S155067506,White-bellied Sea-Eagle,Icthyophaga leucogaster,8280,1,AU-WA,Manjimup,L28055723,"Nornalup Inlet, WA",-34.9781817,116.7252731,2016-03-31,,eBird - Casual Observation,,0
 S146534445,White-bellied Sea-Eagle,Icthyophaga leucogaster,8280,1,AU-NT,Roper Gulf,L26415472,"Katherine Gorge, NT",-14.308795,132.436122,2023-07-30,10:00 AM,eBird - Casual Observation,,0
 S146469045,White-bellied Sea-Eagle,Icthyophaga leucogaster,8280,1,AU-NT,West Arnhem,L26399214,"East Alligator River, Kakadu, NT",-12.438501,132.973694,2023-07-28,11:00 AM,eBird - Casual Observation,,0,,,1
@@ -1555,6 +1568,7 @@ S152796308,Australian Ringneck,Barnardius zonarius,12354,1,AU-WA,Manjimup,L45414
 S149614610,Australian Ringneck,Barnardius zonarius,12354,1,AU-WA,Mundaring,L935256,John Forrest National Park,-31.8850791,116.0937309,2012-09-29,,eBird - Casual Observation,,0
 S159325011,Green Rosella,Platycercus caledonicus,12361,1,AU-TAS,Central Highlands,L28856953,"Interlaken, TAS",-42.1313071,147.0718991,2024-01-13,,eBird - Casual Observation,,0,,,,,,,613748984
 S207392174,Green Rosella,Platycercus caledonicus,12361,1,AU-TAS,Glamorgan/Spring Bay,L4531807,Freycinet National Park--Little Richardsons Beach,-42.1248694,148.2956135,2011-02-13,,eBird - Casual Observation,,0
+S208037225,Green Rosella,Platycercus caledonicus,12361,1,AU-TAS,King Island,L3938880,Grassy River,-40.04298,144.06133,2015-11-28,,eBird - Casual Observation,,0
 S207400449,Green Rosella,Platycercus caledonicus,12361,1,AU-TAS,Kingborough,L39047567,"Adventure Bay, Bruny Island, TAS",-43.3667458,147.3595737,2011-02-17,,eBird - Casual Observation,,0
 S154270131,Crimson Rosella,Platycercus elegans,12362,2,AU-VIC,Alpine,L13392778,Headrace Flat Campground (Buckland),-36.9474613,146.9308463,2010-12-28,,eBird - Casual Observation,,0
 S154270215,Crimson Rosella,Platycercus elegans,12362,1,AU-VIC,Alpine,L2552125,Mount Buffalo National Park--The Chalet,-36.72227,146.8198,2010-12-29,,eBird - Casual Observation,,0
@@ -1712,6 +1726,7 @@ S207392435,Superb Fairywren,Malurus cyaneus,17490,1,AU-TAS,Glamorgan/Spring Bay,
 S207700056,Superb Fairywren,Malurus cyaneus,17490,3,AU-VIC,Greater Geelong,L3119449,Brisbane Ranges National Park--Anakie Gorge Picnic Ground,-37.86047,144.2719,2018-02-17,,eBird - Casual Observation,,0
 S159986128,Superb Fairywren,Malurus cyaneus,17490,2,AU-VIC,Hume,L1204242,Woodlands Historic Park,-37.6364743,144.8455524,2020-10-31,,eBird - Casual Observation,,0
 S153837758,Superb Fairywren,Malurus cyaneus,17490,1,AU-VIC,Indigo,L2541984,Chiltern-Mt Pilot National Park--Honeyeater Picnic Ground,-36.1591056,146.6416501,2010-04-25,,eBird - Casual Observation,,0
+S208056354,Superb Fairywren,Malurus cyaneus,17490,1,AU-TAS,King Island,L2548580,Yellow Rock Beach,-39.67706,143.91506,2015-11-29,,eBird - Casual Observation,,0
 S160436690,Superb Fairywren,Malurus cyaneus,17490,1,AU-VIC,South Gippsland,L2548713,Wilsons Promontory National Park--Refuge Cove,-39.04167,146.46556,2011-03-12,,eBird - Casual Observation,,0
 S147561746,Superb Fairywren,Malurus cyaneus,17490,4,AU-VIC,Warrnambool,L2547793,Lake Pertobe,-38.3901,142.47636,2021-07-03,,eBird - Casual Observation,,0
 S158495042,Superb Fairywren,Malurus cyaneus,17490,1,AU-VIC,Yarra Ranges,L28711079,"Olinda Falls, VIC",-37.8401274,145.3695885,2024-01-09,,eBird - Casual Observation,,0
@@ -1823,6 +1838,7 @@ S149657908,Red Wattlebird,Anthochaera carunculata,17681,1,AU-WA,Perth,L1002718,K
 S149614709,Red Wattlebird,Anthochaera carunculata,17681,1,AU-WA,Perth,L1002718,Kings Park (Perth),-31.9638137,115.8340073,2010-11-23,,eBird - Casual Observation,,0
 S159571814,Red Wattlebird,Anthochaera carunculata,17681,2,AU-VIC,Surf Coast,L5092652,Urquhart Bluff,-38.4377444,144.1304648,2023-12-18,,eBird - Casual Observation,,0
 S147114357,Red Wattlebird,Anthochaera carunculata,17681,2,AU-ACT,,L921571,Australian National Botanic Gardens,-35.2780499,149.1101575,2023-08-13,,eBird - Casual Observation,,0
+S208056354,Yellow Wattlebird,Anthochaera paradoxa,17685,1,AU-TAS,King Island,L2548580,Yellow Rock Beach,-39.67706,143.91506,2015-11-29,,eBird - Casual Observation,,0
 S146456064,Singing Honeyeater,Gavicalis virescens,17695,2,AU-WA,Albany,L26395751,"Gledhow, WA",-35.007688,117.841724,2022-10-19,01:17 PM,eBird - Stationary Count,20,1,,,1
 S149658446,Singing Honeyeater,Gavicalis virescens,17695,1,AU-WA,Fremantle,L26647883,"Hamilton Hill, WA",-32.073139,115.781256,2009-03-18,,eBird - Casual Observation,,0
 S149657628,Singing Honeyeater,Gavicalis virescens,17695,1,AU-WA,Joondalup,L1782029,Ocean Reef Boat Harbour,-31.7615512,115.7280653,2019-08-27,,eBird - Casual Observation,,0
@@ -1839,6 +1855,7 @@ S154712790,White-plumed Honeyeater,Ptilotula penicillata,17702,1,AU-NT,MacDonnel
 S149963118,White-plumed Honeyeater,Ptilotula penicillata,17702,2,AU-VIC,Melbourne,L2081605,Westgate Park,-37.8311412,144.909153,2009-04-13,,eBird - Casual Observation,,0
 S154645947,Gray-headed Honeyeater,Ptilotula keartlandi,17713,3,AU-NT,MacDonnell,L4979070,Uluru-Kata Tjuta National Park--Mala walk,-25.3415001,131.024572,2016-09-05,,eBird - Casual Observation,,0,,,,,2 chicks and adult,,611243615
 S154641399,Gray-headed Honeyeater,Ptilotula keartlandi,17713,1,AU-NT,MacDonnell,L16439235,Uluru-Kata Tjuta National Park--North-east face walk,-25.3361789,131.0455218,2016-09-04,,eBird - Casual Observation,,0
+S208056354,White-fronted Chat,Epthianura albifrons,17733,1,AU-TAS,King Island,L2548580,Yellow Rock Beach,-39.67706,143.91506,2015-11-29,,eBird - Casual Observation,,0
 S154710393,Black Honeyeater,Sugomel nigrum,17758,1,AU-NT,MacDonnell,L1237990,Uluru-Kata Tjuta National Park--Car sunset viewing,-25.3378979,131.0053968,2016-09-06,,eBird - Casual Observation,,0
 S149217464,Scarlet Myzomela,Myzomela sanguinolenta,17820,1,AU-NSW,Coffs Harbour,L2537025,North Coast Regional Botanic Garden (Coffs Harbour),-30.29632,153.12424,2023-09-06,,eBird - Casual Observation,,0
 S153198983,Brown Honeyeater,Lichmera indistincta,17895,1,AU-WA,Albany,L26395751,"Gledhow, WA",-35.007688,117.841724,2014-01-01,,eBird - Casual Observation,,0
@@ -1869,6 +1886,7 @@ S151457200,New Holland Honeyeater,Phylidonyris novaehollandiae,17918,3,AU-WA,Den
 S152364782,New Holland Honeyeater,Phylidonyris novaehollandiae,17918,1,AU-WA,Fremantle,L26647883,"Hamilton Hill, WA",-32.073139,115.781256,2023-10-16,09:14 AM,eBird - Stationary Count,20,1,,,2
 S202597220,New Holland Honeyeater,Phylidonyris novaehollandiae,17918,1,AU-WA,Fremantle,L26647883,"Hamilton Hill, WA",-32.073139,115.781256,2024-04-11,,eBird - Casual Observation,,0
 S153357822,New Holland Honeyeater,Phylidonyris novaehollandiae,17918,1,AU-VIC,Greater Geelong,L4013486,Ocean Grove Park,-38.2654,144.52394,2019-02-22,,eBird - Casual Observation,,0
+S208056354,New Holland Honeyeater,Phylidonyris novaehollandiae,17918,1,AU-TAS,King Island,L2548580,Yellow Rock Beach,-39.67706,143.91506,2015-11-29,,eBird - Casual Observation,,0
 S149584806,New Holland Honeyeater,Phylidonyris novaehollandiae,17918,1,AU-SA,Mount Barker,L27018662,"Hahndorf, SA",-35.0298,138.809155,2009-11-07,,eBird - Casual Observation,,0
 S155056705,New Holland Honeyeater,Phylidonyris novaehollandiae,17918,1,AU-VIC,Northern Grampians,L11129325,Gramipans National Park--Pinnacle Lookout,-37.1601113,142.5152493,2019-09-13,,eBird - Casual Observation,,0
 S153504749,New Holland Honeyeater,Phylidonyris novaehollandiae,17918,1,AU-VIC,Northern Grampians,L2550467,Grampians National Park--Golton Gorge,-36.92417,142.42778,2010-09-26,,eBird - Casual Observation,,0
@@ -1954,6 +1972,7 @@ S154270215,Gray Shrikethrush,Colluricincla harmonica,19116,1,AU-VIC,Alpine,L2552
 S149033637,Gray Shrikethrush,Colluricincla harmonica,19116,1,AU-NSW,Coffs Harbour,L2996535,Coffs Coast Regional Park--Macauleys Headland,-30.2786057,153.1422117,2023-09-05,,eBird - Casual Observation,,0
 S204213973,Gray Shrikethrush,Colluricincla harmonica,19116,1,AU-VIC,Colac-Otway,L7490073,Apollo Bay Headland,-38.7615,143.6797276,2011-09-26,,eBird - Casual Observation,,0
 S154328870,Gray Shrikethrush,Colluricincla harmonica,19116,1,AU-VIC,Falls Creek,L27923707,"Falls Creek, VIC",-36.8714399,147.2635696,2012-04-07,,eBird - Casual Observation,,0
+S208054559,Gray Shrikethrush,Colluricincla harmonica,19116,1,AU-TAS,King Island,L4345540,Seal Rocks Reserve,-40.0985348,143.8839912,2015-11-28,,eBird - Casual Observation,,0
 S154729890,Gray Shrikethrush,Colluricincla harmonica,19116,1,AU-NT,MacDonnell,L2386631,Tjoritja / West MacDonnell National Park--Ellery Creek Big Hole,-23.776548,133.073273,2016-09-09,,eBird - Casual Observation,,0
 S152877738,Gray Shrikethrush,Colluricincla harmonica,19116,1,AU-VIC,Macedon Ranges,L27649194,"Forest Glade, Mount Macedon, VIC",-37.391641,144.5960426,2015-11-01,,eBird - Casual Observation,,0
 S153908261,Gray Shrikethrush,Colluricincla harmonica,19116,1,AU-VIC,Mornington Peninsula,L2078092,Mornington Peninsula National Park--Cape Schanck,-38.4932347,144.8882103,2010-09-19,,eBird - Casual Observation,,0
@@ -1997,6 +2016,7 @@ S147644155,Gray Butcherbird,Cracticus torquatus,19552,1,AU-VIC,Darebin,L26660256
 S147644089,Gray Butcherbird,Cracticus torquatus,19552,1,AU-VIC,Darebin,L26660256,"Clinick St, Reservoir, VIC",-37.72046,144.998878,2014-08-07,,eBird - Casual Observation,,0
 S147642396,Gray Butcherbird,Cracticus torquatus,19552,2,AU-VIC,Darebin,L26660256,"Clinick St, Reservoir, VIC",-37.72046,144.998878,2014-11-24,,eBird - Casual Observation,,0
 S147642284,Gray Butcherbird,Cracticus torquatus,19552,1,AU-VIC,Darebin,L26660256,"Clinick St, Reservoir, VIC",-37.72046,144.998878,2014-12-03,,eBird - Casual Observation,,0
+S208025496,Gray Butcherbird,Cracticus torquatus,19552,1,AU-VIC,Darebin,L26660256,"Clinick St, Reservoir, VIC",-37.72046,144.998878,2016-11-23,,eBird - Casual Observation,,0
 S158495059,Gray Butcherbird,Cracticus torquatus,19552,1,AU-VIC,Darebin,L7860810,"Hutton Street, Thornbury, Victoria, AU",-37.7550051,144.9902195,2024-01-09,,eBird - Casual Observation,,0
 S199183755,Gray Butcherbird,Cracticus torquatus,19552,1,AU-VIC,Darebin,L7860810,"Hutton Street, Thornbury, Victoria, AU",-37.7550051,144.9902195,2024-10-15,07:07 PM,eBird - Stationary Count,20,1,,,2
 S153220115,Gray Butcherbird,Cracticus torquatus,19552,1,AU-QLD,Sunshine Coast,L27713422,"Twin Waters, QLD",-26.6209712,153.0879367,2014-06-10,,eBird - Casual Observation,,0
@@ -2030,6 +2050,7 @@ S152795132,Australian Magpie,Gymnorhina tibicen,19572,2,AU-VIC,Darebin,L27632783
 S153111059,Australian Magpie,Gymnorhina tibicen,19572,2,AU-WA,Denmark,L2541942,Parry's Beach,-35.04028,117.15611,2009-02-10,,eBird - Casual Observation,,0
 S148012545,Australian Magpie,Gymnorhina tibicen,19572,1,AU-WA,Fremantle,L12564577,Parmelia Park (South Fremantle),-32.0723632,115.7555082,2009-01-19,,eBird - Casual Observation,,0
 S203422443,Australian Magpie,Gymnorhina tibicen,19572,1,AU-VIC,Greater Geelong,L2548954,Ocean Grove Nature Reserve,-38.2466655,144.5287393,2019-02-24,,eBird - Casual Observation,,0
+S208056354,Australian Magpie,Gymnorhina tibicen,19572,1,AU-TAS,King Island,L2548580,Yellow Rock Beach,-39.67706,143.91506,2015-11-29,,eBird - Casual Observation,,0
 S203516909,Australian Magpie,Gymnorhina tibicen,19572,1,AU-NT,MacDonnell,L2314998,Glen Helen Resort,-23.685737,132.6735055,2016-09-11,,eBird - Casual Observation,,0
 S154729890,Australian Magpie,Gymnorhina tibicen,19572,1,AU-NT,MacDonnell,L2386631,Tjoritja / West MacDonnell National Park--Ellery Creek Big Hole,-23.776548,133.073273,2016-09-09,,eBird - Casual Observation,,0
 S146871929,Australian Magpie,Gymnorhina tibicen,19572,3,AU-VIC,Melbourne,L26493323,"Fitzroy Garden, Melbourne, VIC",-37.81298,144.980578,2022-06-18,,eBird - Casual Observation,,0
@@ -2260,6 +2281,7 @@ S147878103,Little Raven,Corvus mellori,21387,1,AU-VIC,Darebin,L26679355,"Staffor
 S152712816,Little Raven,Corvus mellori,21387,1,AU-VIC,Merri-bek,L7577708,Joe's Market Garden (CERES),-37.7457982,144.9807519,2023-10-21,10:45 AM,eBird - Stationary Count,20,1,,,2
 S207401276,Forest Raven,Corvus tasmanicus,21388,1,AU-TAS,Central Highlands,L2549547,Lake St Clair Visitor Centre,-42.11617,146.17434,2011-02-18,,eBird - Casual Observation,,0
 S159985256,Forest Raven,Corvus tasmanicus,21388,1,AU-VIC,Corangamite,L2549103,Gibson Steps,-38.67251,143.11563,2023-12-19,,eBird - Casual Observation,,0
+S208037225,Forest Raven,Corvus tasmanicus,21388,1,AU-TAS,King Island,L3938880,Grassy River,-40.04298,144.06133,2015-11-28,,eBird - Casual Observation,,0
 S160442418,Forest Raven,Corvus tasmanicus,21388,1,AU-VIC,South Gippsland,L2870162,Wilsons Promontory National Park--Oberon Bay,-39.0654479,146.342783,2011-03-14,,eBird - Casual Observation,,0
 S153299970,Common Raven,Corvus corax,21400,2,US-AK,Hoonah-Angoon Census Area,L3835920,Hoonah (town),58.1070011,-135.4426503,2013-06-11,,eBird - Casual Observation,,0
 S153688037,Common Raven,Corvus corax,21400,1,US-WA,King,L331426,Saltwater SP,47.3733968,-122.3236098,2013-06-28,,eBird - Casual Observation,,0
@@ -2332,6 +2354,7 @@ S204662697,Great Tit,Parus major,21951,1,DK-84,,L4681164,Assistens Kirkegard,55.
 S147903164,Asian Tit,Parus cinereus,21969,X,CN-51,,L26717863,"Chengdu, Panda Research, CN",30.962194,103.590583,2008-11-11,,eBird - Casual Observation,,0
 S147907293,Asian Tit,Parus cinereus,21969,X,CN-51,,L26718824,"Yujiazhang, CN",30.011817,102.20135,2008-11-13,,eBird - Casual Observation,,0
 S147904138,Asian Tit,Parus cinereus,21969,X,CN-51,,L26718139,"Zhendou mountain, CN",30.112638,101.800206,2008-11-13,,eBird - Casual Observation,,0
+S208056354,Eurasian Skylark,Alauda arvensis,22389,1,AU-TAS,King Island,L2548580,Yellow Rock Beach,-39.67706,143.91506,2015-11-29,,eBird - Casual Observation,,0
 S147904138,Oriental Skylark,Alauda gulgula,22406,X,CN-51,,L26718139,"Zhendou mountain, CN",30.112638,101.800206,2008-11-13,,eBird - Casual Observation,,0
 S205198554,Common Tailorbird,Orthotomus sutorius,22921,1,VN-39,,L10946045,Cat Tien NP--Giant Tung Tree Trail,11.4301498,107.4273704,2008-12-10,,eBird - Casual Observation,,0
 S203516909,Australian Reed Warbler,Acrocephalus australis,23500,1,AU-NT,MacDonnell,L2314998,Glen Helen Resort,-23.685737,132.6735055,2016-09-11,,eBird - Casual Observation,,0
@@ -2355,6 +2378,7 @@ S193487866,Welcome Swallow,Hirundo neoxena,23954,1,AU-VIC,Darebin,L36231012,"Keo
 S152793527,Welcome Swallow,Hirundo neoxena,23954,12,AU-VIC,Darebin,L12004255,Strettle Wetland Reserve,-37.7523142,144.9826629,2023-10-22,11:07 AM,eBird - Stationary Count,20,1,,,2
 S160461036,Welcome Swallow,Hirundo neoxena,23954,1,AU-WA,Fremantle,L3177581,Offshore--Fremantle-Rottnest Island Ferry,-32.0417339,115.6656075,2009-03-25,,eBird - Casual Observation,,0
 S159325212,Welcome Swallow,Hirundo neoxena,23954,2,AU-TAS,Glamorgan/Spring Bay,L2549543,Swansea,-42.12369,148.07235,2024-01-11,,eBird - Casual Observation,,0
+S208056354,Welcome Swallow,Hirundo neoxena,23954,1,AU-TAS,King Island,L2548580,Yellow Rock Beach,-39.67706,143.91506,2015-11-29,,eBird - Casual Observation,,0
 S149599322,Welcome Swallow,Hirundo neoxena,23954,3,AU-VIC,Knox,L3275448,Police Rd Retarding Basin,-37.9323175,145.2144313,2010-09-22,,eBird - Casual Observation,,0
 S207386445,Welcome Swallow,Hirundo neoxena,23954,1,AU-TAS,Meander Valley,L2550094,Deloraine,-41.5237,146.66124,2011-02-12,,eBird - Casual Observation,,0
 S149609352,Welcome Swallow,Hirundo neoxena,23954,1,AU-VIC,Melbourne,L919153,Royal Botanic Gardens Melbourne,-37.8297966,144.9805232,2014-10-05,,eBird - Casual Observation,,0
@@ -2623,6 +2647,7 @@ S146561385,House Sparrow,Passer domesticus,31261,3,GB-ENG,Northumberland,L264222
 S199555780,House Sparrow,Passer domesticus,31261,1,GB-WLS,Powys,L37463837,"Victoria Road, Llanwrtyd Wells, Wales",52.1075191,-3.6478793,2024-10-01,,eBird - Casual Observation,,0
 S149474174,House Sparrow,Passer domesticus,31261,1,NZ-BOP,Tauranga City,L1190287,Mount Maunganui--Mauao (The Mount),-37.6312133,176.1713934,2009-04-21,,eBird - Casual Observation,,0
 S206155790,House Sparrow,Passer domesticus,31261,20,KH-17,,L38762887,"Green Lodge Hotel, Siem Reap, KH",13.3589957,103.8494364,2008-12-20,,eBird - Casual Observation,,0
+S208943402,House Sparrow,Passer domesticus,31261,10,NO-03,,L26479815,"Oslo, NO",59.89804,10.773384,2008-08-26,,eBird - Casual Observation,,0
 S202586427,House Sparrow,Passer domesticus,31261,4,TR-34,,L10250196,Sultanahmet Meydanı,41.0072118,28.978311,2024-10-12,,eBird - Casual Observation,,0
 S202186118,House Sparrow,Passer domesticus,31261,2,TR-34,,L37976799,"Taksim Square, Istanbul, TR",41.037472,28.9866994,2024-10-11,,eBird - Casual Observation,,0
 S147907293,Russet Sparrow,Passer cinnamomeus,31291,X,CN-51,,L26718824,"Yujiazhang, CN",30.011817,102.20135,2008-11-13,,eBird - Casual Observation,,0
