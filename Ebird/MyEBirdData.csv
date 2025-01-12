@@ -187,6 +187,7 @@ S204875426,Mallard,Anas platyrhynchos,525,1,GB-ENG,London,L12584491,Limehouse Ba
 S206841752,Mallard,Anas platyrhynchos,525,1,GB-ENG,London,L5824756,Regent's Canal at Vyner Street,51.535067,-.055347,2008-03-28,,eBird - Casual Observation,,0
 S206834759,Mallard,Anas platyrhynchos,525,7,GB-ENG,London,L6771343,Shadwell Basin,51.5083017,-.0539017,2007-06-22,,eBird - Casual Observation,,0
 S153275161,Mallard,Anas platyrhynchos,525,4,GB-ENG,London,L945563,"St James's Park (do not list Barnacle Goose, Shelduck and other captive birds)",51.5031329,-.1338959,2019-05-08,,eBird - Casual Observation,,0
+S209073308,Mallard,Anas platyrhynchos,525,2,FR-OCC,Lot,L39384984,"Cabrerets, FR",44.506127,1.6533261,2015-07-28,,eBird - Casual Observation,,0
 S206839757,Mallard,Anas platyrhynchos,525,4,US-OH,Montgomery,L38918923,"Miami Villa, Dayton. OH",39.8524473,-84.1962047,2007-09-18,,eBird - Casual Observation,,0
 S204652920,Mallard,Anas platyrhynchos,525,10,GB-ENG,Northumberland,L8087774,"Holy Island--Village, Heugh and Harbour area",55.6702253,-1.8000461,2019-05-15,,eBird - Casual Observation,,0
 S146666697,Mallard,Anas platyrhynchos,525,2,GB-SCT,Perthshire and Kinross,L26446614,"Loch Tay, UK",56.578071,-3.999389,2008-05-12,,eBird - Casual Observation,,0
@@ -229,6 +230,7 @@ S149963118,Hardhead,Aythya australis,660,2,AU-VIC,Melbourne,L2081605,Westgate Pa
 S152888759,Tufted Duck,Aythya fuligula,662,3,SE-AB,,L27651614,"Finnhamn, SE",59.4787348,18.8186129,2008-08-31,,eBird - Casual Observation,,0
 S204665273,Tufted Duck,Aythya fuligula,662,1,DK-84,,L1322454,Helsingør--Kronborg Slot,56.0385823,12.6196861,2019-04-28,,eBird - Casual Observation,,0
 S152888522,Tufted Duck,Aythya fuligula,662,1,SE-AB,,L16347776,"Villa Godthem, Södra Djurgården",59.3291111,18.100081,2008-08-31,,eBird - Casual Observation,,0
+S209076150,Tufted Duck,Aythya fuligula,662,5,RU-MOW,,L7215385,Фрунзенская набережная (Frunzenskaya Embankment),55.733085,37.596503,2008-09-19,,eBird - Casual Observation,,0
 S147581568,Common Eider,Somateria mollissima,690,1,GB-SCT,Aberdeen,L21815420,Aberdeen Beach,57.1520881,-2.077451,2008-05-31,,eBird - Casual Observation,,0
 S146713062,Common Eider,Somateria mollissima,690,X,GB-SCT,Aberdeenshire,L26457051,"Gardenstown, on water, UK",57.674318,-2.338137,2008-06-01,,eBird - Casual Observation,,0
 S150613202,Common Eider,Somateria mollissima,690,7,US-MA,Barnstable,L27225257,"Truro, MA",41.9706,-70.0762666,2010-06-06,,eBird - Casual Observation,,0
@@ -309,6 +311,7 @@ S153268799,Rock Pigeon,Columba livia,1817,6,GB-ENG,London,L956644,Kew Royal Bota
 S201585705,Rock Pigeon,Columba livia,1817,4,GB-ENG,London,L12106006,Lambeth Bridge,51.49453,-.1229173,2024-10-08,,eBird - Casual Observation,,0
 S149602918,Rock Pigeon,Columba livia,1817,5,GB-ENG,London,L7174275,London Fields,51.5408636,-.0601298,2012-08-13,,eBird - Casual Observation,,0
 S153275161,Rock Pigeon,Columba livia,1817,13,GB-ENG,London,L945563,"St James's Park (do not list Barnacle Goose, Shelduck and other captive birds)",51.5031329,-.1338959,2019-05-08,,eBird - Casual Observation,,0
+S209075492,Rock Pigeon,Columba livia,1817,1,RU-MOW,,L5994362,Кладбище Новодевичьего Монастыря (Novodevichy Convent Cemetery),55.7249986,37.5553767,2008-09-19,,eBird - Casual Observation,,0
 S204775813,Rock Pigeon (Feral Pigeon),Columba livia (Feral Pigeon),1832,2,ES-CT,Barcelona,L38497865,"Arxiu Històric de la Ciutat de Barcelona, Barcelona, ES",41.3840981,2.1757489,2005-11-09,,eBird - Casual Observation,,0
 S204775677,Rock Pigeon (Feral Pigeon),Columba livia (Feral Pigeon),1832,20,ES-CT,Barcelona,L38497826,"Placa Catalunya, Barcelona, ES",41.3789552,2.1750749,2005-11-09,,eBird - Casual Observation,,0
 S152876617,Rock Pigeon (Feral Pigeon),Columba livia (Feral Pigeon),1832,1,AU-VIC,Boroondara,L2552183,Fairfield Boat House to Chandler Hwy,-37.78596,145.01482,2013-02-17,,eBird - Casual Observation,,0
@@ -1270,6 +1273,7 @@ S205440209,Shikra,Tachyspiza badia,8069,1,VN-39,,L10328984,Cat Tien National Par
 S206156211,Shikra,Tachyspiza badia,8069,1,KH-17,,L38763003,"Prasat Kravan, Angkor Wat, KH",13.4194737,103.8998663,2008-12-20,,eBird - Casual Observation,,0
 S146811775,Eurasian Sparrowhawk,Accipiter nisus,8150,1,GB-ENG,Isle of Wight,L26479567,"Whitecliff Bay holiday park, Isle of Wight, UK",50.674497,-1.093971,2008-07-14,,eBird - Casual Observation,,0
 S146811835,Eurasian Sparrowhawk,Accipiter nisus,8150,1,GB-ENG,Isle of Wight,L26479567,"Whitecliff Bay holiday park, Isle of Wight, UK",50.674497,-1.093971,2008-07-15,,eBird - Casual Observation,,0
+S208953254,Eurasian Sparrowhawk,Accipiter nisus,8150,1,FR-OCC,Lot,L39358831,"Sénaillac-Lauzès, FR",44.5861938,1.6618761,2015-07-30,,eBird - Casual Observation,,0
 S147907293,Eurasian Sparrowhawk,Accipiter nisus,8150,X,CN-51,,L26718824,"Yujiazhang, CN",30.011817,102.20135,2008-11-13,,eBird - Casual Observation,,0
 S155633364,Cooper's Hawk,Astur cooperii,8183,1,US-WA,Grays Harbor,L1745170,Lake Quinalt,47.4738026,-123.8695795,2013-06-22,,eBird - Casual Observation,,0
 S204584590,Swamp Harrier,Circus approximans,8219,1,AU-WA,Albany,L38452574,"Point Posession, Albany, WA",-35.057379,117.926463,2022-10-16,,eBird - Casual Observation,,0
@@ -1281,10 +1285,13 @@ S149474174,Swamp Harrier,Circus approximans,8219,1,NZ-BOP,Tauranga City,L1190287
 S149500972,Swamp Harrier,Circus approximans,8219,1,NZ-WKO,Waikato District,L10129692,Miranda Pukorokoro Shorebird HQ & Widgery Pond,-37.1666192,175.3123814,2009-04-23,,eBird - Casual Observation,,0
 S207909770,Northern Harrier,Circus hudsonius,8228,1,US-WY,Teton,L6176864,Fairy Falls Trail,44.5153335,-110.832485,2012-07-26,,eBird - Casual Observation,,0
 S201584105,Red Kite,Milvus milvus,8246,1,GB-ENG,Derbyshire,L37859079,"Birch Vale, UK",53.3779279,-1.9671529,2024-10-07,,eBird - Casual Observation,,0
+S208953643,Red Kite,Milvus milvus,8246,6,FR-OCC,Lot,L39358919,"Degues, FR",44.695932,1.6609526,2015-07-30,,eBird - Casual Observation,,0
 S199552138,Red Kite,Milvus milvus,8246,1,GB-WLS,Monmouthshire,L37463059,"Grosmont, UK",51.9179327,-2.8718183,2024-09-27,,eBird - Casual Observation,,0
 S199555986,Red Kite,Milvus milvus,8246,1,GB-WLS,Powys,L37463940,"Beulah, Wales",52.1492545,-3.5796837,2024-10-01,,eBird - Casual Observation,,0
 S199553166,Red Kite,Milvus milvus,8246,1,GB-WLS,Powys,L37463274,"Brynich Lock, Wales",51.9368439,-3.3440065,2024-09-28,,eBird - Casual Observation,,0
 S199554950,Red Kite,Milvus milvus,8246,1,GB-WLS,Powys,L37463274,"Brynich Lock, Wales",51.9368439,-3.3440065,2024-09-29,,eBird - Casual Observation,,0
+S209072479,Black Kite,Milvus migrans,8249,1,FR-OCC,Lot,L39384810,"Boussac, FR",44.5982937,1.9337853,2015-07-28,,eBird - Casual Observation,,0
+S209055968,Black Kite,Milvus migrans,8249,1,FR-OCC,Lot,L39381138,"Saint-Bressou, FR",44.7105136,1.9580268,2015-07-27,,eBird - Casual Observation,,0
 S145558231,Black Kite,Milvus migrans,8249,X,AU-NT,Northeast Top End,L26184776,"Litchfield Safari Camp, NT",-13.1275253,130.6543732,2023-07-25,,eBird - Casual Observation,,0,,,1
 S205108127,Black Kite,Milvus migrans,8249,1,MN-1,,L38561688,"Terelj Bridge, MN",47.8251476,107.3454122,2008-10-19,,eBird - Casual Observation,,0
 S204583564,Brahminy Kite,Haliastur indus,8261,1,AU-QLD,Tablelands,L9352264,Mt Quincan Crater Retreat,-17.2995629,145.5826734,2014-08-16,,eBird - Casual Observation,,0
@@ -1349,6 +1356,7 @@ S207859735,Great Gray Owl,Strix nebulosa,9141,1,US-WY,Teton,L271593,Flat Creek W
 S147877417,Australian Boobook,Ninox boobook,9230,1,AU-VIC,Port Phillip,L3963838,Albert Park,-37.8474347,144.9701717,2009-05-03,,eBird - Casual Observation,,0,,,,,,,606029121
 S205198554,Orange-breasted Trogon,Harpactes oreskios,9359,1,VN-39,,L10946045,Cat Tien NP--Giant Tung Tree Trail,11.4301498,107.4273704,2008-12-10,,eBird - Casual Observation,,0
 S205440209,Red-headed Trogon,Harpactes erythrocephalus,9387,1,VN-39,,L10328984,Cat Tien National Park - Headquarters,11.4220245,107.4281014,2008-12-11,,eBird - Casual Observation,,0
+S208953254,Eurasian Hoopoe,Upupa epops,9501,1,FR-OCC,Lot,L39358831,"Sénaillac-Lauzès, FR",44.5861938,1.6618761,2015-07-30,,eBird - Casual Observation,,0
 S205440209,Oriental Pied-Hornbill,Anthracoceros albirostris,9629,1,VN-39,,L10328984,Cat Tien National Park - Headquarters,11.4220245,107.4281014,2008-12-11,,eBird - Casual Observation,,0
 S205549088,Blue-throated Bee-eater,Merops viridis,9716,1,VN-44,,L38645000,"An Giang, VN",10.8710095,105.1887663,2008-12-16,,eBird - Casual Observation,,0
 S146450376,Rainbow Bee-eater,Merops ornatus,9726,1,AU-NT,Northeast Top End,L26394610,"Bird Billabong, NT",-12.873012,131.631419,2023-07-26,,eBird - Casual Observation,,0
