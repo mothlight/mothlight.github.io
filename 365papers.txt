@@ -52,11 +52,11 @@ In which Kessler revisits the Kessler Syndrome and finding that (in 1991), many 
 13/ #365papers 
 https://doi.org/10.1016/0273-1177(91)90543-S
 #####
-In which healthcare, in crisis particularly in the US and UK, could continue to degrade. With one path towards ever increasing efficiency, data collection, and technical mechanisation of healthcare, with increased involvement of retail and data corporations and lots of pharmaceuticals. Or the path (obviously favoured by the authors) to recognize the crisis as a crisis in care, requiring human responses and interactions. Going past what makes life possible to what makes living meaningful.
+In which healthcare, in crisis particularly in the US and UK, could continue to degrade. With one path towards ever increasing efficiency, data collection, and technical mechanisation of healthcare, with increased involvement of retail and data corporations and lots of pharmaceuticals. Or the path (obviously favoured by the authors) to recognise the crisis as a crisis in care, requiring human responses and interactions. Going past what makes life possible to what makes living meaningful.
 14/ #365papers
 https://www.bmj.com/lookup/doi/10.1136/bmj.p464
 
-In which the information processing speed of the brain and how that impacts human behaviour is examined. Our senses work at a rate of 10^9 bits per second while the overall information throughput is 10 bits per second (limited by time required to commit to short term memory). 
+In which the information processing speed of the brain and how that impacts human behaviour is examined. Our senses work at a rate of 10^9 bits per second while the overall information throughput is 10 bits per second (limited by time required to commit to short term memory). No real evidence for photographic memories. Brain storage conventionally estimated at 50TB but probably more like 5GB. 10b/sec limit probably evolutionally sufficient for survival. Brain implants (Neuralink) also probably limited to 10b/sec. Eye implants for blind probably better achieved thorough natural language speech narration than video connection to brain. Processing probably limited to serial not parallel. Suggestion that there is an outer brain (dealing with sensory input and motor output) and inner brain with reduced data flow to make decisions and control behaviour.
 14/ #365papers
 https://www.cell.com/neuron/abstract/S0896-6273(24)00808-0
 
