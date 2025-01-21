@@ -51,14 +51,89 @@ https://link.springer.com/article/10.1007/s40295-024-00458-3
 In which Kessler revisits the Kessler Syndrome and finding that (in 1991), many regions of low Earth orbit were already unstable due to space debris from old rockets and payloads and fragments from explosions. Future collisions have the potential to generate new fragments from collisions faster than atmosphereic drag could remove them. Being able to reverse this situation is unlikely.
 13/ #365papers 
 https://doi.org/10.1016/0273-1177(91)90543-S
-#####
+
 In which healthcare, in crisis particularly in the US and UK, could continue to degrade. With one path towards ever increasing efficiency, data collection, and technical mechanisation of healthcare, with increased involvement of retail and data corporations and lots of pharmaceuticals. Or the path (obviously favoured by the authors) to recognise the crisis as a crisis in care, requiring human responses and interactions. Going past what makes life possible to what makes living meaningful.
 14/ #365papers
 https://www.bmj.com/lookup/doi/10.1136/bmj.p464
 
 In which the information processing speed of the brain and how that impacts human behaviour is examined. Our senses work at a rate of 10^9 bits per second while the overall information throughput is 10 bits per second (limited by time required to commit to short term memory). No real evidence for photographic memories. Brain storage conventionally estimated at 50TB but probably more like 5GB. 10b/sec limit probably evolutionally sufficient for survival. Brain implants (Neuralink) also probably limited to 10b/sec. Eye implants for blind probably better achieved thorough natural language speech narration than video connection to brain. Processing probably limited to serial not parallel. Suggestion that there is an outer brain (dealing with sensory input and motor output) and inner brain with reduced data flow to make decisions and control behaviour.
-14/ #365papers
+15/ #365papers
 https://www.cell.com/neuron/abstract/S0896-6273(24)00808-0
+
+In which questions are asked about where are sports stadiums being sited in the last 2 decades and do communities benefit? 2/3 of the costs through public finance, almost always in a CBD. Generally low community contestation. Only 5 of 89 stadiums built under a community-governed community benefit agreement (generally lower capacity stadiums). Subsidies appear to continue while little benefit flows back to the community.
+16/ #365papers
+US Stadium Sitings: Communities Aren’t Yet Winning
+https://findingspress.org/article/125837-us-stadium-sitings-communities-aren-t-yet-winning
+
+In which parking lots are found to have a large negative impact on walkability. Objective scores are 3.5x less than pedestrian/bike path segments. Subjective assessments are not attractive and feel unsafe to walk in. Must walk through a parking lot to reach most buildings. Adding some pedestrian features (enclosure, tree cover, traffic control devices) can make parking lots slightly less bad.
+17/ #365papers
+The Negative Impact of Parking Lots on Walkability
+https://findingspress.org/article/127106-the-negative-impact-of-parking-lots-on-walkability
+
+In which gender and weather are considered in their impacts on active travel in Sydney. Male cyclists outnumber female 3-1 (greater imbalance than with walking). More cyclists and pedestrians on sunny days (especially sensitive with cyclists). Most active at afternoon peak hours. However, none of these factors shifted the gender ratios.
+18/ #365papers
+Gender, Weather, and Time of Day: Active Travel Observations in Greater Sydney
+https://findingspress.org/article/127019-gender-weather-and-time-of-day-active-travel-observations-in-greater-sydney
+
+In which appropriative signification (co-opting language of protest) is being used as a tactic to maintain fossil fuel dependency. Mixed up with petro-masculinity, white patriarchy, and microfascism. Language such as "black lives matter" reformulated into "oil lives matter", and that fossil fuel usage is doing your patriotic duty, further overlaid with messages of white supremacy and racism and claims of victimization and "woke" agendas. Dystopian tactics but also perhaps indications of defensiveness from a dying industry.
+19/ #365papers
+Oil, life, and everyday fossil fascism: appropriative signification in U.S. petroleum supremacy
+https://academic.oup.com/ccc/advance-article/doi/10.1093/ccc/tcae055/7950795
+
+In which themes from billboards around new residential suburbs in outer Melbourne are used to examine the Australian Dream of suburban home ownership. How do residents of these mass produced housing developments create communities (not a priority of planners and developers)? Infrastructure often lacking, reflected in lots of cars and car dependency. Some reflection of culture in outdoor ornamentation. Extensive lawns mostly replaced by tiny fake grass front lawns. Has the home become a focus for anxiety and alienation rather than a refuge from them?
+20/ #365papers
+The (re)enchantment of suburbia: Mediation of the production and consumption of Melbourne’s outer suburbs
+https://journals.sagepub.com/doi/10.1177/00420980241293042
+
+In which thoughts on the new emerging field of spatial data science are discussed. Perhaps an extension of geoinformatics, with a huge increase in data sources and new methods to analyse using machine learning. Work often by people who do not have traditional geospatial backgrounds. So, how should teaching in this new field be done and how should course work be designed?
+21/ #365papers
+Teaching spatial data science
+https://journals.aau.dk/index.php/gfp/article/view/8383
+#################################################################
+In which the patterns of misinformation and relationships between party politics in 26 Western countries are examined using 32 million Tweets. Findings are that populism is not specifically associated with misinformation. Generally not spread by right-wing parties or left-wing populists, but very associated with radical right-wing populists parties. Used as agenda-setting and control over public attention. Goals of left and right-wing populists are different, grievances against the "elite" vs seeking to overthrow democracy and replace with authoritarian leaders. 
+22/ #365papers
+When Do Parties Lie? Misinformation and Radical-Right Populism Across 26 Countries
+https://journals.sagepub.com/doi/10.1177/19401612241311886
+
+In which, the heat wave gap metric (time between two adjacent heat waves) was calculated for 1961-90 and 1991-2020 in New York City. Findings are that the gaps on average decreased by 15-41%. Number of shorter gaps (less than 5 days) increased 33-300% while longer gaps stayed roughly constant. Slight changes in typical atmosphereic flow patterns are associated with the shortening gaps.
+23/ #365papers
+Long-term trends in heat wave gaps for the New York City metropolitan area
+https://linkinghub.elsevier.com/retrieve/pii/S2212095524004449
+
+In which the stability of core political predispositions over a life-span are examined. Study (in 1999) covered the period 1940 to 1977, beginning at about age 30. Racial prejudices (antiblack attitudes) show remarkable persistence over a lifetime and their impacts on partisan alignments. Essentially, both remain stable throughout.
+24/ #365papers
+Evidence of the Long-Term Persistence of Adults' Political Predispositions
+https://www.journals.uchicago.edu/doi/10.2307/2647773
+
+In which the (generally ignored) social and environmental impacts of generative artificial intelligence are discussed. Hardware (GPUs) and operations require huge amounts of minerals, energy, and water, followed by subsequent e-waste. Social impacts include noise, real estate space, electricity prices, and mining impacts. Authors recommend better quantification (transdisciplinary) of the lifecycle impacts and political and regulatory pressure to ensure these disclosures.
+25/ #365papers
+A social-environmental impact perspective of generative artificial intelligence
+https://linkinghub.elsevier.com/retrieve/pii/S2666498424001340
+
+In which the reasons behind stagnating (and declining in recent years) life expectancies (over 1970-2014) in the US are examined. Highly associated with policies at a state level, with conservative states showing a reduction in life expectancies. If the liberal state policies had been in place across all states, life expectancies would be 2.8 and 2.1 years longer for woman and men. Policy categories include abortion, campaign finance, civil rights, criminal justice, education, environment, gun control, health/welfare, housing/transport, immigration, labor, taxes, and voting. Would be interesting to see the results from an analysis that also included COVID-19 (very deadly in red states).
+26/ #365papers
+US State Policies, Politics, and Life Expectancy
+https://onlinelibrary.wiley.com/doi/10.1111/1468-0009.12469
+
+In which the 'The Air Pollution Model' (TAPM) is used to test the heat mitigation effectiveness of green and cool roofs (high albedo) in Melbourne as measured by apparent temperature. Mix of 25/75% green/cool roof best or reduce max air temperature. 50/50 green/cool best reductions of minimum and average air temperature. 50/50 also best for apparent temperature reductions.
+27/ #365papers
+Feasibility of Using Green Roofs and Cool Roofs for Extreme Heat Mitigation in Melbourne, Australia
+https://doi.org/10.1007/978-3-031-63203-7_14
+
+28/ #365papers
+29/ #365papers
+30/ #365papers
+
+31/ #365papers
+32/ #365papers
+33/ #365papers
+34/ #365papers
+35/ #365papers
+36/ #365papers
+37/ #365papers
+38/ #365papers
+39/ #365papers
+40/ #365papers
 
 08/01/25	8
 09/01/25	9
