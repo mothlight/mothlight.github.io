@@ -89,12 +89,12 @@ In which thoughts on the new emerging field of spatial data science are discusse
 21/ #365papers
 Teaching spatial data science
 https://journals.aau.dk/index.php/gfp/article/view/8383
-#################################################################
+
 In which the patterns of misinformation and relationships between party politics in 26 Western countries are examined using 32 million Tweets. Findings are that populism is not specifically associated with misinformation. Generally not spread by right-wing parties or left-wing populists, but very associated with radical right-wing populists parties. Used as agenda-setting and control over public attention. Goals of left and right-wing populists are different, grievances against the "elite" vs seeking to overthrow democracy and replace with authoritarian leaders. 
 22/ #365papers
 When Do Parties Lie? Misinformation and Radical-Right Populism Across 26 Countries
 https://journals.sagepub.com/doi/10.1177/19401612241311886
-
+#################################################################
 In which, the heat wave gap metric (time between two adjacent heat waves) was calculated for 1961-90 and 1991-2020 in New York City. Findings are that the gaps on average decreased by 15-41%. Number of shorter gaps (less than 5 days) increased 33-300% while longer gaps stayed roughly constant. Slight changes in typical atmosphereic flow patterns are associated with the shortening gaps.
 23/ #365papers
 Long-term trends in heat wave gaps for the New York City metropolitan area
@@ -120,7 +120,13 @@ In which the 'The Air Pollution Model' (TAPM) is used to test the heat mitigatio
 Feasibility of Using Green Roofs and Cool Roofs for Extreme Heat Mitigation in Melbourne, Australia
 https://doi.org/10.1007/978-3-031-63203-7_14
 
+In which the evolution of bicycle technology is detailed, frame types, pedal mechanisms, chain technologies, hub gears, etc. Source of the famous graph showing efficiency in travelling animals and machines, bicycle transport the lowest cost (calories per gram per kilometre) compared to birds, mammals, air-planes, motor vehicles.
+https://www.futilitycloset.com/2018/11/14/efficiency-2/
+Ends with the message: "If one were to give a short prescription for dealing rationally with the world's problems of development, transportation, health and the efficient use of resources, one could do worse than the simple formula: Cycle and recycle."
 28/ #365papers
+Bicycle Technology by S.S Wilson (1973)
+https://www.jstor.org/stable/24923004
+
 29/ #365papers
 30/ #365papers
 
