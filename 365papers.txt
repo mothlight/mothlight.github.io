@@ -94,12 +94,12 @@ In which the patterns of misinformation and relationships between party politics
 22/ #365papers
 When Do Parties Lie? Misinformation and Radical-Right Populism Across 26 Countries
 https://journals.sagepub.com/doi/10.1177/19401612241311886
-#################################################################
-In which, the heat wave gap metric (time between two adjacent heat waves) was calculated for 1961-90 and 1991-2020 in New York City. Findings are that the gaps on average decreased by 15-41%. Number of shorter gaps (less than 5 days) increased 33-300% while longer gaps stayed roughly constant. Slight changes in typical atmosphereic flow patterns are associated with the shortening gaps.
+
+In which, the heat wave gap metric (time between two adjacent heat waves) was calculated for 1961-90 and 1991-2020 in New York City. Findings are that the gaps on average decreased by 15-41%. Number of shorter gaps (less than 5 days) increased 33-300% while longer gaps stayed roughly constant. Slight changes in typical atmospheric flow patterns are associated with the shortening gaps.
 23/ #365papers
 Long-term trends in heat wave gaps for the New York City metropolitan area
 https://linkinghub.elsevier.com/retrieve/pii/S2212095524004449
-
+#################################################################
 In which the stability of core political predispositions over a life-span are examined. Study (in 1999) covered the period 1940 to 1977, beginning at about age 30. Racial prejudices (antiblack attitudes) show remarkable persistence over a lifetime and their impacts on partisan alignments. Essentially, both remain stable throughout.
 24/ #365papers
 Evidence of the Long-Term Persistence of Adults' Political Predispositions
