@@ -99,7 +99,7 @@ In which, the heat wave gap metric (time between two adjacent heat waves) was ca
 23/ #365papers
 Long-term trends in heat wave gaps for the New York City metropolitan area
 https://linkinghub.elsevier.com/retrieve/pii/S2212095524004449
-#################################################################
+
 In which the stability of core political predispositions over a life-span are examined. Study (in 1999) covered the period 1940 to 1977, beginning at about age 30. Racial prejudices (antiblack attitudes) show remarkable persistence over a lifetime and their impacts on partisan alignments. Essentially, both remain stable throughout.
 24/ #365papers
 Evidence of the Long-Term Persistence of Adults' Political Predispositions
@@ -118,8 +118,8 @@ https://onlinelibrary.wiley.com/doi/10.1111/1468-0009.12469
 In which the 'The Air Pollution Model' (TAPM) is used to test the heat mitigation effectiveness of green and cool roofs (high albedo) in Melbourne as measured by apparent temperature. Mix of 25/75% green/cool roof best or reduce max air temperature. 50/50 green/cool best reductions of minimum and average air temperature. 50/50 also best for apparent temperature reductions.
 27/ #365papers
 Feasibility of Using Green Roofs and Cool Roofs for Extreme Heat Mitigation in Melbourne, Australia
-https://doi.org/10.1007/978-3-031-63203-7_14
-
+https://link.springer.com/chapter/10.1007/978-3-031-63203-7_14
+#################################################################
 In which the evolution of bicycle technology is detailed, frame types, pedal mechanisms, chain technologies, hub gears, etc. Source of the famous graph showing efficiency in travelling animals and machines, bicycle transport the lowest cost (calories per gram per kilometre) compared to birds, mammals, air-planes, motor vehicles.
 https://www.futilitycloset.com/2018/11/14/efficiency-2/
 Ends with the message: "If one were to give a short prescription for dealing rationally with the world's problems of development, transportation, health and the efficient use of resources, one could do worse than the simple formula: Cycle and recycle."
@@ -127,10 +127,21 @@ Ends with the message: "If one were to give a short prescription for dealing rat
 Bicycle Technology by S.S Wilson (1973)
 https://www.jstor.org/stable/24923004
 
+In which the Microsoft AI Red Team evaluates the safety and security of 100 GenAI Microsoft products. Findings are that very simple methods generally work well (often better than sophisticated methods) to attack AI systems. AI harms are pervasive but hard to measure. LLMs add an extra level of security risks in addition to making existing ones worse. It will likely never be possible to secure AI systems. None of this seems like great news as everybody rushes to embed GenAI in everything.
 29/ #365papers
-30/ #365papers
+Lessons From Red Teaming 100 Generative AI Products
+https://arxiv.org/abs/2501.07238
 
+In which research about how people change their beliefs about climate change provides a framework to facilitate greater acceptance of reality. Multiple theories try to explain why people adopt beliefs or are resistant to shifting their views. Process of shifting required a few steps. First is distancing from the community that influenced initial beliefs. Second, a desire to seek out information. Finally, the shift happened either gradually or as an epiphany. Interpersonal conversations can be influential in opinion shifts.
+30/ #365papers
+How do people change their beliefs about climate change? A qualitative study on opinion shift in the U.S. Midwest
+https://link.springer.com/10.1007/s10584-024-03835-x
+
+In which rates and impacts of bike theft in the US are estimated. About 2.4 million bikes are stolen annually, $1.4 billion in value. Those of lower income, African Americans or Asian Americans experience higher rates than other groups.
 31/ #365papers
+Bicycle Theft in the US: Magnitude and Equity Impacts
+https://findingspress.org/article/127974-bicycle-theft-in-the-us-magnitude-and-equity-impacts
+
 32/ #365papers
 33/ #365papers
 34/ #365papers
@@ -140,6 +151,39 @@ https://www.jstor.org/stable/24923004
 38/ #365papers
 39/ #365papers
 40/ #365papers
+
+41/ #365papers
+42/ #365papers
+43/ #365papers
+44/ #365papers
+45/ #365papers
+46/ #365papers
+47/ #365papers
+48/ #365papers
+49/ #365papers
+50/ #365papers
+
+51/ #365papers
+52/ #365papers
+53/ #365papers
+54/ #365papers
+55/ #365papers
+56/ #365papers
+57/ #365papers
+58/ #365papers
+59/ #365papers
+60/ #365papers
+
+61/ #365papers
+62/ #365papers
+63/ #365papers
+64/ #365papers
+65/ #365papers
+66/ #365papers
+67/ #365papers
+68/ #365papers
+69/ #365papers
+70/ #365papers
 
 08/01/25	8
 09/01/25	9
