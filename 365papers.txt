@@ -141,12 +141,12 @@ In which rates and impacts of bike theft in the US are estimated. About 2.4 mill
 31/ #365papers
 Bicycle Theft in the US: Magnitude and Equity Impacts
 https://findingspress.org/article/127974-bicycle-theft-in-the-us-magnitude-and-equity-impacts
-#################################################################
+
 In which the impact of AI usage on cognitive skills is assessed. Cognitive offloading uses external tools to assist in reducing cognitive load, allowing reduced memory use and lighter engagement with a problem. Study finds 17-25 year olds higher AI tool usage and cognitive offloading and lower critical thinking scores. Frequent users of AI show dependence on these tools, reduced ability to problem solve, and show concerns over the transparency and bias of AI answers. Also, have some awareness of their dependency and reduced skills. Those with higher education sometimes fact check AI answers.
 32/ #365papers
 AI Tools in Society: Impacts on Cognitive Offloading and the Future of Critical Thinking
 https://www.mdpi.com/2075-4698/15/1/6
-
+#################################################################
 In which the potential for AI to address the "productivity crisis" is examined by looking at AI adoption in Canadian firms 2020-2021. (Time period doesn't include ChatGPT, introduced 2022).  Findings are that productivity gains from AI adoption are inconclusive (neither strong positive or negative relationship). No significant relationship was found between AI adoption and Total Factor Productivity levels or growth. Firms that did adopt AI were already more productive than those firms who didn't.
 33/ #365papers
 Waiting for Takeoff: The short-term impact of AI adoption on firm productivity
