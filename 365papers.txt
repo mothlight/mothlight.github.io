@@ -119,7 +119,7 @@ In which the 'The Air Pollution Model' (TAPM) is used to test the heat mitigatio
 27/ #365papers
 Feasibility of Using Green Roofs and Cool Roofs for Extreme Heat Mitigation in Melbourne, Australia
 https://link.springer.com/chapter/10.1007/978-3-031-63203-7_14
-#################################################################
+
 In which the evolution of bicycle technology is detailed, frame types, pedal mechanisms, chain technologies, hub gears, etc. Source of the famous graph showing efficiency in travelling animals and machines, bicycle transport the lowest cost (calories per gram per kilometre) compared to birds, mammals, air-planes, motor vehicles.
 https://www.futilitycloset.com/2018/11/14/efficiency-2/
 Ends with the message: "If one were to give a short prescription for dealing rationally with the world's problems of development, transportation, health and the efficient use of resources, one could do worse than the simple formula: Cycle and recycle."
@@ -141,11 +141,27 @@ In which rates and impacts of bike theft in the US are estimated. About 2.4 mill
 31/ #365papers
 Bicycle Theft in the US: Magnitude and Equity Impacts
 https://findingspress.org/article/127974-bicycle-theft-in-the-us-magnitude-and-equity-impacts
-
+#################################################################
+In which the impact of AI usage on cognitive skills is assessed. Cognitive offloading uses external tools to assist in reducing cognitive load, allowing reduced memory use and lighter engagement with a problem. Study finds 17-25 year olds higher AI tool usage and cognitive offloading and lower critical thinking scores. Frequent users of AI show dependence on these tools, reduced ability to problem solve, and show concerns over the transparency and bias of AI answers. Also, have some awareness of their dependency and reduced skills. Those with higher education sometimes fact check AI answers.
 32/ #365papers
+AI Tools in Society: Impacts on Cognitive Offloading and the Future of Critical Thinking
+https://www.mdpi.com/2075-4698/15/1/6
+
+In which the potential for AI to address the "productivity crisis" is examined by looking at AI adoption in Canadian firms 2020-2021. (Time period doesn't include ChatGPT, introduced 2022).  Findings are that productivity gains from AI adoption are inconclusive (neither strong positive or negative relationship). No significant relationship was found between AI adoption and Total Factor Productivity levels or growth. Firms that did adopt AI were already more productive than those firms who didn't.
 33/ #365papers
+Waiting for Takeoff: The short-term impact of AI adoption on firm productivity
+https://dais.ca/reports/waiting-for-takeoff/
+
+In which the impact of wildlife-friendly gardening practices on biodiversity across SW Australia is examined. Structures include bat and bird boxes, bird baths, frog hotels, possum shelters, ponds, and reptile shelters. Water sources (bird baths and ponds) are found to be especially important across a broad range of biodiversity. Many of the structures were used by not only the target species, but others as well. Bat boxes and frog hotels not particularly successful (might be design and placement problem). Reptile shelters used a bit more. Some structures shown to be of benefit to endangered species. Suburban gardens can play a role in biodiversity conservation.
 34/ #365papers
+Use of wildlife-friendly structures in residential gardens by animal wildlife: evidence from citizen scientists in a global biodiversity hotspot
+https://link.springer.com/10.1007/s11252-024-01530-4
+
+In which the representation of water balances in 19 urban land surface models are tested in the Urban-PLUMBER intercomparion project. Indicators of water balance closure, evapotranspiration, storage, and runoff are used. Most models do not close water balance. Lack of irrigation in most models found to be a problem. For ET and storage, timing better captured than magnitude. Water storage schemes are often inconsistent. However, better water representation didn't necessarily lead to more accurate latent fluxes. Runoff often poorly captured. Overall evaluation is difficult because of limited observation datasets.
 35/ #365papers
+The Water Balance Representation in Urban‐PLUMBER Land Surface Models
+https://agupubs.onlinelibrary.wiley.com/doi/10.1029/2024MS004231
+
 36/ #365papers
 37/ #365papers
 38/ #365papers
