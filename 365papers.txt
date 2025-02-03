@@ -146,7 +146,7 @@ In which the impact of AI usage on cognitive skills is assessed. Cognitive offlo
 32/ #365papers
 AI Tools in Society: Impacts on Cognitive Offloading and the Future of Critical Thinking
 https://www.mdpi.com/2075-4698/15/1/6
-#################################################################
+
 In which the potential for AI to address the "productivity crisis" is examined by looking at AI adoption in Canadian firms 2020-2021. (Time period doesn't include ChatGPT, introduced 2022).  Findings are that productivity gains from AI adoption are inconclusive (neither strong positive or negative relationship). No significant relationship was found between AI adoption and Total Factor Productivity levels or growth. Firms that did adopt AI were already more productive than those firms who didn't.
 33/ #365papers
 Waiting for Takeoff: The short-term impact of AI adoption on firm productivity
@@ -156,7 +156,7 @@ In which the impact of wildlife-friendly gardening practices on biodiversity acr
 34/ #365papers
 Use of wildlife-friendly structures in residential gardens by animal wildlife: evidence from citizen scientists in a global biodiversity hotspot
 https://link.springer.com/10.1007/s11252-024-01530-4
-
+#################################################################
 In which the representation of water balances in 19 urban land surface models are tested in the Urban-PLUMBER intercomparion project. Indicators of water balance closure, evapotranspiration, storage, and runoff are used. Most models do not close water balance. Lack of irrigation in most models found to be a problem. For ET and storage, timing better captured than magnitude. Water storage schemes are often inconsistent. However, better water representation didn't necessarily lead to more accurate latent fluxes. Runoff often poorly captured. Overall evaluation is difficult because of limited observation datasets.
 35/ #365papers
 The Water Balance Representation in Urban‐PLUMBER Land Surface Models
