@@ -156,19 +156,43 @@ In which the impact of wildlife-friendly gardening practices on biodiversity acr
 34/ #365papers
 Use of wildlife-friendly structures in residential gardens by animal wildlife: evidence from citizen scientists in a global biodiversity hotspot
 https://link.springer.com/10.1007/s11252-024-01530-4
-#################################################################
+
 In which the representation of water balances in 19 urban land surface models are tested in the Urban-PLUMBER intercomparion project. Indicators of water balance closure, evapotranspiration, storage, and runoff are used. Most models do not close water balance. Lack of irrigation in most models found to be a problem. For ET and storage, timing better captured than magnitude. Water storage schemes are often inconsistent. However, better water representation didn't necessarily lead to more accurate latent fluxes. Runoff often poorly captured. Overall evaluation is difficult because of limited observation datasets.
 35/ #365papers
 The Water Balance Representation in Urban‐PLUMBER Land Surface Models
 https://agupubs.onlinelibrary.wiley.com/doi/10.1029/2024MS004231
 
+In which a framework to evaluate car dependency is developed with seven components. Components range from external to an individual (land use system, transport systems, natural environment) to internal (objective features - socio-economic, disability, mobility means or subjective features - perceived security on public transport). Crossover of components include temporal (car as time-saving, activity time requirements, service opening hours, transport service times) and social environment (living location, subjective norms, social responsibilities). Policy decisions around car dependency should consider the full range of components.
 36/ #365papers
-37/ #365papers
-38/ #365papers
-39/ #365papers
-40/ #365papers
+Stuck in the driver’s seat: a conceptualisation for understanding car dependence and its determinant
+https://www.tandfonline.com/doi/full/10.1080/01441647.2024.2430007
 
+In which the racial prejudices of welfare systems is explained. Findings are that when whites perceive threats to their advantage in the hierarchy, minority resentment increases, driving decreased support for welfare programs (if they perceive benefits to minorities). Welfare backlash follows from perceptions of rising standing of minorities. I'm constantly amazed about how much of what drives American society seems confusing and illogical until you realize, oh, it is racism.
+37/ #365papers
+Privilege on the Precipice: Perceived Racial Status Threats Lead White Americans to Oppose Welfare Programs
+https://academic.oup.com/sf/article/97/2/793/5002999
+#################################################################
+
+In which the SIMPEL model (a low end hydrologic model) is developed and evaluated. SIMPEL is a one-dimensional, built on a basic spreadsheet. Despite not being spatially distributed, SIMPEL proves suitable for first order simulations and runs much faster (minutes vs months), delivering reasonably good results.
+38/ #365papers
+Comparison of a simple and a spatially distributed hydrologic model for the simulation of a lowland catchment in Northern Germany
+https://linkinghub.elsevier.com/retrieve/pii/S0304380007003596
+
+In which postdoctoral periods are examined for factors leading to career retention and success (transistion from postdoc to faculty position). 41% of postdocs leave academia. Those who, as a postdoc or PhD student, have a hit paper (reflected in citation indexes) more likely to remain in academia. Slight changes in topic (widening research) are also helpful. Moving to another country also associated with broadening experience. New faculty hires more often when PhD is from a higher ranked institution, where postdoc hires more often moving to a higher ranked institution.
+39/ #365papers
+Postdoc publications and citations link to academic retention and faculty success
+https://www.pnas.org/doi/10.1073/pnas.2402053122
+
+In which it is attempted to reverse engineer the Uber surge pricing algorithm. Findings are that the driver supply limitation is probably irrelevant, the main limitation is when compensation Uber offers drivers goes below vehicle operating costs (increased fares from surge pricing sometimes/often? not passed onto the driver and might actually decrease during these times to push drivers out of the available pool). Unregulated nature of Uber's business means Uber's price manipulations are opaque.
+40/ #365papers
+Does Uber Surge Pricing Decrease,  Not Increase, Ride Availability?
+http://numerical.recipes/whp/notes/UberSurge.pdf
+
+In which the impact of roadworks on cycling is analysed. In Copenhagen, roadworks in cycle lanes increased 50% over 2014-23. Reduction in average cycling speed suggests roadworks caused speed reduction of 0.4 km/h. Works on sidewalks or roadways decreased speeds more. Works on road drainage and wastewater greater impact than heating and fibre networks. 
 41/ #365papers
+The Overlooked Role of Roadworks in Micromobility’s Accessibility
+https://findingspress.org/article/128226-the-overlooked-role-of-roadworks-in-micromobility-s-accessibility
+
 42/ #365papers
 43/ #365papers
 44/ #365papers
