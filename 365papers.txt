@@ -168,17 +168,16 @@ Stuck in the driver’s seat: a conceptualisation for understanding car dependen
 https://www.tandfonline.com/doi/full/10.1080/01441647.2024.2430007
 
 In which the racial prejudices of welfare systems is explained. Findings are that when whites perceive threats to their advantage in the hierarchy, minority resentment increases, driving decreased support for welfare programs (if they perceive benefits to minorities). Welfare backlash follows from perceptions of rising standing of minorities. I'm constantly amazed about how much of what drives American society seems confusing and illogical until you realize, oh, it is racism.
+
 37/ #365papers
 Privilege on the Precipice: Perceived Racial Status Threats Lead White Americans to Oppose Welfare Programs
-https://academic.oup.com/sf/article/97/2/793/5002999
-#################################################################
-
-In which the SIMPEL model (a low end hydrologic model) is developed and evaluated. SIMPEL is a one-dimensional, built on a basic spreadsheet. Despite not being spatially distributed, SIMPEL proves suitable for first order simulations and runs much faster (minutes vs months), delivering reasonably good results.
+https://academic.oup.com/sf/article/97/2/793/5002999In which the SIMPEL model (a low end hydrologic model) is developed and evaluated. SIMPEL is a one-dimensional, built on a basic spreadsheet. Despite not being spatially distributed, SIMPEL proves suitable for first order simulations and runs much faster (minutes vs months), delivering reasonably good results.
 38/ #365papers
 Comparison of a simple and a spatially distributed hydrologic model for the simulation of a lowland catchment in Northern Germany
 https://linkinghub.elsevier.com/retrieve/pii/S0304380007003596
 
-In which postdoctoral periods are examined for factors leading to career retention and success (transistion from postdoc to faculty position). 41% of postdocs leave academia. Those who, as a postdoc or PhD student, have a hit paper (reflected in citation indexes) more likely to remain in academia. Slight changes in topic (widening research) are also helpful. Moving to another country also associated with broadening experience. New faculty hires more often when PhD is from a higher ranked institution, where postdoc hires more often moving to a higher ranked institution.
+
+In which postdoctoral periods are examined for factors leading to career retention and success (transition from postdoc to faculty position). 41% of postdocs leave academia. Those who, as a postdoc or PhD student, have a hit paper (reflected in citation indexes) more likely to remain in academia. Slight changes in topic (widening research) are also helpful. Moving to another country also associated with broadening experience. New faculty hires more often when PhD is from a higher ranked institution, where postdoc hires more often moving to a higher ranked institution.
 39/ #365papers
 Postdoc publications and citations link to academic retention and faculty success
 https://www.pnas.org/doi/10.1073/pnas.2402053122
@@ -193,10 +192,26 @@ In which the impact of roadworks on cycling is analysed. In Copenhagen, roadwork
 The Overlooked Role of Roadworks in Micromobility’s Accessibility
 https://findingspress.org/article/128226-the-overlooked-role-of-roadworks-in-micromobility-s-accessibility
 
+In which the number of deaths that could have been prevented in non-vaccinated people in the US over 2021-2 are estimated. Vaccination coverage (at least one dose) rises from 55% to nearly 80% during that time. Estimates that 232,000 deaths could have been prevented.
 42/ #365papers
+Estimated preventable COVID-19-associated deaths due to non-vaccination in the United States
+https://link.springer.com/10.1007/s10654-023-01006-3
+#################################################################
+In which the impacts of stratospheric aerosol injection (solar geoengineering to reduce incoming UV) on sky color are discussed. (Only evaluated sky color, not other impacts on the ozone layer, stratospheric heating, and regional climate impacts.) Aerosols include H2SO4, CaCO3, and diamonds. H2SO4 color changes probably undetectable by 50% of people. Probably much more detectable during twilight. CaCO3 probably similar to H2SO4. Diamonds stronger color changes and less brightening, and less sky reddening during twilight.
 43/ #365papers
+Under a not so white sky: visual impacts of stratospheric aerosol injection
+https://iopscience.iop.org/article/10.1088/1748-9326/ada2ae
+
+In which future overheating inside houses across the UK is evaluated (conjunction of future climate, housing stock, and demographics). Estimated that 90% of existing UK homes will overheat under 2C climate change. Findings of large increases in vulnerability for pre-1900 housing, those with multiple deprivations. Some increases for small floor areas (<50m2) and older persons. Renters less adaptability to adapt. Heating and energy poverty is an issue that might be slightly mitigated by warming. But overall, existing vulnerabilities will likely be amplified by climate changes.
 44/ #365papers
+Uneven ambient futures: Intersecting heat and housing trajectories in England and Wales
+https://rgs-ibg.onlinelibrary.wiley.com/doi/10.1111/tran.12737
+
+In which the relationship in Switzerland of political affiliation to cycling frequency is quantified. Switzerland has actually added "fostering cycling" to their Constitution in 2018. Members of the Greens party cycled the most (76%) with CVP (center right) at 73%. About 66% of SP (center left), FDP (right wing), and SVP (right wing populist). Unaffiliated at 33%. Most frequent cyclists leaned towards the left (but not exactly). Greens more frequently cycled for transport. Recreational only cyclists more often center and right. Left leaning parties tend to support cycling policy in proportion to their members where right leaning parties' policies are less supportive.
 45/ #365papers
+Do Left-wing Voters Cycle more than Right-wing Voters?
+https://findingspress.org/article/129401-do-left-wing-voters-cycle-more-than-right-wing-voters
+
 46/ #365papers
 47/ #365papers
 48/ #365papers
