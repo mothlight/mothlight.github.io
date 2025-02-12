@@ -196,12 +196,12 @@ In which the number of deaths that could have been prevented in non-vaccinated p
 42/ #365papers
 Estimated preventable COVID-19-associated deaths due to non-vaccination in the United States
 https://link.springer.com/10.1007/s10654-023-01006-3
-#################################################################
+
 In which the impacts of stratospheric aerosol injection (solar geoengineering to reduce incoming UV) on sky color are discussed. (Only evaluated sky color, not other impacts on the ozone layer, stratospheric heating, and regional climate impacts.) Aerosols include H2SO4, CaCO3, and diamonds. H2SO4 color changes probably undetectable by 50% of people. Probably much more detectable during twilight. CaCO3 probably similar to H2SO4. Diamonds stronger color changes and less brightening, and less sky reddening during twilight.
 43/ #365papers
 Under a not so white sky: visual impacts of stratospheric aerosol injection
 https://iopscience.iop.org/article/10.1088/1748-9326/ada2ae
-
+#################################################################
 In which future overheating inside houses across the UK is evaluated (conjunction of future climate, housing stock, and demographics). Estimated that 90% of existing UK homes will overheat under 2C climate change. Findings of large increases in vulnerability for pre-1900 housing, those with multiple deprivations. Some increases for small floor areas (<50m2) and older persons. Renters less adaptability to adapt. Heating and energy poverty is an issue that might be slightly mitigated by warming. But overall, existing vulnerabilities will likely be amplified by climate changes.
 44/ #365papers
 Uneven ambient futures: Intersecting heat and housing trajectories in England and Wales
@@ -212,7 +212,11 @@ In which the relationship in Switzerland of political affiliation to cycling fre
 Do Left-wing Voters Cycle more than Right-wing Voters?
 https://findingspress.org/article/129401-do-left-wing-voters-cycle-more-than-right-wing-voters
 
+In which the evidence of whether we have passed the 1.5C threshold is examined. Finding that June 2024 was the first 12 months of global mean surface temperatures of 1.5C. This has previously been expected in last 2020 or early 2030. Implications for CMIP6, conditioned on number of observations above 1.5C. Possible short term exceedence causes, Tonga 2022 eruption and 2020 shipping regulations. If 1.5C anomalies continue more than 18 months, Paris Agreement threshold breach certain under SSP 2-4.5 or 5-8.5.
 46/ #365papers
+Twelve months at 1.5 °C signals earlier than expected breach of Paris Agreement threshold
+https://www.nature.com/articles/s41558-025-02247-8
+
 47/ #365papers
 48/ #365papers
 49/ #365papers
