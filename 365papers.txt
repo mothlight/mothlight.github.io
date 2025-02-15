@@ -201,7 +201,7 @@ In which the impacts of stratospheric aerosol injection (solar geoengineering to
 43/ #365papers
 Under a not so white sky: visual impacts of stratospheric aerosol injection
 https://iopscience.iop.org/article/10.1088/1748-9326/ada2ae
-#################################################################
+
 In which future overheating inside houses across the UK is evaluated (conjunction of future climate, housing stock, and demographics). Estimated that 90% of existing UK homes will overheat under 2C climate change. Findings of large increases in vulnerability for pre-1900 housing, those with multiple deprivations. Some increases for small floor areas (<50m2) and older persons. Renters less adaptability to adapt. Heating and energy poverty is an issue that might be slightly mitigated by warming. But overall, existing vulnerabilities will likely be amplified by climate changes.
 44/ #365papers
 Uneven ambient futures: Intersecting heat and housing trajectories in England and Wales
@@ -211,14 +211,22 @@ In which the relationship in Switzerland of political affiliation to cycling fre
 45/ #365papers
 Do Left-wing Voters Cycle more than Right-wing Voters?
 https://findingspress.org/article/129401-do-left-wing-voters-cycle-more-than-right-wing-voters
-
+#################################################################
 In which the evidence of whether we have passed the 1.5C threshold is examined. Finding that June 2024 was the first 12 months of global mean surface temperatures of 1.5C. This has previously been expected in last 2020 or early 2030. Implications for CMIP6, conditioned on number of observations above 1.5C. Possible short term exceedence causes, Tonga 2022 eruption and 2020 shipping regulations. If 1.5C anomalies continue more than 18 months, Paris Agreement threshold breach certain under SSP 2-4.5 or 5-8.5.
 46/ #365papers
 Twelve months at 1.5 °C signals earlier than expected breach of Paris Agreement threshold
 https://www.nature.com/articles/s41558-025-02247-8
 
+In which warming in relation to the Paris Agreement 1.5C target is discussed. 2024 was the first year of averages above 1.5C, but does that mean we have crossed the 1.5C threshold? Findings are that previous first year exceedences at 0.6, 0.7, 0.8, 0.9 and 1.0C have been the first year of 20 year periods above those levels. Therefore, without immediate strong climate mitigations, 2024 is likely to be the first year of 20 years above 1.5C. Current policy settings closest to SSP 2-4.5 where all models agree with passing the 1.5C threshold. Only SSP 1.9 or 1-2.6 possibly avoid this.
 47/ #365papers
+A year above 1.5 °C signals that Earth is most probably within the 20-year period that will reach the Paris Agreement limit
+https://www.nature.com/articles/s41558-025-02246-9
+
+In which the impact of GenAI on critical thinking is quantified. Critical thinking includes knowledge, comprehension, application, analysis, synthesis, and evaluation. Findings are that higher confidence in GenAI results are associated with less critical thinking. Reduced effort leads to less engagement with tasks. Authors recommend GenAI should create awareness of lack of critical thinking. I guess this is the system somehow forcing the user to think about what they are doing? I guess also knowledge workers are supposed to accept that they are responsible for whatever GenAI outputs and think critically about how the GenAI is working. Sounds pretty wishful and I assume people will just press the buttons and zone out, because they can.
 48/ #365papers
+The Impact of Generative AI on Critical Thinking: Self-Reported Reductions in Cognitive Effort and Confidence Effects From a Survey of Knowledge Workers
+https://www.microsoft.com/en-us/research/publication/the-impact-of-generative-ai-on-critical-thinking-self-reported-reductions-in-cognitive-effort-and-confidence-effects-from-a-survey-of-knowledge-workers/
+
 49/ #365papers
 50/ #365papers
 
