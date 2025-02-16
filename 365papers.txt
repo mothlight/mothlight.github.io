@@ -211,7 +211,7 @@ In which the relationship in Switzerland of political affiliation to cycling fre
 45/ #365papers
 Do Left-wing Voters Cycle more than Right-wing Voters?
 https://findingspress.org/article/129401-do-left-wing-voters-cycle-more-than-right-wing-voters
-#################################################################
+
 In which the evidence of whether we have passed the 1.5C threshold is examined. Finding that June 2024 was the first 12 months of global mean surface temperatures of 1.5C. This has previously been expected in last 2020 or early 2030. Implications for CMIP6, conditioned on number of observations above 1.5C. Possible short term exceedence causes, Tonga 2022 eruption and 2020 shipping regulations. If 1.5C anomalies continue more than 18 months, Paris Agreement threshold breach certain under SSP 2-4.5 or 5-8.5.
 46/ #365papers
 Twelve months at 1.5 °C signals earlier than expected breach of Paris Agreement threshold
@@ -221,7 +221,7 @@ In which warming in relation to the Paris Agreement 1.5C target is discussed. 20
 47/ #365papers
 A year above 1.5 °C signals that Earth is most probably within the 20-year period that will reach the Paris Agreement limit
 https://www.nature.com/articles/s41558-025-02246-9
-
+#################################################################
 In which the impact of GenAI on critical thinking is quantified. Critical thinking includes knowledge, comprehension, application, analysis, synthesis, and evaluation. Findings are that higher confidence in GenAI results are associated with less critical thinking. Reduced effort leads to less engagement with tasks. Authors recommend GenAI should create awareness of lack of critical thinking. I guess this is the system somehow forcing the user to think about what they are doing? I guess also knowledge workers are supposed to accept that they are responsible for whatever GenAI outputs and think critically about how the GenAI is working. Sounds pretty wishful and I assume people will just press the buttons and zone out, because they can.
 48/ #365papers
 The Impact of Generative AI on Critical Thinking: Self-Reported Reductions in Cognitive Effort and Confidence Effects From a Survey of Knowledge Workers
