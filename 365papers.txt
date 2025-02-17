@@ -221,19 +221,42 @@ In which warming in relation to the Paris Agreement 1.5C target is discussed. 20
 47/ #365papers
 A year above 1.5 °C signals that Earth is most probably within the 20-year period that will reach the Paris Agreement limit
 https://www.nature.com/articles/s41558-025-02246-9
-#################################################################
+
 In which the impact of GenAI on critical thinking is quantified. Critical thinking includes knowledge, comprehension, application, analysis, synthesis, and evaluation. Findings are that higher confidence in GenAI results are associated with less critical thinking. Reduced effort leads to less engagement with tasks. Authors recommend GenAI should create awareness of lack of critical thinking. I guess this is the system somehow forcing the user to think about what they are doing? I guess also knowledge workers are supposed to accept that they are responsible for whatever GenAI outputs and think critically about how the GenAI is working. Sounds pretty wishful and I assume people will just press the buttons and zone out, because they can.
 48/ #365papers
 The Impact of Generative AI on Critical Thinking: Self-Reported Reductions in Cognitive Effort and Confidence Effects From a Survey of Knowledge Workers
 https://www.microsoft.com/en-us/research/publication/the-impact-of-generative-ai-on-critical-thinking-self-reported-reductions-in-cognitive-effort-and-confidence-effects-from-a-survey-of-knowledge-workers/
-
+#################################################################
+In which the microclimates of artificial turf is measured and compared to grass. Is artificial hotter (higher air and surface temperature) because of evapotranspiration? But it is porous, so there can be soil moisture. Findings are soil moisture under artificial decreased slower than grass, possibly greater resistance to vapour transport from compacted soil. Mean daytime air temperatures 0.6C higher then unirrigated grass and 0.8C higher than irrigated. Nighttime also higher. Vapour pressure differences smaller than instrument accuracy. Mean radiant temperature 1.2C higher. Surface temperature much higher, 49.9C vs 31.7 and 29.9. Four hours during the day, surface temperatures high enough to cause human skin burns (from 15 seconds of contact), because lower albedos, lower specific heat capacity, lower evapotranspiration. Artificial had high ground heat flux.
 49/ #365papers
-50/ #365papers
+The microclimate, surface energy flux and human skin burn risks of artificial turf as compared to natural turf
+https://linkinghub.elsevier.com/retrieve/pii/S0360132325001611
 
+In which the trends of residental mobility (moving house) in the US over 1985-2019 are examined. Local moves dominate the trends (65% are within states). Positive net migration to sunbelt states (TX, FL, NC, AZ, TN, SC) continues. Some increased migration to WA, OR, CO, ID. Moving from NY, CA, IL. Overall dropping mobility. National mobility rate was 20% in 1948 -> 18% in mid-80s -> 10% in 2019. Local moves 15% in 1980s -> 8% in 2019. Sharpest declines among younger adults. Number of renting household increased while moving renters declined. Reasons behind declines might be ageing population, housing unaffordability, increasing dual income families, more working from home. Implications of Americans becoming less "worldly"?
+50/ #365papers
+Are Americans Stuck in Place? Declining Residential Mobility in the US
+https://www.jchs.harvard.edu/sites/default/files/harvard_jchs_are_americans_stuck_in_place_frost_2020.pdf
+
+In which certain "tortured phrases" are catalogued and used to detect paper mill publications. Paper mills churn out articles to boost 'publish or perish' statistics through falsification, fabrication, and plagiarism. "Spinners" disguise plagiarism through paraphrasing, replacements of "convolutional neural network" might end up as "convolutional brain organization".  Search through recently published papers to catalog lists of these phrases to use as fingerprints. Finding substitions such as "Electoral integrity" -> "Uprightness of the votes", "Centers for disease control and prevention" -> "Communities for infectious prevention and anticipation", and "Fraud" -> "Trickery in conduct". Scanning PubPeer with these phrases flagged a number of suspicious publications.
 51/ #365papers
+Unveiling tortured phrases in Humanities and Social Sciences
+https://arxiv.org/abs/2502.04944
+
+In which the shifts in tree ranges in the western US due to climate change are assessed. "Trailing edge/leading edge", the shift ("march") from warmer areas to cooler areas can lead to "contraction" if only one shift occurs without the other. Migration requires seed production and dispersal to new areas and successful growth of those new trees. Disturbances can enable migrations (removing competition by killing trees) but also eliminate seed sources. The 15 dominant species in the western US are undergoing losses due to disturbances and lack of regeneration in hotter areas. Assisted migration might be necessary to facilitate continued migration.
 52/ #365papers
+Trailing edge contractions common in interior western US trees under varying disturbances
+https://www.nature.com/articles/s41558-024-02235-4
+
+In which the emergence of the concept of stochastic terrorism is discussed. Influential individuals demonise target groups or individuals (i.e. the current demonisation of trans people), inspiring others to take up violence against them. Previously was the "lone wolf" terrorism, what provoked them to violence? A shift in who is the terrorist: the individual doing the violence or the one who inspired the violence (Fox News, Glenn Beck, etc)? How to characterise intent in terrorism? Can violent intent be pinned on the stochastic terrorist (plausible denialability, I had no idea my words would lead to this.)? Question of demonisation, definition is neural, not whether it is right or wrong to do it. So, should also include whether it includes misleadingness or deceitfulness. Dehumanising (already a tactic of authoritarianism) is also part of it. And stochastic terrorism becoming a tool of authoritarian politics. Also, include moral panics (the enemy within). All of the above must be considered in formulating counterterrorism. 
 53/ #365papers
+Stochastic terrorism: critical reflections on an emerging concept
+https://www.tandfonline.com/doi/full/10.1080/17539153.2024.2305742
+
+In which motor vehicle crash costs are quantified. Divided into internal (individuals in crashes) and external costs (costs to victims, insurers, and government). Findings generally correspond with previous research (range of overall costs $0.02 to 0.08 per vehicle km). Their case study shows internal costs at $0.13/veh km and external of $0.079/veh km. Costs caused by drivers higher than those imposed on others. Highways generally safer than surface streets. Crash costs generally too low compared to travel time costs (valued at $18.30/hr), but drivers are not aware of these costs. And yes, policies should include incentives for safe driving.
 54/ #365papers
+The internal and external cost of motor vehicle crashes
+https://www.nature.com/articles/s41598-025-89058-1
+
 55/ #365papers
 56/ #365papers
 57/ #365papers
