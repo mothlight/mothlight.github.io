@@ -256,7 +256,7 @@ In which motor vehicle crash costs are quantified. Divided into internal (indivi
 54/ #365papers
 The internal and external cost of motor vehicle crashes
 https://www.nature.com/articles/s41598-025-89058-1
-#################################################################
+
 In which a number of LLMs (ChatGPT 4, ChatGPT 4o, Claude, Gemini 1, Gemini 1.5) are given the MoCA test (neurology test for cognitive impairment and dementia, i.e. Person, Woman, Man, Camera, TV). The Stroop test (visual attention/information processing) is also administered. All models (except 4o) show some cognitive impairment. All performed poorly on visuospatial/executive function. Naming, attention, language, and abstraction performed well. Further tests on visuospatial, all did poorly on MoCA clock drawing and trail making test. Some LLMs showed avoidant behaviour.
 55/ #365papers
 Age against the machine—susceptibility of large language models to cognitive impairment: cross sectional analysis
@@ -266,7 +266,7 @@ In which current state of the art LLMs (o1, GPT4o, and Claude 3.5) are benchmark
 56/ #365papers
 SWE-Lancer: Can Frontier LLMs Earn $1 Million from Real-World Freelance Software Engineering?
 http://arxiv.org/abs/2502.12115
-
+#################################################################
 57/ #365papers
 58/ #365papers
 59/ #365papers
