@@ -266,11 +266,41 @@ In which current state of the art LLMs (o1, GPT4o, and Claude 3.5) are benchmark
 56/ #365papers
 SWE-Lancer: Can Frontier LLMs Earn $1 Million from Real-World Freelance Software Engineering?
 http://arxiv.org/abs/2502.12115
-#################################################################
+
+In which life expectancies in the Gaza Strip are calculated. Findings are the ongoing war on Gaza has reduced life expectancy by more than 30 years during 10/23 to 9/24 (nearly half of prewar levels). Reported deaths (killed) during this time are around 46,000 (and 10,000 missing). Data from Gaza Health Ministry has uncertainties. But this conservative accounting could be an underestimate. Also, probably doesn't account for starvation, malnutrition, or access to health care (i.e. indirect effects of war).  
 57/ #365papers
+Life expectancy losses in the Gaza Strip during the period October, 2023, to September, 2024
+https://linkinghub.elsevier.com/retrieve/pii/S0140673624028101
+
+In which the amount of space used for renewables across the world is compared to space allocated to golf courses. Authors counted 38,000 golf courses across the world (16k in the US), average size of 0.8km2. Significant increase in golf courses since 1985. Renewable requires 0.015km2/MW. So Canada 16x more golf space than renewables, 6x UK, 4x US, 1.25x Germany. Number of golf courses projected to grow. Energy justice, golf courses are exclusive while energy is a public necessity. Most countries could meet 2028 renewables capacity forecast with golf course land (except Germany, S Korea, France). And China also, which can't meet current renewables on their golf courses.
 58/ #365papers
+Countries across the world use more land for golf courses than wind or solar energy
+https://iopscience.iop.org/article/10.1088/2515-7620/adb7bd
+#################################################################
+In which the economic returns on US foreign aid are quantified. Hypothesis is aid boosts exports by economic growth of recipient country and the good will from the aid. Examines commercial returns from 39 countries over 22 years. Findings that each dollar of foreign aid gained $8 in exports through bilateral trade. The economic returns are in addition to donor reputation, social responsibility.
 59/ #365papers
+U.S. foreign aid: Marketization, social responsibility, and economic returns
+https://onlinelibrary.wiley.com/doi/10.1002/pad.2075
+
+In which the under reporting of of high air temperatures across Sydney is studied. Sydney is covered by 5 official BOM weather stations. Air temperature loggers were installed at 274 locations across Sydney. Findings of long-term increases in hot days, especially in 2000-2020. Longer and more intense heatwaves 2010-20 compared to 2000-10. Forecast of nearly doubling hot days in 2060. BOM station coverage insufficient to account for areas exceeding official heat records (number of hot days), some areas max temperatures exceeding by 8C. Other areas, number of extreme days 15x what recorded by BOM. Impacts especially in western Sydney. Highlights need for higher resolution sensor networks.
 60/ #365papers
+Spatiotemporal variation of intra-urban heat and heatwaves across Greater Sydney, Australia
+https://linkinghub.elsevier.com/retrieve/pii/S2212094724001026
+
+
+
+
+
+
+
+
+In which the roots of motonormativity (the over reliance on private automotive transport is unquestioned and considered just the normal way the world should work) are examined. Same biases are shared even by non-drivers. But is this bias shared by countries with cultural norms more aligned with non-motorised mobility (Netherlands)? Findings of pluralistic ignorance (majority believe social consensus is different to theirs and they are a minority), I am more supportive of non-car travel.
+Why do cars get a free ride? The social-ecological roots of motonormativity
+https://linkinghub.elsevier.com/retrieve/pii/S0959378025000172
+
+
+
+
 
 61/ #365papers
 62/ #365papers
