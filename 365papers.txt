@@ -276,13 +276,13 @@ In which the amount of space used for renewables across the world is compared to
 58/ #365papers
 Countries across the world use more land for golf courses than wind or solar energy
 https://iopscience.iop.org/article/10.1088/2515-7620/adb7bd
-#################################################################
+
 In which the economic returns on US foreign aid are quantified. Hypothesis is aid boosts exports by economic growth of recipient country and the good will from the aid. Examines commercial returns from 39 countries over 22 years. Findings that each dollar of foreign aid gained $8 in exports through bilateral trade. The economic returns are in addition to donor reputation, social responsibility.
 59/ #365papers
 U.S. foreign aid: Marketization, social responsibility, and economic returns
 https://onlinelibrary.wiley.com/doi/10.1002/pad.2075
 
-In which the under reporting of of high air temperatures across Sydney is studied. Sydney is covered by 5 official BOM weather stations. Air temperature loggers were installed at 274 locations across Sydney. Findings of long-term increases in hot days, especially in 2000-2020. Longer and more intense heatwaves 2010-20 compared to 2000-10. Forecast of nearly doubling hot days in 2060. BOM station coverage insufficient to account for areas exceeding official heat records (number of hot days), some areas max temperatures exceeding by 8C. Other areas, number of extreme days 15x what recorded by BOM. Impacts especially in western Sydney. Highlights need for higher resolution sensor networks.
+In which the under reporting of high air temperatures across Sydney is studied. Sydney is covered by 5 official BOM weather stations. Air temperature loggers were installed at 274 locations across Sydney. Findings of long-term increases in hot days, especially in 2000-2020. Longer and more intense heatwaves 2010-20 compared to 2000-10. Forecast of nearly doubling hot days in 2060. BOM station coverage insufficient to account for areas exceeding official heat records (number of hot days), some areas max temperatures exceeding by 8C. Other areas, number of extreme days 15x what recorded by BOM. Impacts especially in western Sydney. Highlights need for higher resolution sensor networks.
 60/ #365papers
 Spatiotemporal variation of intra-urban heat and heatwaves across Greater Sydney, Australia
 https://linkinghub.elsevier.com/retrieve/pii/S2212094724001026
@@ -297,17 +297,45 @@ In which how structures of power influence travel behaviour and mobility emissio
 Traffic pollution as a privilege: An intersectional approach to environmental justice and transport emissions
 https://linkinghub.elsevier.com/retrieve/pii/S1361920923004297
 
-
-
+March 4
+In which life-expectancies in 24 countries are (indirectly) impacted by COVID-19. Previous to COVID-19, Eastern Europe expectancies increasing, compared to slowdowns in Western Europe, stagnation in the UK and declining in the US. In 2020, expectancies declined except in AU, DK, JP, and KR. Largest decline in US. Further declines in 2021, followed by gains in 2022. Increases in cardiovascular disease (CVD) mortality in most countries during COVID. Drug mortality continue to rise in CAN, SCT, US. Only small changes in suicide, rises in alcohol, reductions in cancer. Expectancies in 2022 still not returned to pre-COVID yet. Possibly because lingering COVID effects, strain on healthcare systems, preexisting social inequities, and misclassified COVID deaths.
 63/ #365papers
+Indirect effects of the COVID-19 pandemic: A cause-of-death analysis of life expectancy changes in 24 countries, 2015 to 2022
+https://academic.oup.com/pnasnexus/article/doi/10.1093/pnasnexus/pgae508/7928941
+
+In which the building separated cycling infrastructure has differing effects on usage by gender, over 4 years in Valencia, before and after introducing segregated cycle lanes. The usage doubled before and after (including existing segregated and newly introduced lanes). However, the new segregated lanes had a bigger impact on more women using them, 2.44x more than men. Increases were 1.9x for men and 3.8x for women. 
 64/ #365papers
+Effects of building cycling infrastructure on bicycle use: Differences by gender through a longitudinal natural experiment study
+https://linkinghub.elsevier.com/retrieve/pii/S0739885925000149
+#################################################################
+In which a new heat index, heat-safe play index (H-SPI), is developed for children in outdoor playgrounds. Considered UV exposure and radiant heat, hot surfaces, and dehydration. Playgrounds were rated for shade, surface materials, drinking water, and rest areas. Most playground had some shade (tree or engineered). No playground were fully shaded and most had dark synthetic surfaces (i.e. hot surfaces). Very few had mulch or light coloured synthetics. Only 1/3 had drinking water. most playground seating was unshaded or partially shaded. Results provide long list of work to be done to upgrade playgrounds to be more heat safe.
 65/ #365papers
+The heat-safe play index (H-SPI): A tool to compare relative thermal safety of outdoor playgrounds
+https://linkinghub.elsevier.com/retrieve/pii/S1618866725000810
+
+In which a systematic review into research into urban vegetation over the last 23 years is performed. In 2000, only 5 articles published, growing to 142 in 2023. CN most articles, followed by US, AU, and DE. Keyword trends have shifted from vegetation monitoring to ecosystem services and cooling. Four major clusters of authorship center around some key authors (Oke, Li, Nowak, Myint). A few key Chinese institutions lead the field. Discipline of environmental science most productive. Still limited cross-country collaboration. More research should be on urban specific species and ecological services. Limited research on aquatic vegetation.
 66/ #365papers
+A Systematic Review of Urban Vegetation Research during 2000–2023: A Bibliometric Analysis
+https://onlinelibrary.wiley.com/doi/10.1155/2024/4313232
+
+In which different types of trees (different crown shapes) in planters are tested for urban heat mitigation and improvements in outdoor thermal comfort across Novi Sad, Serbia. Modelling done in Rhinoceros using Ladybug. Evolutionary algorithm used to find favourable locations for trees. Compared distribution of UTCI across locations with no trees, sphere crowns, cylinder and cone-shaped crowns. Different locations showed varied reductions based on the urban geometry. Two locations best reductions with cylinder-shaped crown and a third with sphere-shaped. Depends on what other existing shading exists, urban orientation, and effects on wind.
 67/ #365papers
+Mitigating urban heat island effects using trees in planters with varied crown shapes
+https://linkinghub.elsevier.com/retrieve/pii/S0378778824011502
+
+In which metrics on ResearchGate are reverse engineered and analysis described on how small groups of researchers can artificially inflate their metrics. Metrics based on citations, h-index, reads, and recommendations. Can also be through comments, follow/following, Q&A. Or research interest, joining projects, and uploading preprints. Bots can inflate reads (fake downloads). Example of somebody with 128k reads (among lots of other fraud) doubling their metrics over 3 years. Inflating with meaningless comments, fake recommendations. All interesting, but does anybody really use RG metrics in any serious way?
 68/ #365papers
+Metrics fraud on ResearchGate
+https://linkinghub.elsevier.com/retrieve/pii/S1751157724001160
+
+In which the current policies of Victoria, AU are assessed as to their adequacy towards the Paris Agreement 1.5C goal. Do they target GHG emissions? Is the coverage of the policies across the whole built environment? Looked at 96 policy instruments. Evaluation includes inclusion, prescription, horizontal and vertical integration, and balance. 76% of policies had no emissions target, 9% didn't quantify or timebound. Only 15% had targets (and mostly were very recently policies). Also, were not deeply embedded (vertical or horizontal) or balanced across other policies. Doesn't address climate justice. Policies judged inadequate (yet ambitious).
 69/ #365papers
+Translating global emission reduction goals into built environment policy instruments: an ambitious yet inadequate policy portfolio for Victoria, Australia
+https://www.tandfonline.com/doi/full/10.1080/14693062.2025.2459319
+
 70/ #365papers
 
+March 12
 71/ #365papers
 72/ #365papers
 73/ #365papers
@@ -319,7 +347,7 @@ https://linkinghub.elsevier.com/retrieve/pii/S1361920923004297
 79/ #365papers
 80/ #365papers
 
-
+March 22
 81 #365papers
 82 #365papers
 83 #365papers
@@ -339,6 +367,8 @@ https://linkinghub.elsevier.com/retrieve/pii/S1361920923004297
 97 #365papers
 98 #365papers
 99 #365papers
+
+April 10
 100 #365papers
 101 #365papers
 102 #365papers
@@ -359,6 +389,8 @@ https://linkinghub.elsevier.com/retrieve/pii/S1361920923004297
 117 #365papers
 118 #365papers
 119 #365papers
+
+April 30
 120 #365papers
 121 #365papers
 122 #365papers
@@ -379,6 +411,8 @@ https://linkinghub.elsevier.com/retrieve/pii/S1361920923004297
 137 #365papers
 138 #365papers
 139 #365papers
+
+May 20
 140 #365papers
 141 #365papers
 142 #365papers
@@ -399,6 +433,8 @@ https://linkinghub.elsevier.com/retrieve/pii/S1361920923004297
 157 #365papers
 158 #365papers
 159 #365papers
+
+June 9
 160 #365papers
 161 #365papers
 162 #365papers
@@ -419,6 +455,8 @@ https://linkinghub.elsevier.com/retrieve/pii/S1361920923004297
 177 #365papers
 178 #365papers
 179 #365papers
+
+June 29
 180 #365papers
 181 #365papers
 182 #365papers
@@ -439,6 +477,8 @@ https://linkinghub.elsevier.com/retrieve/pii/S1361920923004297
 197 #365papers
 198 #365papers
 199 #365papers
+
+July 19
 200 #365papers
 201 #365papers
 202 #365papers
@@ -459,6 +499,8 @@ https://linkinghub.elsevier.com/retrieve/pii/S1361920923004297
 217 #365papers
 218 #365papers
 219 #365papers
+
+August 8
 220 #365papers
 221 #365papers
 222 #365papers
@@ -489,6 +531,8 @@ https://linkinghub.elsevier.com/retrieve/pii/S1361920923004297
 247 #365papers
 248 #365papers
 249 #365papers
+
+September 7
 250 #365papers
 251 #365papers
 252 #365papers
@@ -519,6 +563,8 @@ https://linkinghub.elsevier.com/retrieve/pii/S1361920923004297
 277 #365papers
 278 #365papers
 279 #365papers
+
+October 7
 280 #365papers
 281 #365papers
 282 #365papers
@@ -539,6 +585,8 @@ https://linkinghub.elsevier.com/retrieve/pii/S1361920923004297
 297 #365papers
 298 #365papers
 299 #365papers
+
+October 27
 300 #365papers
 301 #365papers
 302 #365papers
@@ -559,6 +607,8 @@ https://linkinghub.elsevier.com/retrieve/pii/S1361920923004297
 317 #365papers
 318 #365papers
 319 #365papers
+
+November 16
 320 #365papers
 321 #365papers
 322 #365papers
@@ -579,6 +629,8 @@ https://linkinghub.elsevier.com/retrieve/pii/S1361920923004297
 337 #365papers
 338 #365papers
 339 #365papers
+
+December 6
 340 #365papers
 341 #365papers
 342 #365papers
