@@ -307,8 +307,8 @@ In which the building separated cycling infrastructure has differing effects on 
 64/ #365papers
 Effects of building cycling infrastructure on bicycle use: Differences by gender through a longitudinal natural experiment study
 https://linkinghub.elsevier.com/retrieve/pii/S0739885925000149
-#################################################################
-In which a new heat index, heat-safe play index (H-SPI), is developed for children in outdoor playgrounds. Considered UV exposure and radiant heat, hot surfaces, and dehydration. Playgrounds were rated for shade, surface materials, drinking water, and rest areas. Most playground had some shade (tree or engineered). No playground were fully shaded and most had dark synthetic surfaces (i.e. hot surfaces). Very few had mulch or light coloured synthetics. Only 1/3 had drinking water. most playground seating was unshaded or partially shaded. Results provide long list of work to be done to upgrade playgrounds to be more heat safe.
+
+In which a new heat index, heat-safe play index (H-SPI), is developed for children in outdoor playgrounds. Considered UV exposure and radiant heat, hot surfaces, and dehydration. Playgrounds were rated for shade, surface materials, drinking water, and rest areas. Most playground (142 across Sydney) had some shade (tree or engineered). No playground were fully shaded and most had dark synthetic surfaces (i.e. hot surfaces). Very few had mulch or light coloured synthetics. Only 1/3 had drinking water. Most playground seating was unshaded or partially shaded. Results provide long list of work to be done to upgrade playgrounds to be more heat safe.
 65/ #365papers
 The heat-safe play index (H-SPI): A tool to compare relative thermal safety of outdoor playgrounds
 https://linkinghub.elsevier.com/retrieve/pii/S1618866725000810
@@ -317,7 +317,7 @@ In which a systematic review into research into urban vegetation over the last 2
 66/ #365papers
 A Systematic Review of Urban Vegetation Research during 2000–2023: A Bibliometric Analysis
 https://onlinelibrary.wiley.com/doi/10.1155/2024/4313232
-
+#################################################################
 In which different types of trees (different crown shapes) in planters are tested for urban heat mitigation and improvements in outdoor thermal comfort across Novi Sad, Serbia. Modelling done in Rhinoceros using Ladybug. Evolutionary algorithm used to find favourable locations for trees. Compared distribution of UTCI across locations with no trees, sphere crowns, cylinder and cone-shaped crowns. Different locations showed varied reductions based on the urban geometry. Two locations best reductions with cylinder-shaped crown and a third with sphere-shaped. Depends on what other existing shading exists, urban orientation, and effects on wind.
 67/ #365papers
 Mitigating urban heat island effects using trees in planters with varied crown shapes
@@ -333,10 +333,17 @@ In which the current policies of Victoria, AU are assessed as to their adequacy 
 Translating global emission reduction goals into built environment policy instruments: an ambitious yet inadequate policy portfolio for Victoria, Australia
 https://www.tandfonline.com/doi/full/10.1080/14693062.2025.2459319
 
+In which the Australia Institute polls Australians about their opinions of the US-AU alliance in 2025. 31% think Trump is a greater threat (slightly) than Putin or Xi. Majority of women feel less secure since the US election (13% more secure). 44% want a more independent foreign policy. Nearly half believe the US won't defend AU interests if threatened. Half believe the Trump election was bad for the world. Only One Nation voters felt more secure. 48% Labor voters want more independent foreign policy while 49% Coalition want closer alliance. 
 70/ #365papers
+Polling – President Trump, security and the US–Australian alliance
+https://australiainstitute.org.au/report/polling-president-trump-security-and-the-us-australian-alliance/
 
 March 12
+In which the potential for solar farms serving as bird habitat is analysed. Comparisions are made between solar farms and agricultural land (AG) and whether biodiversity management (simple solar habitat, SSH, or mixed solar habitat, MSH) helps. Bird surveys performed across solar farms and AG land (control). MSH farms most species while SSH only slightly more than AG. Likely due to woody features (trees and hedgerows). Bird abundance at MSH 31.5, SSH 17, AG 11.9. Species richness MSH 13.5, SSH 5.3, AG 5.5. Solar farms can support biodiversity when managed properly.
 71/ #365papers
+Solar farm management influences breeding bird responses in an arable-dominated landscape
+https://www.tandfonline.com/doi/full/10.1080/00063657.2025.2450392
+
 72/ #365papers
 73/ #365papers
 74/ #365papers
