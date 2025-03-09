@@ -2,6 +2,7 @@ I did 365papers a few years ago. Lots of work but ultimately quite rewarding rea
 1/ #365papers 
 In which a new module for the PUCM urban canopy model is developed, PUCM-mist, to model the impacts of misters. Modelling is performed for Phoenix and Houston (dry and humid climates), finding a flow rate of 0.1L/min can induce reductions in maximum canyon air temperature of 17.5C. Cooling is also seen in Houston, but about half that amount. Optimal cooling under intermediate wind speeds. Rapid cooling can be induced through the combination of misting and pavement sprinkling. Trying to wrap my head around the 17.5C, which is huge, but using lots of water and saturating the air, and altering both the potential maximum temperature and the time of day the maximum is reached.
 https://doi.org/10.1016/j.landurbplan.2024.105290 
+Urban heat mitigation through misting, and its role in broader blue infrastructure portfolios
 
 In which the author (who is the founder of Sci-Hub) discusses different types of open access for scientific publications (and color codes), ranging from Sci-Hub (red), open access - PloS, MDPI, Frontiers (yellow/gold), preprints - arXiv (green), academic social networks - ResearchGate (blue). New categories beyond the green and gold ones established after the Budapest Open Access Initiative.
 https://www.preprints.org/manuscript/202409.0197/v2
@@ -317,12 +318,12 @@ In which a systematic review into research into urban vegetation over the last 2
 66/ #365papers
 A Systematic Review of Urban Vegetation Research during 2000–2023: A Bibliometric Analysis
 https://onlinelibrary.wiley.com/doi/10.1155/2024/4313232
-#################################################################
+
 In which different types of trees (different crown shapes) in planters are tested for urban heat mitigation and improvements in outdoor thermal comfort across Novi Sad, Serbia. Modelling done in Rhinoceros using Ladybug. Evolutionary algorithm used to find favourable locations for trees. Compared distribution of UTCI across locations with no trees, sphere crowns, cylinder and cone-shaped crowns. Different locations showed varied reductions based on the urban geometry. Two locations best reductions with cylinder-shaped crown and a third with sphere-shaped. Depends on what other existing shading exists, urban orientation, and effects on wind.
 67/ #365papers
 Mitigating urban heat island effects using trees in planters with varied crown shapes
 https://linkinghub.elsevier.com/retrieve/pii/S0378778824011502
-
+#################################################################
 In which metrics on ResearchGate are reverse engineered and analysis described on how small groups of researchers can artificially inflate their metrics. Metrics based on citations, h-index, reads, and recommendations. Can also be through comments, follow/following, Q&A. Or research interest, joining projects, and uploading preprints. Bots can inflate reads (fake downloads). Example of somebody with 128k reads (among lots of other fraud) doubling their metrics over 3 years. Inflating with meaningless comments, fake recommendations. All interesting, but does anybody really use RG metrics in any serious way?
 68/ #365papers
 Metrics fraud on ResearchGate
@@ -344,9 +345,21 @@ In which the potential for solar farms serving as bird habitat is analysed. Comp
 Solar farm management influences breeding bird responses in an arable-dominated landscape
 https://www.tandfonline.com/doi/full/10.1080/00063657.2025.2450392
 
+In which characteristics for pedestrian mobility in urban areas are examined. Traditional approaches are based on the DMA (Density, functional Mix, and Access) mix. Authors look at permeability through random walks on city sidewalks (porous leading to diffusion and calculations of net flow). Results align with Jacobs' observations of shorter edge lengths and more intricate network structure leads to higher diffusion. Applied to sidewalk networks of 3 cities, diffusion is unevenly distributed. Historic city core areas tend to have better permeability. Natural barriers (rivers) can lower permeability, but in the case of Paris, as urban structure organically developed over the years around the Seine has minimised the effects.
 72/ #365papers
+Exploring pedestrian permeability in urban sidewalk networks
+https://linkinghub.elsevier.com/retrieve/pii/S0960077925001274
+
+Modelling results of Tmrt from ENVI-met, TRNSYS, Ladybug/Honeybee, CitySim, and SOLENE-microclimat are compared. All of the tools are commercial (except Ladybug). Tmrt calculation method for ENVI-met is still not published. It probably neglects diffuse shortwave reflected by walls and albedos can only be set domain wide (as well as surface emissivities). Two hemisphere approach probably ok for pedestrian height but probably errors at greater heights (balconies). Ladybug documents Tmrt approach. Neglects longwave reflections and surrounding surfaces emissivities=1 (errors with glass or metal surfaces). And same possible height problem as above. CitySim might have errors with low-emissivity surfaces. TRNSYS is relatively complete. SOLENE-microclimat, no recent descriptions of calculations. Seems complete except multiple reflections.
 73/ #365papers
+Modelling mean radiant temperature in outdoor environments: contrasting the approaches of different simulation tools
+https://iopscience.iop.org/article/10.1088/1742-6596/2069/1/012186
+
+In which 250 papers (2010-2023) are reviewed about urban greenery cooling. Major trends are urban heat island, ENVI-met, thermal comfort, urban vegetation, microclimate and LST. Most research in developed nations: Asia, EU and US. Climate zones of Cfa, Cfb, Csa. China research accelerating from 2009. Little research in semi-arid and desert.
 74/ #365papers
+From Block to City Scale: Greenery’s Contribution to Cooling the Urban Environment
+https://www.mdpi.com/2413-8851/8/2/41
+
 75/ #365papers
 76/ #365papers
 77/ #365papers
