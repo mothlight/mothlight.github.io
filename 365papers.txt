@@ -323,7 +323,7 @@ In which different types of trees (different crown shapes) in planters are teste
 67/ #365papers
 Mitigating urban heat island effects using trees in planters with varied crown shapes
 https://linkinghub.elsevier.com/retrieve/pii/S0378778824011502
-#################################################################
+
 In which metrics on ResearchGate are reverse engineered and analysis described on how small groups of researchers can artificially inflate their metrics. Metrics based on citations, h-index, reads, and recommendations. Can also be through comments, follow/following, Q&A. Or research interest, joining projects, and uploading preprints. Bots can inflate reads (fake downloads). Example of somebody with 128k reads (among lots of other fraud) doubling their metrics over 3 years. Inflating with meaningless comments, fake recommendations. All interesting, but does anybody really use RG metrics in any serious way?
 68/ #365papers
 Metrics fraud on ResearchGate
@@ -340,7 +340,7 @@ Polling – President Trump, security and the US–Australian alliance
 https://australiainstitute.org.au/report/polling-president-trump-security-and-the-us-australian-alliance/
 
 March 12
-In which the potential for solar farms serving as bird habitat is analysed. Comparisions are made between solar farms and agricultural land (AG) and whether biodiversity management (simple solar habitat, SSH, or mixed solar habitat, MSH) helps. Bird surveys performed across solar farms and AG land (control). MSH farms most species while SSH only slightly more than AG. Likely due to woody features (trees and hedgerows). Bird abundance at MSH 31.5, SSH 17, AG 11.9. Species richness MSH 13.5, SSH 5.3, AG 5.5. Solar farms can support biodiversity when managed properly.
+In which the potential for solar farms serving as bird habitat is analysed. Comparisons are made between solar farms and agricultural land (AG) and whether biodiversity management (simple solar habitat, SSH, or mixed solar habitat, MSH) helps. Bird surveys performed across solar farms and AG land (control). MSH farms most species while SSH only slightly more than AG. Likely due to woody features (trees and hedgerows). Bird abundance at MSH 31.5, SSH 17, AG 11.9. Species richness MSH 13.5, SSH 5.3, AG 5.5. Solar farms can support biodiversity when managed properly.
 71/ #365papers
 Solar farm management influences breeding bird responses in an arable-dominated landscape
 https://www.tandfonline.com/doi/full/10.1080/00063657.2025.2450392
@@ -354,7 +354,7 @@ Modelling results of Tmrt from ENVI-met, TRNSYS, Ladybug/Honeybee, CitySim, and 
 73/ #365papers
 Modelling mean radiant temperature in outdoor environments: contrasting the approaches of different simulation tools
 https://iopscience.iop.org/article/10.1088/1742-6596/2069/1/012186
-
+#################################################################
 In which 250 papers (2010-2023) are reviewed about urban greenery cooling. Major trends are urban heat island, ENVI-met, thermal comfort, urban vegetation, microclimate and LST. Most research in developed nations: Asia, EU and US. Climate zones of Cfa, Cfb, Csa. China research accelerating from 2009. Little research in semi-arid and desert.
 74/ #365papers
 From Block to City Scale: Greenery’s Contribution to Cooling the Urban Environment
