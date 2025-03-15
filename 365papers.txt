@@ -354,16 +354,34 @@ Modelling results of Tmrt from ENVI-met, TRNSYS, Ladybug/Honeybee, CitySim, and 
 73/ #365papers
 Modelling mean radiant temperature in outdoor environments: contrasting the approaches of different simulation tools
 https://iopscience.iop.org/article/10.1088/1742-6596/2069/1/012186
-#################################################################
+
 In which 250 papers (2010-2023) are reviewed about urban greenery cooling. Major trends are urban heat island, ENVI-met, thermal comfort, urban vegetation, microclimate and LST. Most research in developed nations: Asia, EU and US. Climate zones of Cfa, Cfb, Csa. China research accelerating from 2009. Little research in semi-arid and desert.
 74/ #365papers
 From Block to City Scale: Greenery’s Contribution to Cooling the Urban Environment
 https://www.mdpi.com/2413-8851/8/2/41
+#################################################################
 
+
+In which the role of academic freedom in defending democracy from authoritarian is examined. Pro-democracy bias in universities increases individual support for democracy (encouraging collective action against autocratization). Also, universities serve as coordination goods for collective action. Reflected through  1) teaching materials constructed without interference, 2) peer-pressure and discussions, 3) safe space for critical reflections, 4) participation in debates over controversial topics. But interestingly, both high and low levels of academic freedom also reduce the probabilities of onsets of autocratization (medium levels have probability of 2-3% country-year level). 
 75/ #365papers
+https://www.tandfonline.com/doi/full/10.1080/13510347.2023.2207213
+Academic freedom and the onset of autocratization
+
+In which the foraging activity of the superb lyrebirds (in SE Australia) are examined. They can be considered ecosystem engineers. They modify about 155 tons/ha/year while foraging for invertebrates. They mix, turn over, and aerate litter and soil layers, replenishing biomass and diversity of the prey (i.e. farming) and more than compensate for their offtake. The enhanced diversity and biomass has many positive implications (structure and function of forest ecosystems) and assist in responses to disturbances (wildfire). Engineering species such as the lyrebird are scarce but more common than thought.
 76/ #365papers
+Foraging activity by an ecosystem engineer, the superb lyrebird, ‘farms’ its invertebrate prey
+https://doi.org/10.1111%2F1365-2656.70009
+
+In which confidence and competence in individuals with different personality traits are rated. Results show positive correlations between social dominance and decision confidence. Extraversion might be related to both but not between the two. A second experiment replicates the correlations between social dominance and extraversion, but no relationship with both and confidence for memory. Third experiment replicates Ex. 1 but extraversion not related to decision confidence. Concluding that socially dominant are more confident in decisions but not more accurate. Implications of whether leaders actually make better decisions (in spite of their confidence).
 77/ #365papers
+Confidence does not equal competence: Socially dominant individuals are more confident in their decisions without being more accurate
+https://linkinghub.elsevier.com/retrieve/pii/S0191886924004975
+
+In which the concept of technical debt (in software) is examined. Can be defined as 1) migrations needed, 2) missing technical documentation, 3) poor testing, 4) poor code quality, 5) abandoned or unused code, 6) degrading code, 7) staff turnover or inexperience with the code, 8) bad migration leads to parallel versions, 9) dependency problems, 10) out of date release process. All code has some sort of debt. Taking on more debt can sometimes be the correct engineering choice. Trying to measure debt and generate metrics so far hasn't been very successful. Overall, an ongoing problem that needs management.
 78/ #365papers
+Defining, Measuring, and Managing Technical Debt
+https://ieeexplore.ieee.org/document/10109339/
+
 79/ #365papers
 80/ #365papers
 
