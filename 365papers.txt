@@ -388,12 +388,19 @@ In which the state of birds are assessed in 2025 in the US. Following from a Sci
 79/ #365papers
 State of the Birds Report: United States of America
 https://www.stateofthebirds.org/2025/wp-content/uploads/2025/03/state-of-the-birds-sotb-2025-spreads.pdf
-#################################################################
 
+New publication day: In which we use system dynamics modelling to look at how cities' transport systems impact their capabilities to mitigate mobility and health impacts of future large scale infectious disease outbreaks and extreme weather events. Results show that increased modal shifts towards active transportation create increased resilience against future shocks under three scenarios, mild shift (50% reduction of private auto use), medium (shift of 30% and 40% to bus and cycling), major (60% and 40% to cycling and walking). All scenarios reduced susceptibility to flooding (4-50% deaths prevented) with greater results from more ambitious shifts. Only the major shift produced reduced vulnerabilities to infectious disease outbreaks. Cities with compact designs and support active transport more likely to produce increased resilience to future shocks.
 80/ #365papers
-
+Future-proofing cities against negative city mobility and public health impacts of impending natural hazards: a system dynamics modelling study
+https://www.sciencedirect.com/science/article/pii/S2542519625000269
+#################################################################
 March 22
+
+In which LLMs are shown to create buggy code. Apparently, all the various LLMs have included training from bug databases. When asked to fix buggy code, the LLMs often put back in the same bugs. Findings are the likelihood of LLMs generating correct code is nearly the same as generating buggy code (151 correct results vs 149 buggy). Results are much worse than standard code-completion. 44% of bugs produced by LLMs were identical to known historical bugs (82% in GPD-4o).
 81 #365papers
+LLMs are Bug Replicators: An Empirical Study on LLMs' Capability in Completing Bug-prone Code
+http://arxiv.org/abs/2503.11082
+
 82 #365papers
 83 #365papers
 84 #365papers
