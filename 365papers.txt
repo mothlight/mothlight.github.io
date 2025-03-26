@@ -393,15 +393,20 @@ New publication day: In which we use system dynamics modelling to look at how ci
 80/ #365papers
 Future-proofing cities against negative city mobility and public health impacts of impending natural hazards: a system dynamics modelling study
 https://www.sciencedirect.com/science/article/pii/S2542519625000269
-#################################################################
-March 22
 
+March 22
 In which LLMs are shown to create buggy code. Apparently, all the various LLMs have included training from bug databases. When asked to fix buggy code, the LLMs often put back in the same bugs. Findings are the likelihood of LLMs generating correct code is nearly the same as generating buggy code (151 correct results vs 149 buggy). Results are much worse than standard code-completion. 44% of bugs produced by LLMs were identical to known historical bugs (82% in GPD-4o).
 81 #365papers
 LLMs are Bug Replicators: An Empirical Study on LLMs' Capability in Completing Bug-prone Code
 http://arxiv.org/abs/2503.11082
 
+In which overall amounts of particulate matter (PM) from electric (EV) vs gasoline vehicles are analysed. Sources are exhaust emissions as well as tire and brake abrasion. Technology has reduced exhaust emissions while other sources have increased with increased road activity. Electric vehicles are heavier (approx 43%-battery, 29%-hybrids), so more tire emissions, but regenerative braking reduces brake PM emissions. For PM emissions to be less for EV, 15% of the travel must be city driving. For highway driving, traffic volume-to-capacity ratio should be at least 0.25 (i.e. more congested than free flowing).
 82 #365papers
+Electric versus gasoline vehicle particulate matter and greenhouse gas emissions: Large-scale analysis
+https://linkinghub.elsevier.com/retrieve/pii/S136192092500032X
+#################################################################
+
+24/03/25	83
 83 #365papers
 84 #365papers
 85 #365papers
