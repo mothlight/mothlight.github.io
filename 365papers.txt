@@ -404,14 +404,26 @@ In which overall amounts of particulate matter (PM) from electric (EV) vs gasoli
 82 #365papers
 Electric versus gasoline vehicle particulate matter and greenhouse gas emissions: Large-scale analysis
 https://linkinghub.elsevier.com/retrieve/pii/S136192092500032X
-#################################################################
 
 24/03/25	83
+In which decreasing throughput on Minneapolis-St Paul's freeway network over the last 25 years is attributed to a larger number of trucks (SUVs and tractor trailers). Data collected for 1995-2019 by automated traffic counters. Counters have increasingly recorded saturation situations over these years. Main change has been vehicle type. Number of SUVs increased 1043%, large trucks by 128%. The increasing size and number of these vehicles is negatively correlated with throughput. (Will probably get worse given the continued popularity of SUVs.)
 83 #365papers
+https://www.tandfonline.com/doi/full/10.1080/23249935.2025.2477817
+The rise of trucks and the fall of throughput
+
+In which energy usage for AI is discussed. Electricity demand in Virginia is expected to double within 10 years because of data centers (high concentration of centers in VA and 1/4 of state electricity use). Globally, future electricity demand slight increases overall due to AI. 20% of Ireland's electricity usage. And more than 10% in 5 US states. Very difficult to quantify the usage due to lack of transparency. Large challenge for dealing with usage in these dense clusters. Individual tasks usage (in Wh) 519 image generation, 288 text generation, 105 image captions, 23 answer question, 22 speech recognition, 7 summarization.
 84 #365papers
+https://www.nature.com/articles/d41586-025-00616-z
+How much energy will AI really consume? The good, the bad and the unknown
+
+In which the questions are asked, is the use of Twitter data declining in urban research and what might be lost if Twitter data remains unaccessible. Twitter accounted for 35% of social media sources in 1400 urban research papers. Usage peaks in 2020, rapid decline after 2021. Other social media sources follow similar trend but Twitter peaked earlier and has a steeper decline. Most common topic is mobility/activity followed by urban perception. Trends probably indicate research types and phenomena are changing.
 85 #365papers
+https://findingspress.org/article/133245-the-rise-and-fall-of-twitter-data-in-urban-analytics
+The Rise and Fall of Twitter Data in Urban Analytics
+#################################################################
+
 86 #365papers
-87 #365papers
+87 #365papers     28/03/25	87
 88 #365papers
 89 #365papers
 90 #365papers
