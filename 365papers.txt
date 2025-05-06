@@ -422,10 +422,27 @@ https://findingspress.org/article/133245-the-rise-and-fall-of-twitter-data-in-ur
 The Rise and Fall of Twitter Data in Urban Analytics
 #################################################################
 
+In which 16 million healthcare visits in Virginia across 2015-22 were analysed for heat-health impacts. Emergency room visits elevated when max daily heat index reaches 25.7C. 4.3% of ED visits are for high heat. Elevated ED visits corresponded with lower temperatures for those living in colder climate zones of VA. However, over 65 were not associated with higher ED visits, perhaps because of exposure of younger people. Higher visits from those in rural (vs non-rural).
 86 #365papers
-87 #365papers     28/03/25	87
+Association between summertime emergency department visits and maximum daily heat index in rural and non-rural areas of Virginia (2015–2022)
+https://linkinghub.elsevier.com/retrieve/pii/S0048969724049027
+
+
+In which changes in behaviour during the summer of 2020 around heat and health was examined in Alabama. Results show that residents used cooling centers declined from 23% the previous summer to 10%. Safety concerns in 2020 of COVID-19 and police brutality cases were likely causes for the declines. Most attempted to cool their houses (windows, AC). If pools or other open spaces were open, they would have used them more.
+87 #365papers
+Heat-Health Behavior Change During Summer 2020 in African American Alabama Residents
+https://ajph.aphapublications.org/doi/full/10.2105/AJPH.2021.306365
+
+In which activity levels (outdoor urban trail use in Texas) under different ambient temperatures in 2019 are assessed. Findings are that trails are more likely to be used by pedestrians between 7c and 17C, with peak use at 17C. Cyclists ranged from 15 to 33C with peak usage at 27C. Under RCP4.5, in 2040, decreases of -4.5% by pedestrians, -1.1% cyclists, while RCP8.5 -6.6% and -1.6%. In 2080 under RCP8.5: -16% and -4.5%.
 88 #365papers
+https://link.springer.com/10.1007/s00484-022-02302-5
+Climate change and physical activity: ambient temperature and urban trail use in Texas
+
+In which the associations between temperature frequency and mortality under varying local ambient temperatures is assessed. Study calculated the most frequent temperature for 757 cities in 47 countries over 1979-2020. They find a linear relationship between temperature frequency and mortality risk, with the most frequent temperature having the minimum mortality risk. Possibly highest adaptation to the most common temperature. Large regional differences were found with AU and NZ lowest and S. Europe the highest. Higher increases in mortality in high income countries.
 89 #365papers
+https://linkinghub.elsevier.com/retrieve/pii/S0160412024002770
+Temperature frequency and mortality: Assessing adaptation to local temperature
+
 90 #365papers
 91 #365papers
 92 #365papers
