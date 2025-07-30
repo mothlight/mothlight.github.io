@@ -420,19 +420,17 @@ In which the questions are asked, is the use of Twitter data declining in urban 
 85 #365papers
 https://findingspress.org/article/133245-the-rise-and-fall-of-twitter-data-in-urban-analytics
 The Rise and Fall of Twitter Data in Urban Analytics
-#################################################################
 
 In which 16 million healthcare visits in Virginia across 2015-22 were analysed for heat-health impacts. Emergency room visits elevated when max daily heat index reaches 25.7C. 4.3% of ED visits are for high heat. Elevated ED visits corresponded with lower temperatures for those living in colder climate zones of VA. However, over 65 were not associated with higher ED visits, perhaps because of exposure of younger people. Higher visits from those in rural (vs non-rural).
 86 #365papers
 Association between summertime emergency department visits and maximum daily heat index in rural and non-rural areas of Virginia (2015–2022)
 https://linkinghub.elsevier.com/retrieve/pii/S0048969724049027
 
-
 In which changes in behaviour during the summer of 2020 around heat and health was examined in Alabama. Results show that residents used cooling centers declined from 23% the previous summer to 10%. Safety concerns in 2020 of COVID-19 and police brutality cases were likely causes for the declines. Most attempted to cool their houses (windows, AC). If pools or other open spaces were open, they would have used them more.
 87 #365papers
 Heat-Health Behavior Change During Summer 2020 in African American Alabama Residents
 https://ajph.aphapublications.org/doi/full/10.2105/AJPH.2021.306365
-
+#################################################################
 In which activity levels (outdoor urban trail use in Texas) under different ambient temperatures in 2019 are assessed. Findings are that trails are more likely to be used by pedestrians between 7c and 17C, with peak use at 17C. Cyclists ranged from 15 to 33C with peak usage at 27C. Under RCP4.5, in 2040, decreases of -4.5% by pedestrians, -1.1% cyclists, while RCP8.5 -6.6% and -1.6%. In 2080 under RCP8.5: -16% and -4.5%.
 88 #365papers
 https://link.springer.com/10.1007/s00484-022-02302-5
@@ -443,11 +441,37 @@ In which the associations between temperature frequency and mortality under vary
 https://linkinghub.elsevier.com/retrieve/pii/S0160412024002770
 Temperature frequency and mortality: Assessing adaptation to local temperature
 
+In which different policies to reduce plastic bag litter on US shorelines are evaluated across 2016-2023. In general, plastic bag litter on shorelines has increased in the study period. However, areas with plastic bag policies (bans, partial bans, or fees), there is a 25-47% decrease. Full bans and fees are most effective, where partial bans only have slight effects. Policies might also cause a 30-37% reduction in wildlife entangled in plastic.
 90 #365papers
+https://doi.org/10.1126/ science.adp9274
+Plastic bag bans and fees reduce harmful bag litter on shorelines
+
+In which informal taxi services in South Africa and how their coverage varies are examined. Inbound journeys tend to be more express with fewer pickup point. Outbound dropoffs are more dispersed (more individual dropoffs and search for new passengers). As a result, the inbound service area is about 40% smaller than the outbound leading to unequal service for those who have to walk further to board or have to travel in the wrong direction for some time.
 91 #365papers
+https://findingspress.org/article/132394-coverage-versus-frequency-exploring-service-variability-among-informal-public-transport-operators-in-south-africa
+Coverage versus Frequency: Exploring Service Variability among Informal Public Transport Operators in South Africa
+
+In which the phenomenon of “instant justice” is examined. Introduction of the somewhat surreal and fragmented imagery and narrative structure of comics with mixed reading text and viewing images. In addition, speech is compact and densely figurative. Moves on to semiotics and how the Judge Dredd comic embodies "instance justice" as the "dream of law". Judge Dredd, an official superhero and superhero official. Other instances of instant justice are shown in The Trial (Kafka) and Traps (Dürrenmatt). There there is lots about Lucan that I don't quite understand.
 92 #365papers
+Judge Dredd: Dreaming of Instant Justice
+https://link.springer.com/10.1007/978-90-481-9322-6_41
+
+In which the impact of using LLMs for writing is quantified. The expectation of being able to find information with web searches diminishes user's recall of information (search as learning). Cognitive load (CL) varies during web searches, higher during query formulation and relevance judgement. But more weighted toward recognition rather than recall. CL lower during LLM usage. Targeted answers reduce filtering effort. Task completion simplified, shift from active critical reasoning to passive oversight. Reduction in long term and deep engagement. During writing tasks, bypass of synthesis of material from memory (reduction of information retention and recall). Better task completion but no increase in knowledge. Reduction of creative writing abilities. Reduction of diverse perspectives (echo chamber of sources chosen by LLM).
 93 #365papers
+https://arxiv.org/abs/2506.08872
+Your Brain on ChatGPT: Accumulation of Cognitive Debt when Using an AI Assistant for Essay Writing Task
+
+In which lower stress cycling facilities are compared to standard bicycle lanes, using 6 years of data across 14,000 blocks in 28 US cities. Types of standard lanes (SBL), protected (PBL), buffered (BBL), and shared line markings (SHR). Installation of PBL and BBL strong increases in usage (1.8x SBL, 1.6x SHR, 4.3x no lanes). PBL mileage usage 52% stronger than SBL mileage and 281% than SHR. If you want to increase cycling, lower-stress facilities are necessary.
 94 #365papers
+https://www.nature.com/articles/s44284-025-00255-5
+The link between low-stress bicycle facilities and bicycle commuting
+
+######################################
+
+
+
+
+
 95 #365papers
 96 #365papers
 97 #365papers
