@@ -430,7 +430,7 @@ In which changes in behaviour during the summer of 2020 around heat and health w
 87 #365papers
 Heat-Health Behavior Change During Summer 2020 in African American Alabama Residents
 https://ajph.aphapublications.org/doi/full/10.2105/AJPH.2021.306365
-#################################################################
+
 In which activity levels (outdoor urban trail use in Texas) under different ambient temperatures in 2019 are assessed. Findings are that trails are more likely to be used by pedestrians between 7c and 17C, with peak use at 17C. Cyclists ranged from 15 to 33C with peak usage at 27C. Under RCP4.5, in 2040, decreases of -4.5% by pedestrians, -1.1% cyclists, while RCP8.5 -6.6% and -1.6%. In 2080 under RCP8.5: -16% and -4.5%.
 88 #365papers
 https://link.springer.com/10.1007/s00484-022-02302-5
@@ -440,7 +440,7 @@ In which the associations between temperature frequency and mortality under vary
 89 #365papers
 https://linkinghub.elsevier.com/retrieve/pii/S0160412024002770
 Temperature frequency and mortality: Assessing adaptation to local temperature
-
+#################################################################
 In which different policies to reduce plastic bag litter on US shorelines are evaluated across 2016-2023. In general, plastic bag litter on shorelines has increased in the study period. However, areas with plastic bag policies (bans, partial bans, or fees), there is a 25-47% decrease. Full bans and fees are most effective, where partial bans only have slight effects. Policies might also cause a 30-37% reduction in wildlife entangled in plastic.
 90 #365papers
 https://doi.org/10.1126/ science.adp9274
@@ -496,13 +496,16 @@ In which compliance with GDPR policies are tested. Websites are required to info
 100 #365papers
 Automated Large-Scale Analysis of Cookie Notice Compliance
 https://www.usenix.org/system/files/usenixsecurity24-bouhoula.pdf
+
+In which the bicycle network across Denmark is quantified into levels of traffic stress and spatial patterns of bikeability. Finding that high share of low-stress infrastructure but is mostly clustered in a few locations. Analysed 130,000 km network. 93% allows cycling, 89% includes cars. Bikeability based on density, fragmentation, and reach. Concentration of low-stress combined with high fragmentation results in low network reach outside of the highly populated areas. Rural roads can offer good long distance reach. Overall, high stress network 86% of the country (mostly low density areas, 27% of population). Small towns provide local low stress connectivity (6% network, 16% population). Regional low stress of 4% network (8% population). 2% of network (24% population) high bikeability in suburbs and medium towns. Smallest cluster of high bikeability and high density in 4 largest cities. Potential for increased rural cycling requires some investment. 
+101 #365papers
+https://onlinelibrary.wiley.com/doi/10.1111/gean.70012
+Network Analysis of the Danish Bicycle Infrastructure: Bikeability Across Urban–Rural Divides
 ######################################
 
 
 
-April 10
 
-101 #365papers
 102 #365papers
 103 #365papers
 104 #365papers
