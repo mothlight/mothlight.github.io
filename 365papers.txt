@@ -440,7 +440,7 @@ In which the associations between temperature frequency and mortality under vary
 89 #365papers
 https://linkinghub.elsevier.com/retrieve/pii/S0160412024002770
 Temperature frequency and mortality: Assessing adaptation to local temperature
-#################################################################
+
 In which different policies to reduce plastic bag litter on US shorelines are evaluated across 2016-2023. In general, plastic bag litter on shorelines has increased in the study period. However, areas with plastic bag policies (bans, partial bans, or fees), there is a 25-47% decrease. Full bans and fees are most effective, where partial bans only have slight effects. Policies might also cause a 30-37% reduction in wildlife entangled in plastic.
 90 #365papers
 https://doi.org/10.1126/ science.adp9274
@@ -471,7 +471,7 @@ At the lowest resolution, most capital cities emerge. At higher thresholds, Vict
 95 #365papers
 https://link.springer.com/10.1007/s43762-024-00140-2
 From urban clusters to megaregions: mapping Australia’s evolving urban regions
-
+#################################################################
 In which (from 2004), the structure and form of Australian cities are described and how these structures present challenges for urban planning. Each originally colonial cities, green field with a central urban area providing all political, military, administrative, and commercial functions. Secondary cities in each state discouraged and dominated by the primary. In early planning, Sydney growth didn't follow the planning (topography related). Rail and roads in Brisbane allowed planning deviations. Melbourne and Adelaide planners more successful in imposing gridded plans (however later radial rail reduced the effectiveness). Perth and Adelaide less concentration of centralization. Public transit allowed rapid radial growth in Melbourne and Sydney. Post WWII, rapid population increases and migration from rural and motor vehicle enabled suburban growth. Technology, decentralisation drive recent trends. Early settlement form expected self-sufficiency (domestic production, waste, water). Suburban home ownership emphasised in recent years. These path dependencies cause present day planning difficulties. 
 96 #365papers
 The structure and form of the Australian city: prospects for improved urban planning
@@ -501,19 +501,50 @@ In which the bicycle network across Denmark is quantified into levels of traffic
 101 #365papers
 https://onlinelibrary.wiley.com/doi/10.1111/gean.70012
 Network Analysis of the Danish Bicycle Infrastructure: Bikeability Across Urban–Rural Divides
+
+In which cycling behaviour following a safety incident are examined. Previous research shows that willingness to cycle often follows a injury. A Random Forest is trained using 2500 incidents across the US. Most important factors for subsequent behaviour (biking less, more carefully, or stopping cycling) are hospitalisation, a collision, or being female. Authors success their model can help target interventions to provide post incident support.
+102 #365papers
+https://doi.org/10.32866/001c.142431
+Predictors of Biking Behavior Changes after a Safety Incident
+
+In which the impact of autonomous vehicles (AV) are modelled using ABMs to determine potential impacts of travel modes (active transport) and increased sedentary behaviour. Study tries to account for the decision making process. In previous work, these are assumptions based on convenience, productivity, and reduced costs. Here based on survey results and using people, promoters, and public transport agents in ABM. Potential increased AV uptake driven by decreasing costs and acceptance of the technology. Causing decreases in active transport and increased sedentary transport behaviour. Extra fees for ride-hail reduced incentives. Purchases of AVs increased more by upfront discounts than post-purchase rebates. So, AVs look likely to be terrible for active transport.
+103 #365papers
+https://linkinghub.elsevier.com/retrieve/pii/S2590198225002192
+Potential effects of autonomous vehicles on transport mode choice and sedentary behaviour in an Australian context – a modelling study
+
+In which a meta analysis is conducted on the long term impacts of air pollution on dementia. Pollutants with associations are PM2.5, NO2, Black Carbon/PM2.5. No evidence of association (small number of studies) for NOx, PM10, and O3. Concluding that reduced exposure and stricter air quality standards provide health, social, and economic benefits.
+104 #365papers
+https://linkinghub.elsevier.com/retrieve/pii/S2542519625001184
+Long-term air pollution exposure and incident dementia: a systematic review and meta-analysis
+
+In which GenAI has been promoted as a valuable educational tool, but how does this match teacher's experiences with its use in the classroom. Does GenAI free teachers from routine admin work?  Emphasis is on how to get useful output by 'promoting'. Do supermarket self-checkouts free employees, no, they spend their time babysitting the technologies. What work do teachers need to do when they are done 'prompting' and have the final result from the GenAI? Identified GenAI failures: out of date material, lack of localism, bland non-critical output, no context around pedagogy, mismatch of fit in with different student's levels and needs. Intervention needed because: teacher is ultimately responsible for the material, need to be ethical, need to add rigour, desire to be connected to teaching material. Limitations of GenAI in teaching shown by the amount of post-prompting interventions necessary and likely not capable of "doing" teaching tasks. Final comments on the dependencies in GenAI on hidden labor to produce the illustration of automation.  
+105 #365papers
+https://www.tandfonline.com/doi/full/10.1080/17439884.2025.2537959
+When the prompting stops: exploring teachers’ work around the educational frailties of generative AI tools
+
+In which social vulnerability to climate change in terms of health impacts in Australia are examined. Develops multi-dimensional Social Vulnerability Index for the Health  Impact of Climate Change (SVI-HICC). Looks at differences following floods, fire, cyclones, and heatwaves from HILDA across previous and following year. Findings, regional and rural areas had higher vulnerability scores than capital cities. Regional SA, NT, and TAS highest social vulnerability to health from climate change, along with lower economic security, less infrastructure and services, less governance. And somewhat less population health and demographic structure. 
+106 #365papers
+http://medrxiv.org/lookup/doi/10.1101/2025.07.03.25330731
+Social vulnerability to health impacts of climate change in Australia: understanding dimensions, drivers, and health inequality
+
+In which it is attempted to count bicycle, scooter, and skateboard usage with wildlife cameras in Tempe, AZ (25 locations). Active transport counters generally just count cyclists. What are the mode shares of other active transport types. Recorded across Nov 2023. Findings that cyclists are 66%, scooters 25% (e-scooters predominately) and skateboards 7%. Cycle traffic starts earlier in the day (mostly commuting?) and spread across the study area. Scooter usage pattern flat morning to midnight and generally concentrated in downtown/campus area.
+107 #365papers
+https://findingspress.org/article/141929-counting-bicycles-scooters-and-skateboards-in-tempe-az
+Counting Bicycles, Scooters, and Skateboards in Tempe, AZ
+
+In which secret shoppers are used to collect the health claims of CBD, THC or kratom by smoke shop employees in Texas. Visited in pairs, one asked questions, the other took phone notes, following a script. Claims made for THC of treating pain, insomnia, mental health. Kratom of drug withdrawl, pain, mental health. 1/4 of stores no mention of risks, often missed risks during pregnancy. Despite no FDA approved medical uses, employees routinely mentioned health benefits. Rarely provided comprehensive risk information or adverse effects or overdose risks. Research shows THC consumers have concerns over risks but store employees are rarely able to give this information.
+108 #365papers
+https://www.tandfonline.com/doi/full/10.1080/00952990.2025.2502743
+Hemp-derived tetrahydrocannabinol (THC) and kratom related health claims provided by smoke shop employees: a secret shopper study
+
+In which the influence of cookies during an academic course evaluation (SETs) are quantified. Scores are potentially influenced by many factors: class size, course subject, instructor attractiveness, gender. In this study, chocolate chip cookies were used. Cookies were oversupplied (no limit of just one cookie each). Students with free access to cookies evaluated the teacher and course higher than those with no cookie access. Cookie availability explained 6.3% of the variation in scores. Limitation of mood changes due to chocolate also be a factor. Overall, study questions the validity of SETs as a metric in academic success.
+109 #365papers
+https://onlinelibrary.wiley.com/doi/10.1111/medu.13627
+Availability of cookies during an academic course session affects evaluation of teaching
 ######################################
 
 
 
-
-102 #365papers
-103 #365papers
-104 #365papers
-105 #365papers
-106 #365papers
-107 #365papers
-108 #365papers
-109 #365papers
 110 #365papers
 111 #365papers
 112 #365papers
