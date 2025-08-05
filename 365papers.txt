@@ -471,7 +471,7 @@ At the lowest resolution, most capital cities emerge. At higher thresholds, Vict
 95 #365papers
 https://link.springer.com/10.1007/s43762-024-00140-2
 From urban clusters to megaregions: mapping Australia’s evolving urban regions
-#################################################################
+
 In which (from 2004), the structure and form of Australian cities are described and how these structures present challenges for urban planning. Each originally colonial cities, green field with a central urban area providing all political, military, administrative, and commercial functions. Secondary cities in each state discouraged and dominated by the primary. In early planning, Sydney growth didn't follow the planning (topography related). Rail and roads in Brisbane allowed planning deviations. Melbourne and Adelaide planners more successful in imposing gridded plans (however later radial rail reduced the effectiveness). Perth and Adelaide less concentration of centralization. Public transit allowed rapid radial growth in Melbourne and Sydney. Post WWII, rapid population increases and migration from rural and motor vehicle enabled suburban growth. Technology, decentralisation drive recent trends. Early settlement form expected self-sufficiency (domestic production, waste, water). Suburban home ownership emphasised in recent years. These path dependencies cause present day planning difficulties. 
 96 #365papers
 The structure and form of the Australian city: prospects for improved urban planning
@@ -486,7 +486,7 @@ In which the forces that drive the city/country divide in Australia are examined
 98 #365papers
 https://www.tandfonline.com/doi/full/10.1080/12265934.2021.1997631
 Federalism and urban primacy: political dimensions that influence the city–country divide in Australia
-
+#################################################################
 In which experiments in cutting onions investigate droplet generation under different conditions (cutting speed, blade sharpness). Unsharpened knives generate droplets initially by internal pressurization then slower fragmentation of ligaments in air. Droplets concentrated nearly vertically with knife plane. Blade cutting speed and blade tip width increase number and energy of ejected droplets. Chilling onions before cutting had no effect on reducing onion emissions. Sharper blades reduce both number of droplets and speed and kinetic energy. This also applies to other fruits and vegetables with tough epidermal layers.
 99 #365papers
 http://arxiv.org/abs/2505.06016
@@ -541,14 +541,31 @@ In which the influence of cookies during an academic course evaluation (SETs) ar
 109 #365papers
 https://onlinelibrary.wiley.com/doi/10.1111/medu.13627
 Availability of cookies during an academic course session affects evaluation of teaching
+
+In which pedestrian outdoor thermal comfort (OTC) of children is compared to adults. Thermal comfort measurements customarily taken at 1.5m. Children have higher metabolic rates, higher surface area to weight ratio, less developed sweat glands, and body core is closer to the ground than adults (and spend more time in non-standing activities). Study makes thermal comfort observations (PET) at 0.3, 0.7, 1.1, and 1.5m across a variety of land cover types, dense forest (DF), sparse forest (SF), lawn (LA), impervious pavement (IP), and synthetic rubber (SR). Large differences in surface temperature across types, ~45C between SR and DF. Air temperature varied across different heights across different types, 0.24C for LA compared to 1.02C for SR. PET 0.6C for IP and 0.16C for DF. For comparison, 1C PET increase increases heat mortality rate by 2.4%. Study used PET because most heat indexes are not appropriate for children. 
+110 #365papers
+https://linkinghub.elsevier.com/retrieve/pii/S0360132325009229
+Do children face greater outdoor heat risks? A comparative study of pedestrian-scale vertical thermal environment on different urban land covers
+
+In which a thought experiment examines when it would have been possible to first detect human influences on climate change. First discoveries of heat trapping CO2 in 1850-60s. Systematic surface temperature measurements from 1860s, weather balloons in 1892. When was the first linking of fossil fuels with climate change? Possible dates range from 1860 to 1986. Conclusion that 130 years ago is good choice. CMIP6 scenarios indicate that signal-to-noise (overcoming 11yr solar cycle, volcano eruptions, etc) would have been sufficient by 1894. 
+111 #365papers
+https://pnas.org/doi/10.1073/pnas.2500829122
+Human influence on climate detectable in the late 19th century
+
+In which the social perceptions of using AI are examined. Hypothesis of negative evaluation of those using AI is upheld. Questioning of competence and motivations. Lower assessment of job candidates. Study 1, people using AI believe they will be evaluated as lazier, less competent, and less diligent. Study 2, confirms study 1 and finds perceptions exist. Study 3, managers who do not use AI act on negative assumptions about those using AI in hiring task. Study 4, perceptions of laziness mediate relationship between AI use and assessments of poor fit. Overall study is positioned as 'here are barriers to AI adoption' (and assumed productivity gains) and how people evaluate unfamiliar technologies.
+112 #365papers
+https://pnas.org/doi/10.1073/pnas.2426766122
+Evidence of a social evaluation penalty for using AI
+
+In which the suitability to use smartwatches to measure urban heat is examined. Used 22 days across 2020-4 of observations in Sydney. Can sensors be embedded in wristwatches? Can a predictive model be developed? How do the predictions perform under different conditions? Observations compared to MaRTy measurements. Trained Random Forest model. Findings that wrist mounted sensors are not reliable, too influenced by body heat, and inaccurate in sunny and calm conditions. Developing a predictive model based on data from wearables is possible, the model and ML can compensate for the errors. Feature importance, wrist air temperature most important then wrist dew temperature. So, direct measurements from wearables are not great, but can be adjusted by models.
+113 #365papers
+https://iopscience.iop.org/article/10.1088/1748-9326/add6b5
+Can your smartwatch measure ambient air temperature?
 ######################################
 
 
 
-110 #365papers
-111 #365papers
-112 #365papers
-113 #365papers
+
 114 #365papers
 115 #365papers
 116 #365papers
