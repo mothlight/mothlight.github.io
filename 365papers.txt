@@ -486,12 +486,12 @@ In which the forces that drive the city/country divide in Australia are examined
 98 #365papers
 https://www.tandfonline.com/doi/full/10.1080/12265934.2021.1997631
 Federalism and urban primacy: political dimensions that influence the city–country divide in Australia
-#################################################################
+
 In which experiments in cutting onions investigate droplet generation under different conditions (cutting speed, blade sharpness). Unsharpened knives generate droplets initially by internal pressurization then slower fragmentation of ligaments in air. Droplets concentrated nearly vertically with knife plane. Blade cutting speed and blade tip width increase number and energy of ejected droplets. Chilling onions before cutting had no effect on reducing onion emissions. Sharper blades reduce both number of droplets and speed and kinetic energy. This also applies to other fruits and vegetables with tough epidermal layers.
 99 #365papers
 http://arxiv.org/abs/2505.06016
 Droplet Outbursts from Onion Cutting
-
+#################################################################
 In which compliance with GDPR policies are tested. Websites are required to inform users about data collection and provide some consent or informed choices (i.e. cookie notices). Study developed a crawler to interact with cookie notices and discover subsequent data collection following preference choices. Of 97,000 websites, 56% do not include an opt-out option (reject). 65% still collect data despite negative consent. And 73% collect even when user doesn't interact with a notice. Additionally, they find that 26% of websites do not declare adequate data collection purposes in their cookie notices. Hmm, for most, don't provide a way to opt-out, and even if you do, just ignore that choice.
 100 #365papers
 Automated Large-Scale Analysis of Cookie Notice Compliance
