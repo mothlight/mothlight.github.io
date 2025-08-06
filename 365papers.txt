@@ -491,7 +491,7 @@ In which experiments in cutting onions investigate droplet generation under diff
 99 #365papers
 http://arxiv.org/abs/2505.06016
 Droplet Outbursts from Onion Cutting
-#################################################################
+
 In which compliance with GDPR policies are tested. Websites are required to inform users about data collection and provide some consent or informed choices (i.e. cookie notices). Study developed a crawler to interact with cookie notices and discover subsequent data collection following preference choices. Of 97,000 websites, 56% do not include an opt-out option (reject). 65% still collect data despite negative consent. And 73% collect even when user doesn't interact with a notice. Additionally, they find that 26% of websites do not declare adequate data collection purposes in their cookie notices. Hmm, for most, don't provide a way to opt-out, and even if you do, just ignore that choice.
 100 #365papers
 Automated Large-Scale Analysis of Cookie Notice Compliance
@@ -506,7 +506,7 @@ In which cycling behaviour following a safety incident are examined. Previous re
 102 #365papers
 https://doi.org/10.32866/001c.142431
 Predictors of Biking Behavior Changes after a Safety Incident
-
+#################################################################
 In which the impact of autonomous vehicles (AV) are modelled using ABMs to determine potential impacts of travel modes (active transport) and increased sedentary behaviour. Study tries to account for the decision making process. In previous work, these are assumptions based on convenience, productivity, and reduced costs. Here based on survey results and using people, promoters, and public transport agents in ABM. Potential increased AV uptake driven by decreasing costs and acceptance of the technology. Causing decreases in active transport and increased sedentary transport behaviour. Extra fees for ride-hail reduced incentives. Purchases of AVs increased more by upfront discounts than post-purchase rebates. So, AVs look likely to be terrible for active transport.
 103 #365papers
 https://linkinghub.elsevier.com/retrieve/pii/S2590198225002192
