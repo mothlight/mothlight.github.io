@@ -506,12 +506,12 @@ In which cycling behaviour following a safety incident are examined. Previous re
 102 #365papers
 https://doi.org/10.32866/001c.142431
 Predictors of Biking Behavior Changes after a Safety Incident
-#################################################################
+
 In which the impact of autonomous vehicles (AV) are modelled using ABMs to determine potential impacts of travel modes (active transport) and increased sedentary behaviour. Study tries to account for the decision making process. In previous work, these are assumptions based on convenience, productivity, and reduced costs. Here based on survey results and using people, promoters, and public transport agents in ABM. Potential increased AV uptake driven by decreasing costs and acceptance of the technology. Causing decreases in active transport and increased sedentary transport behaviour. Extra fees for ride-hail reduced incentives. Purchases of AVs increased more by upfront discounts than post-purchase rebates. So, AVs look likely to be terrible for active transport.
 103 #365papers
 https://linkinghub.elsevier.com/retrieve/pii/S2590198225002192
 Potential effects of autonomous vehicles on transport mode choice and sedentary behaviour in an Australian context – a modelling study
-
+#################################################################
 In which a meta analysis is conducted on the long term impacts of air pollution on dementia. Pollutants with associations are PM2.5, NO2, Black Carbon/PM2.5. No evidence of association (small number of studies) for NOx, PM10, and O3. Concluding that reduced exposure and stricter air quality standards provide health, social, and economic benefits.
 104 #365papers
 https://linkinghub.elsevier.com/retrieve/pii/S2542519625001184
@@ -563,10 +563,13 @@ https://iopscience.iop.org/article/10.1088/1748-9326/add6b5
 Can your smartwatch measure ambient air temperature?
 ######################################
 
-
-
-
+In which ideological poking and the Dark Triad are examined. 
 114 #365papers
+https://linkinghub.elsevier.com/retrieve/pii/S0092656624000643
+The Dark Triad predicts public display of offensive political products
+
+
+
 115 #365papers
 116 #365papers
 117 #365papers
