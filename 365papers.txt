@@ -511,7 +511,7 @@ In which the impact of autonomous vehicles (AV) are modelled using ABMs to deter
 103 #365papers
 https://linkinghub.elsevier.com/retrieve/pii/S2590198225002192
 Potential effects of autonomous vehicles on transport mode choice and sedentary behaviour in an Australian context – a modelling study
-#################################################################
+
 In which a meta analysis is conducted on the long term impacts of air pollution on dementia. Pollutants with associations are PM2.5, NO2, Black Carbon/PM2.5. No evidence of association (small number of studies) for NOx, PM10, and O3. Concluding that reduced exposure and stricter air quality standards provide health, social, and economic benefits.
 104 #365papers
 https://linkinghub.elsevier.com/retrieve/pii/S2542519625001184
@@ -521,7 +521,7 @@ In which GenAI has been promoted as a valuable educational tool, but how does th
 105 #365papers
 https://www.tandfonline.com/doi/full/10.1080/17439884.2025.2537959
 When the prompting stops: exploring teachers’ work around the educational frailties of generative AI tools
-
+#################################################################
 In which social vulnerability to climate change in terms of health impacts in Australia are examined. Develops multi-dimensional Social Vulnerability Index for the Health  Impact of Climate Change (SVI-HICC). Looks at differences following floods, fire, cyclones, and heatwaves from HILDA across previous and following year. Findings, regional and rural areas had higher vulnerability scores than capital cities. Regional SA, NT, and TAS highest social vulnerability to health from climate change, along with lower economic security, less infrastructure and services, less governance. And somewhat less population health and demographic structure. 
 106 #365papers
 http://medrxiv.org/lookup/doi/10.1101/2025.07.03.25330731
@@ -561,13 +561,12 @@ In which the suitability to use smartwatches to measure urban heat is examined. 
 113 #365papers
 https://iopscience.iop.org/article/10.1088/1748-9326/add6b5
 Can your smartwatch measure ambient air temperature?
-######################################
 
-In which ideological poking and the Dark Triad are examined. 
+In which ideological poking (things like tshirt, mugs, signs denigrating political opponents) and the Dark Triad are examined (US residents). Dark Triad traits: Machiavellianism (MA) exploit others for personal gain), narcissism (NA) grandiosity, entitlement, self absorption, and psychopathy (PA) impulsive, antisocial, deficit empathy. Are Dark Triad traits predictors of ideological poking? Study 1, willingness to display insulting bumper stickers: poking correlated with PA and MA, not NA. Study 2 expanded criteria and replicated Study 1. Also, PA associated with poking of both in and outgroup audiences. Rising polarization might provide additional (consequence free) opportunity for poking, driving further polarization, especially with PA.
 114 #365papers
 https://linkinghub.elsevier.com/retrieve/pii/S0092656624000643
 The Dark Triad predicts public display of offensive political products
-
+######################################
 
 
 115 #365papers
