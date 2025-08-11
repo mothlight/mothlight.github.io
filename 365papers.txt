@@ -521,7 +521,7 @@ In which GenAI has been promoted as a valuable educational tool, but how does th
 105 #365papers
 https://www.tandfonline.com/doi/full/10.1080/17439884.2025.2537959
 When the prompting stops: exploring teachers’ work around the educational frailties of generative AI tools
-#################################################################
+
 In which social vulnerability to climate change in terms of health impacts in Australia are examined. Develops multi-dimensional Social Vulnerability Index for the Health  Impact of Climate Change (SVI-HICC). Looks at differences following floods, fire, cyclones, and heatwaves from HILDA across previous and following year. Findings, regional and rural areas had higher vulnerability scores than capital cities. Regional SA, NT, and TAS highest social vulnerability to health from climate change, along with lower economic security, less infrastructure and services, less governance. And somewhat less population health and demographic structure. 
 106 #365papers
 http://medrxiv.org/lookup/doi/10.1101/2025.07.03.25330731
@@ -551,7 +551,7 @@ In which a thought experiment examines when it would have been possible to first
 111 #365papers
 https://pnas.org/doi/10.1073/pnas.2500829122
 Human influence on climate detectable in the late 19th century
-
+#################################################################
 In which the social perceptions of using AI are examined. Hypothesis of negative evaluation of those using AI is upheld. Questioning of competence and motivations. Lower assessment of job candidates. Study 1, people using AI believe they will be evaluated as lazier, less competent, and less diligent. Study 2, confirms study 1 and finds perceptions exist. Study 3, managers who do not use AI act on negative assumptions about those using AI in hiring task. Study 4, perceptions of laziness mediate relationship between AI use and assessments of poor fit. Overall study is positioned as 'here are barriers to AI adoption' (and assumed productivity gains) and how people evaluate unfamiliar technologies.
 112 #365papers
 https://pnas.org/doi/10.1073/pnas.2426766122
@@ -562,18 +562,38 @@ In which the suitability to use smartwatches to measure urban heat is examined. 
 https://iopscience.iop.org/article/10.1088/1748-9326/add6b5
 Can your smartwatch measure ambient air temperature?
 
-In which ideological poking (things like tshirt, mugs, signs denigrating political opponents) and the Dark Triad are examined (US residents). Dark Triad traits: Machiavellianism (MA) exploit others for personal gain), narcissism (NA) grandiosity, entitlement, self absorption, and psychopathy (PA) impulsive, antisocial, deficit empathy. Are Dark Triad traits predictors of ideological poking? Study 1, willingness to display insulting bumper stickers: poking correlated with PA and MA, not NA. Study 2 expanded criteria and replicated Study 1. Also, PA associated with poking of both in and outgroup audiences. Rising polarization might provide additional (consequence free) opportunity for poking, driving further polarization, especially with PA.
+In which ideological poking (tshirt, mugs, signs that denigrate political opponents) and the Dark Triad are examined (US residents). Dark Triad traits: Machiavellianism (MA) exploit others for personal gain), narcissism (NA) grandiosity, entitlement, self absorption, and psychopathy (PA) impulsive, antisocial, deficit empathy. Are Dark Triad traits predictors of ideological poking? Study 1, willingness to display insulting bumper stickers: poking correlated with PA and MA, not NA. Study 2 expanded criteria and replicated Study 1. Also, PA associated with poking of both in and outgroup audiences. Rising polarization might provide additional (consequence free) opportunity for poking, driving further polarization, especially with PA.
 114 #365papers
 https://linkinghub.elsevier.com/retrieve/pii/S0092656624000643
 The Dark Triad predicts public display of offensive political products
+
+In which different dance moves of parrots in captivity are surveyed. Anecdotal evidence that (captivity) parrots dance along to music. Movement also observed in the wild, linked to courtship. Study catalogued 30 different dance movements (i.e. Head Bang, Foot Lift, Side to Side) from internet bird dancing videos. Then music, silence, and podcast played for zoo birds. All birds danced at least once per day of the test. So dancing is probably more common than previously thought and not driven by human caretakers. Music not necessarily trigger to dancing.
+115 #365papers
+https:// doi.org/10.1371/journal.pone.0328487
+Dance behaviour in cockatoos: Implications for cognitive processes and welfare
+
+In which cycling speed across a range of infrastructures and surface types are observed in Hamburg from the DB Rad+ app. Speed data was linked to road types (shared roadway, off-road lanes, pedestrian zone, etc) and surfaces (unpaved, gravel, concrete, etc) and land use (forest, port, industrial, etc). Faster more consistent speed on dedicated infrastructure. Increased speed on longer segments (less pronounced acceleration/braking). Reduced speed in urban and industrial areas, faster in fields and forests. 
+116 #365papers
+https://doi.org/10.32866/001c.141204
+Cycling Speeds in Urban Traffic
+
+In which the influence of urban physical structure on transportation mode shares are examined. Nine US cities characterised using street network structures. Metrics of connectivity, geometry, density and angular properties. Develop typologies of gridiron (reticular), suburban (cul-de-sac), organic/irregular, and hybrid. Clustering and dimension reduction using PCA (principal component analysis), resulting in percentages of typologies in each city. Findings that reticular linked to higher public transport (PT) use and reduced car dependency while organic linked with declines in PT and active transport (similar for suburban and hybrid). The findings seem surprising to me (higher PT in gridiron), wonder how a comparison of US to global cities would go. And adding in access to services (i.e. mixed use areas, compact cities). 
+117 #365papers
+http://arxiv.org/abs/2507.19648
+Street network sub-patterns and travel mode
+
+In which using dirt as a energy storage medium to recommission steam turbogenerators is considered. Dirt has low thermal conductivity. Model simulations for price-maker case, dirt storage influences market prices, capacity is at market equilibrium. Price-taker case assumes capacity doesn't influence market prices. Findings that systems reliant on wind, solar, and gas, dirt thermal storage could play a role in seasonal demand peaks. Value of dirt thermal storage increases with reduced fossil fuel generation and greater wind and solar integration.
+118 #365papers
+https://doi.org/10.32866/001c.141340
+Thermal Energy Storage in Dirt for Repowering Decommissioned Coal Plants
+
+Changes in 40 million in online headlines over 20 years are analysed using NLP and sentiment analysis, sorted by political leaning and journalistic quality. Headlines have changed as emphasis moved to single articles rather than issues, reader tracking abilities, A/B testing, pay-per-click. Emphasis on curiosity gap (clickbait) rather than headlines that summarise content. Forward references (refer to something that will be specified later). Finding shift towards longer headlines (more words), more negative (although opposite in arXiv), more headlines with a verb and wh-words ("here's why"), less noun-phrase headlines (also opposite in arXv). Clickbait headlines previously more associated with political leanings and journalistic quality (although not uniformly, full sentence more common with right-leaning). Shifts across mainstream news sources now make misinformation detection methods less useful (previously were good fingerprints).
+119 #365papers
+https://www.nature.com/articles/s41599-025-04514-7
+The evolution of online news headlines
 ######################################
 
 
-115 #365papers
-116 #365papers
-117 #365papers
-118 #365papers
-119 #365papers
 
 April 30
 120 #365papers
