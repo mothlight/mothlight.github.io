@@ -551,11 +551,17 @@ In which a thought experiment examines when it would have been possible to first
 111 #365papers
 https://pnas.org/doi/10.1073/pnas.2500829122
 Human influence on climate detectable in the late 19th century
-#################################################################
-In which the social perceptions of using AI are examined. Hypothesis of negative evaluation of those using AI is upheld. Questioning of competence and motivations. Lower assessment of job candidates. Study 1, people using AI believe they will be evaluated as lazier, less competent, and less diligent. Study 2, confirms study 1 and finds perceptions exist. Study 3, managers who do not use AI act on negative assumptions about those using AI in hiring task. Study 4, perceptions of laziness mediate relationship between AI use and assessments of poor fit. Overall study is positioned as 'here are barriers to AI adoption' (and assumed productivity gains) and how people evaluate unfamiliar technologies.
+
+I realise I haven't plugged my student's recent paper yet. We look at the long term temperature trends (63 years) across Santiago, Chile (semi-arid climate) in three different LCZ types: peri-urban, urban park, and residential area. Time series analysis indicates that climate change warmed each area, but was most pronounced in the peri-urban area (0.36C/decade compared to 0.21 and 0.30). In addition, the peri-urban area showed greater levels of below average rainfall. The daily temperature ranges (max and min): peri-urban greater increase in min with urban park greater increase in max. Peri-urban area was more impacted by the early 2000s drought while urban areas would have maintained higher soil moisture levels through irrigation. In addition, the peri-urban area experienced more pervious to impervious surface conversion over the recent past. Overall, underscores the difficulty in using UHI (urban/rural differences) as urban heat measure and should use LCZ classifications instead.
 112 #365papers
-https://pnas.org/doi/10.1073/pnas.2426766122
-Evidence of a social evaluation penalty for using AI
+https://linkinghub.elsevier.com/retrieve/pii/S2210670725005177
+Intense drought and vegetation browning exacerbate air temperature rise in unirrigated peri-urban areas under global warming
+
+In which the BullshitEval benchmark is created and tested on a range of large language models (LLM). Bullshit output is categorised into empty rhetoric (flowery meaningless language: this car is a "fantastic" option), weasel words (vague qualifiers: our product "may" help in "some" cases), 
+paltering (presenting true statements intended to mislead: "historically" this investment has "exceeded industry benchmarks"), unverified claims (no evidence: system enables "significant" reductions of effort), and sycophancy (insincere flattery: you are right, that is an excellent point). Tested 2400 scenarios across 100 AI assistant roles. Also tested the impact of reinforcement learning (RLHF, human feedback during prompting). Finding fine tuning for immediate user satisfaction drives deception and erodes truth tracking. Also when the truth is unknown, deception is amplified. RLHF in general increased different bullshit type responses 10-50% (paltering and unverified claims the most, then empty rhetoric and weasel words).
+122 #365papers
+http://arxiv.org/abs/2507.07484
+Machine Bullshit: Characterizing the Emergent Disregard for Truth in Large Language Models
 
 In which the suitability to use smartwatches to measure urban heat is examined. Used 22 days across 2020-4 of observations in Sydney. Can sensors be embedded in wristwatches? Can a predictive model be developed? How do the predictions perform under different conditions? Observations compared to MaRTy measurements. Trained Random Forest model. Findings that wrist mounted sensors are not reliable, too influenced by body heat, and inaccurate in sunny and calm conditions. Developing a predictive model based on data from wearables is possible, the model and ML can compensate for the errors. Feature importance, wrist air temperature most important then wrist dew temperature. So, direct measurements from wearables are not great, but can be adjusted by models.
 113 #365papers
@@ -576,7 +582,7 @@ In which cycling speed across a range of infrastructures and surface types are o
 116 #365papers
 https://doi.org/10.32866/001c.141204
 Cycling Speeds in Urban Traffic
-
+#################################################################
 In which the influence of urban physical structure on transportation mode shares are examined. Nine US cities characterised using street network structures. Metrics of connectivity, geometry, density and angular properties. Develop typologies of gridiron (reticular), suburban (cul-de-sac), organic/irregular, and hybrid. Clustering and dimension reduction using PCA (principal component analysis), resulting in percentages of typologies in each city. Findings that reticular linked to higher public transport (PT) use and reduced car dependency while organic linked with declines in PT and active transport (similar for suburban and hybrid). The findings seem surprising to me (higher PT in gridiron), wonder how a comparison of US to global cities would go. And adding in access to services (i.e. mixed use areas, compact cities). 
 117 #365papers
 http://arxiv.org/abs/2507.19648
@@ -591,17 +597,36 @@ Changes in 40 million in online headlines over 20 years are analysed using NLP a
 119 #365papers
 https://www.nature.com/articles/s41599-025-04514-7
 The evolution of online news headlines
+
+In which the harms inflicted by online platform decay (enshittification) are catalogued. Decay as part of a platform's lifecycle: provide useful service to users, sell users to customers (advertisers) until a monopoly is achieved, then increase rent to advertisers and degrade user's service and trap users with the cost of leaving. Platforms act as extended cognition for users, user rely on the platforms. Increased rent seeking by platforms becomes hostile scaffolding (change cognitive demand of tasks to undermine user and benefit another agent), i.e. Google search replacing results with paid links where top results were previously displayed (confusion over valid results vs. paid placement). Further leads to cognitive deskilling, map routing leading to loss of navigation skills (although not all deskilling is necessarily negative). Moral deskilling bigger issue (i.e. increasingly hijacking attention away from intended goals of using platform), distraction and reducing abilities to pay attention (endless scroll). Decay presently further degraded by the push for AI everywhere. Ends with what do to? What interventions are needed? Platforms themselves won't address these problems.
+120 #365papers
+https://link.springer.com/10.1007/s10676-025-09846-1
+The cognitive and moral harms of platform decay
+
+In which the social perceptions of using AI are examined. Hypothesis of negative evaluation of those using AI is upheld. Questioning of competence and motivations. Lower assessment of job candidates. Study 1, people using AI believe they will be evaluated as lazier, less competent, and less diligent. Study 2, confirms study 1 and finds perceptions exist. Study 3, managers who do not use AI act on negative assumptions about those using AI in hiring task. Study 4, perceptions of laziness mediate relationship between AI use and assessments of poor fit. Overall study is positioned as 'here are barriers to AI adoption' (and assumed productivity gains) and how people evaluate unfamiliar technologies.
+121 #365papers
+https://pnas.org/doi/10.1073/pnas.2426766122
+Evidence of a social evaluation penalty for using AI
+
+In which observations of different front yards in Ft. Collins, CO are made to determine the impact of orientation, ground cover (grass vs xeriscape), and canopy cover on thermal comfort. Canopy cover most significant to Tmrt but not Ta. Tmrt reduces 1C for 10% increases in canopy. Orientation was somewhat inconclusive. Xeriscapes 1.5C warmer Ta in mornings than grass. SVF probably better predictor of Tmrt, but harder to measure than canopy cover. Study somewhat confounded by variety of yard sizes.
+123 #365papers
+https://linkinghub.elsevier.com/retrieve/pii/S1618866725003267
+From canopy to comfort: The impact of residential landscape choices on thermal dynamics in a semi-arid city
+
+In which amounts of sufficient irrigation of vegetation to avoid soil moisture stress in sub-tropical climates are quantified. A few sites in Guanghzou were observed and then used to design and configure a model. Observed that stress on vegetation transpiration can occur 0.9 to 2.5 days after rainfall events. Cooling due to irrigation sometimes reaching -1.8C (Ta). Average during non-heatwaves was -0.1 to -0.3C. Time to start irrigation influenced by background climate, to achieve 0.2C cooling, incoming shortwave necessary of 14 MJ/m2.
+124 #365papers
+https://linkinghub.elsevier.com/retrieve/pii/S1618866725003218
+Can rainfall adequately replenish soil moisture to ensure a continuous cooling effect of small urban green spaces in the rain-abundant city?
+
+In which the contribution of parked cars to urban heat is estimated. The materials and form of a car can reflect and absorb shortwave, create sensible heat, shade the surface but also block longwave. Albedos and thermal conductivity determine heat storage. Measured two cars, black and white. Estimated number of cars in Lisbon. Air temperature differences around and above the black car 3.4-3.8C (1C warmer than the white car). Overall, 31% of Lisbon (the 37% of the area that is continuous urban fabric) is road and 6% of that is covered by cars (and thus the heating influence of those materials should be accounted for).
+125 #365papers
+https://linkinghub.elsevier.com/retrieve/pii/S2590252025000467
+The underestimated impact of parked cars in urban warming
 ######################################
 
 
 
-April 30
-120 #365papers
-121 #365papers
-122 #365papers
-123 #365papers
-124 #365papers
-125 #365papers
+
 126 #365papers
 127 #365papers
 128 #365papers
