@@ -582,7 +582,7 @@ In which cycling speed across a range of infrastructures and surface types are o
 116 #365papers
 https://doi.org/10.32866/001c.141204
 Cycling Speeds in Urban Traffic
-#################################################################
+
 In which the influence of urban physical structure on transportation mode shares are examined. Nine US cities characterised using street network structures. Metrics of connectivity, geometry, density and angular properties. Develop typologies of gridiron (reticular), suburban (cul-de-sac), organic/irregular, and hybrid. Clustering and dimension reduction using PCA (principal component analysis), resulting in percentages of typologies in each city. Findings that reticular linked to higher public transport (PT) use and reduced car dependency while organic linked with declines in PT and active transport (similar for suburban and hybrid). The findings seem surprising to me (higher PT in gridiron), wonder how a comparison of US to global cities would go. And adding in access to services (i.e. mixed use areas, compact cities). 
 117 #365papers
 http://arxiv.org/abs/2507.19648
@@ -607,7 +607,7 @@ In which the social perceptions of using AI are examined. Hypothesis of negative
 121 #365papers
 https://pnas.org/doi/10.1073/pnas.2426766122
 Evidence of a social evaluation penalty for using AI
-
+#################################################################
 In which observations of different front yards in Ft. Collins, CO are made to determine the impact of orientation, ground cover (grass vs xeriscape), and canopy cover on thermal comfort. Canopy cover most significant to Tmrt but not Ta. Tmrt reduces 1C for 10% increases in canopy. Orientation was somewhat inconclusive. Xeriscapes 1.5C warmer Ta in mornings than grass. SVF probably better predictor of Tmrt, but harder to measure than canopy cover. Study somewhat confounded by variety of yard sizes.
 123 #365papers
 https://linkinghub.elsevier.com/retrieve/pii/S1618866725003267
@@ -622,15 +622,32 @@ In which the contribution of parked cars to urban heat is estimated. The materia
 125 #365papers
 https://linkinghub.elsevier.com/retrieve/pii/S2590252025000467
 The underestimated impact of parked cars in urban warming
+
+In which the ability of large language models (LLM) to be used replicate human behaviour in psychological studies is tested. LLMs predict the next word (repeatedly) based on probabilities and an input prompt. Can LLMs simulate a specific type of person, respond to a stimulus, and answer a questionnaire. Previous work suggests LLMs do not reliably simulate human psychology: difficulties in instructing context (human persona) LLMs should account for, inconsistent results, lack of human diversity, biases in training, hallucinations, and mathematic proofs that it is impossible to account for all the possible inputs. Failures found that minor wording changes drastically change meanings. Testing 30 moral scenarios with two slightly different wording (sometimes just changing one letter) and judging how ethically they are. LLMs good agreement with human subjects for original wording, but poor agreement for reworded scenarios. The subtle rewording, which completely changes the meaning for humans, is generally not understood by the LLMs. Therefore LLMs are unreliable and need to be continually revalidated for any new domains and research questions.
+126 #365papers
+https://arxiv.org/abs/2508.06950
+Large Language Models Do Not Simulate Human Psychology
+
+In which it is asked, why would anybody want to be a scientist. Faced with constant failure and rejection, why would anybody choose that? 1) Pleasure in new insights and ideas. Although then requires lots of work to either prove or reject for lack of evidence. 2) New ideas growing into experiments or models. Much like the long term project of gardening. 3) Sharing with others. New ideas are incomplete until they are shared. So yes, there are good things, it can be rewarding but other paths also offer rewards and might or might not be right for you.
+127 #365papers
+https://journals.biologists.com/jcs/article/138/15/jcs264284/368759/Why-would-anyone-want-to-be-a-scientist
+Why would anyone want to be a scientist?
+
+In which the cooling capacity of trees (Tilia cordata) that have an unlimited irrigation supply is tested. Observed a row of trees along a roadside in Hanover over 9 months in 2024. Trees were 1) not irrigated, 2) monthly, and 3) weekly. Trees begin to draw water in April, #1 dries out across the summer, while #2 and #3 maintain reasonably high levels of soil moisture (higher in #3). Maximum air temperature reductions compared to #1 was -0.65C and +4.95% RH on days with over 30C temperatures. On average, #2 and #3 reduced temperatures about 0.3C in daytime (5% RH) with nighttime increase of 0.15-0.3C (1-2% RH). Weekly irrigation does provide additional cooling over monthly while both provide cooling over non-irrigation. Is weekly feasible and beneficial enough, might have to consider trade-offs. 
+128 #365papers
+https://linkinghub.elsevier.com/retrieve/pii/S2772411525000369
+Targeted irrigation to improve the cooling potential of urban trees as a nature-based solution
+
+In which exposure to heat in the downtown Miami transit system is quantified through the Transit Heat Exposure Index (THEI). 1m heat exposure was calculated, Tmrt using SOLWEIG, and overlaid on the public transit network. Heat exposure, THEI, a summation of Tmrt and exposure time (transit time). Modes include walking and waiting for transit (assumed no heat exposure while in vehicles). Greatest exposure is during walking to transit (less than the waiting period), about 86% of the exposure in the first mile. Frequent transit services help mitigate the higher temperatures in the city core. Some streets (~1% of the street links) account for 60% of the exposure. Interventions in those areas could bring large benefits.
+129 #365papers
+https://doi.org/10.1016/j.jtrangeo.2025.104383
+Measuring exposure to extreme heat in public transit systems
 ######################################
 
 
 
 
-126 #365papers
-127 #365papers
-128 #365papers
-129 #365papers
+
 130 #365papers
 131 #365papers
 132 #365papers
