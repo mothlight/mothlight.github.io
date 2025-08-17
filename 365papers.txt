@@ -607,12 +607,12 @@ In which the social perceptions of using AI are examined. Hypothesis of negative
 121 #365papers
 https://pnas.org/doi/10.1073/pnas.2426766122
 Evidence of a social evaluation penalty for using AI
-#################################################################
+
 In which observations of different front yards in Ft. Collins, CO are made to determine the impact of orientation, ground cover (grass vs xeriscape), and canopy cover on thermal comfort. Canopy cover most significant to Tmrt but not Ta. Tmrt reduces 1C for 10% increases in canopy. Orientation was somewhat inconclusive. Xeriscapes 1.5C warmer Ta in mornings than grass. SVF probably better predictor of Tmrt, but harder to measure than canopy cover. Study somewhat confounded by variety of yard sizes.
 123 #365papers
 https://linkinghub.elsevier.com/retrieve/pii/S1618866725003267
 From canopy to comfort: The impact of residential landscape choices on thermal dynamics in a semi-arid city
-
+#################################################################
 In which amounts of sufficient irrigation of vegetation to avoid soil moisture stress in sub-tropical climates are quantified. A few sites in Guanghzou were observed and then used to design and configure a model. Observed that stress on vegetation transpiration can occur 0.9 to 2.5 days after rainfall events. Cooling due to irrigation sometimes reaching -1.8C (Ta). Average during non-heatwaves was -0.1 to -0.3C. Time to start irrigation influenced by background climate, to achieve 0.2C cooling, incoming shortwave necessary of 14 MJ/m2.
 124 #365papers
 https://linkinghub.elsevier.com/retrieve/pii/S1618866725003218
