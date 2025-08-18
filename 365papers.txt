@@ -642,14 +642,23 @@ In which exposure to heat in the downtown Miami transit system is quantified thr
 129 #365papers
 https://doi.org/10.1016/j.jtrangeo.2025.104383
 Measuring exposure to extreme heat in public transit systems
+
+In which the challenges of privacy-preserving credential-based age verification systems are discussed. Camenisch-Lysyanskaya Protocol suggested for proof of age, identify provider (IDP) issues primary credential, asking for proof of age documents. Possessor of primary asks IDP for subcredentials, used to log into sites. Subs can be assured they are valid but doesn't know who the possessor is. Subs can have binary attributes (i.e. over 18). Simple solution, but complex implementation (updates of websites/browsers). Perhaps use client-side certificates. Obstacles: no global consistent ID and burden on disadvantaged people. And lots of potential for fraud and abuse. Privacy problem of shared computers (family, libraries). Who pays for the system? Governance, who trusts who to do what? Mission creep, what will a verification system also (eventually) get used for. So, a complex problem after all with no clear solution.
+130 #365papers
+https://www.cs.columbia.edu/~smb/papers/age-verify.pdf
+Privacy-Preserving Age Verification—and Its Limitations
+
+In which future exposure to climate extremes are calculated. Consequences of climate change are more frequent heatwaves, floods, droughts, crop failure, wildfires and cyclones, with future exposures varying by possible climate pathways. Current policies are a pathway to 2.7C and likely double the exposure to these consequences. With 1.5C, 52% born in 2020 will be exposed to heatwaves (11 over lifetime). With 3.5C, heatwave exposure up to 92% (18-26 over lifetime), 29% crop failure, and 14% river flooding. These increases also raise multi-hazard exposure. Exposure also unevenly increases for highest socioeconomic vulnerable and lowest adaptation potential.  
+131 #365papers
+https://www.nature.com/articles/s41586-025-08907-1
+Global emergence of unprecedented lifetime exposure to climate extremes
 ######################################
 
 
 
 
 
-130 #365papers
-131 #365papers
+
 132 #365papers
 133 #365papers
 134 #365papers
