@@ -652,14 +652,16 @@ In which future exposure to climate extremes are calculated. Consequences of cli
 131 #365papers
 https://www.nature.com/articles/s41586-025-08907-1
 Global emergence of unprecedented lifetime exposure to climate extremes
+
+In which police-reported data is used to find associations between pedestrian crashes and road types and land use in five cities in Quebec. Two hypothesises, 1) arterial roads with high traffic and speeds experience more crashes, 2) areas with mixed land use or higher population have more pedestrian-vehicle crashes (although I don't see how pedestrians are going to crash into vehicles). Majority of crashes on major roads followed by local roads, then national/regional roads. No significant differences found between road types and all and across cities. Most crashes in residential, followed by mixed use. Combination of major road and mixed use overrepresented. Also with industrial sector and major roads.  
+132 #365papers
+https://doi.org/10.32866/001c.138854
+Exploring Pedestrian Crashes in Five Cities in Québec, Canada – Association with Road Types and Land Use
 ######################################
 
 
 
 
-
-
-132 #365papers
 133 #365papers
 134 #365papers
 135 #365papers
