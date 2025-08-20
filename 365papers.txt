@@ -612,7 +612,7 @@ In which observations of different front yards in Ft. Collins, CO are made to de
 123 #365papers
 https://linkinghub.elsevier.com/retrieve/pii/S1618866725003267
 From canopy to comfort: The impact of residential landscape choices on thermal dynamics in a semi-arid city
-#################################################################
+
 In which amounts of sufficient irrigation of vegetation to avoid soil moisture stress in sub-tropical climates are quantified. A few sites in Guanghzou were observed and then used to design and configure a model. Observed that stress on vegetation transpiration can occur 0.9 to 2.5 days after rainfall events. Cooling due to irrigation sometimes reaching -1.8C (Ta). Average during non-heatwaves was -0.1 to -0.3C. Time to start irrigation influenced by background climate, to achieve 0.2C cooling, incoming shortwave necessary of 14 MJ/m2.
 124 #365papers
 https://linkinghub.elsevier.com/retrieve/pii/S1618866725003218
@@ -623,11 +623,11 @@ In which the contribution of parked cars to urban heat is estimated. The materia
 https://linkinghub.elsevier.com/retrieve/pii/S2590252025000467
 The underestimated impact of parked cars in urban warming
 
+Large Language Models Do Not Simulate Human Psychology
 In which the ability of large language models (LLM) to be used replicate human behaviour in psychological studies is tested. LLMs predict the next word (repeatedly) based on probabilities and an input prompt. Can LLMs simulate a specific type of person, respond to a stimulus, and answer a questionnaire. Previous work suggests LLMs do not reliably simulate human psychology: difficulties in instructing context (human persona) LLMs should account for, inconsistent results, lack of human diversity, biases in training, hallucinations, and mathematic proofs that it is impossible to account for all the possible inputs. Failures found that minor wording changes drastically change meanings. Testing 30 moral scenarios with two slightly different wording (sometimes just changing one letter) and judging how ethically they are. LLMs good agreement with human subjects for original wording, but poor agreement for reworded scenarios. The subtle rewording, which completely changes the meaning for humans, is generally not understood by the LLMs. Therefore LLMs are unreliable and need to be continually revalidated for any new domains and research questions.
 126 #365papers
 https://arxiv.org/abs/2508.06950
-Large Language Models Do Not Simulate Human Psychology
-
+#################################################################
 In which it is asked, why would anybody want to be a scientist. Faced with constant failure and rejection, why would anybody choose that? 1) Pleasure in new insights and ideas. Although then requires lots of work to either prove or reject for lack of evidence. 2) New ideas growing into experiments or models. Much like the long term project of gardening. 3) Sharing with others. New ideas are incomplete until they are shared. So yes, there are good things, it can be rewarding but other paths also offer rewards and might or might not be right for you.
 127 #365papers
 https://journals.biologists.com/jcs/article/138/15/jcs264284/368759/Why-would-anyone-want-to-be-a-scientist
@@ -657,14 +657,27 @@ In which police-reported data is used to find associations between pedestrian cr
 132 #365papers
 https://doi.org/10.32866/001c.138854
 Exploring Pedestrian Crashes in Five Cities in Québec, Canada – Association with Road Types and Land Use
+
+In which the connection between walkability and physical activity is tested. 2 million users of the Azumio Argus application (records physical activity) who moved to a different cities (1600 US cities) at least once over the 3 year study period, did moving to more (less) walkable cities change their activity. When moving to more walkable cities (Walk Score increases of at least 49), increases of 1,100 daily steps (11 minutes more). For opposite, moving to less walkable, reduction of 1,400 daily steps. significant for all ages, gender, BMI, and baseline activity (except women >50 years). With changes to moderate-to-vigorous physical activity, trends were similar.
+133 #365papers
+https://www.nature.com/articles/s41586-025-09321-3
+Countrywide natural experiment links built environment to physical activity
+
+In which the 'safety in numbers' (SIN) phenomenon for pedestrians is tested. Six years of data from 21 intersections in Melbourne's CBD. Proposes 'numbers in safety' (NIS), more pedestrians when perceptions of safety increase (and avoid areas that feel unsafe). Finds higher pedestrian numbers association with lower per-pedestrian crash risk, supports SIN. Finds small but measurable reductions in foot traffic at intersections with fatal/serious injury crash, support for NIS. 
+134 #365papers
+https://findingspress.org/article/141475-numbers-in-safety-for-pedestrians-in-melbourne
+‘Numbers in Safety’ for Pedestrians in Melbourne
+
+In which increased danger to pedestrians and cyclists hit by SUVs are examined. Traffic crash data 2004-23 in Great Britain, and crashes that involved a single car and pedestrian/cyclists casualties. 359k casualties in total. Over period, those crashes with a SUV increased 4 to 26%, along with 20% increase in weight, 6% height, and 3% length of vehicle. Odds of fatality increased (odds ratio 1.14) for adults. For children (0-18 yrs), increase of odds ratio 1.77. 0-9 yrs odds ratio increased 3.09. Associations with injury severity and vehicle weight and height but not length. 
+135 #365papers
+https://findingspress.org/article/141647-do-sports-utility-vehicles-suvs-cause-more-severe-injuries-to-pedestrians-and-cyclists-than-passenger-cars-in-the-case-of-a-crash-findings-from-gr
+Do Sports Utility Vehicles (SUVs) Cause More Severe Injuries to Pedestrians and Cyclists than Passenger Cars, in the Case of a Crash? Findings from Great Britain, 2004-2023
 ######################################
 
 
 
 
-133 #365papers
-134 #365papers
-135 #365papers
+
 136 #365papers
 137 #365papers
 138 #365papers
