@@ -627,12 +627,12 @@ Large Language Models Do Not Simulate Human Psychology
 In which the ability of large language models (LLM) to be used replicate human behaviour in psychological studies is tested. LLMs predict the next word (repeatedly) based on probabilities and an input prompt. Can LLMs simulate a specific type of person, respond to a stimulus, and answer a questionnaire. Previous work suggests LLMs do not reliably simulate human psychology: difficulties in instructing context (human persona) LLMs should account for, inconsistent results, lack of human diversity, biases in training, hallucinations, and mathematic proofs that it is impossible to account for all the possible inputs. Failures found that minor wording changes drastically change meanings. Testing 30 moral scenarios with two slightly different wording (sometimes just changing one letter) and judging how ethically they are. LLMs good agreement with human subjects for original wording, but poor agreement for reworded scenarios. The subtle rewording, which completely changes the meaning for humans, is generally not understood by the LLMs. Therefore LLMs are unreliable and need to be continually revalidated for any new domains and research questions.
 126 #365papers
 https://arxiv.org/abs/2508.06950
-#################################################################
+
 In which it is asked, why would anybody want to be a scientist. Faced with constant failure and rejection, why would anybody choose that? 1) Pleasure in new insights and ideas. Although then requires lots of work to either prove or reject for lack of evidence. 2) New ideas growing into experiments or models. Much like the long term project of gardening. 3) Sharing with others. New ideas are incomplete until they are shared. So yes, there are good things, it can be rewarding but other paths also offer rewards and might or might not be right for you.
 127 #365papers
 https://journals.biologists.com/jcs/article/138/15/jcs264284/368759/Why-would-anyone-want-to-be-a-scientist
 Why would anyone want to be a scientist?
-
+#################################################################
 In which the cooling capacity of trees (Tilia cordata) that have an unlimited irrigation supply is tested. Observed a row of trees along a roadside in Hanover over 9 months in 2024. Trees were 1) not irrigated, 2) monthly, and 3) weekly. Trees begin to draw water in April, #1 dries out across the summer, while #2 and #3 maintain reasonably high levels of soil moisture (higher in #3). Maximum air temperature reductions compared to #1 was -0.65C and +4.95% RH on days with over 30C temperatures. On average, #2 and #3 reduced temperatures about 0.3C in daytime (5% RH) with nighttime increase of 0.15-0.3C (1-2% RH). Weekly irrigation does provide additional cooling over monthly while both provide cooling over non-irrigation. Is weekly feasible and beneficial enough, might have to consider trade-offs. 
 128 #365papers
 https://linkinghub.elsevier.com/retrieve/pii/S2772411525000369
@@ -672,15 +672,25 @@ In which increased danger to pedestrians and cyclists hit by SUVs are examined. 
 135 #365papers
 https://findingspress.org/article/141647-do-sports-utility-vehicles-suvs-cause-more-severe-injuries-to-pedestrians-and-cyclists-than-passenger-cars-in-the-case-of-a-crash-findings-from-gr
 Do Sports Utility Vehicles (SUVs) Cause More Severe Injuries to Pedestrians and Cyclists than Passenger Cars, in the Case of a Crash? Findings from Great Britain, 2004-2023
+
+In which guidelines for writing a systematic review are outlined. A systematic review differs from a literature review by setting out a pre-set inclusion criteria. Might be based on Preferred Reporting Items for Systematic Reviews and Meta-Analyses (PRISMA) or others. Could be meta-analysis (combining quantitative studies), meta-synthesis (combine qualitative), rapid review (time-limited search), critical review (appraisal focus), scoping review (preliminary SR), and umbrella review (reviews reviews). Start with scoping searches to identify aim of the SR. Search, screen, de-duplicate, final review of inclusions. Extract meta information, trends, results, limitations. Identify common themes and relationships. Critique body of evidence as a whole. Discuss and conclude like a typical paper.
+136 #365papers
+https://linkinghub.elsevier.com/retrieve/pii/S0260691723000977
+Guidelines for writing a systematic review
+
+In which the Preferred Reporting Items for Systematic reviews and Meta-Analyses (PRISMA) statement is discussed. A 27 item checklist and flowchart, updated for 2020. Notable items. Introduction: rationale for and what question review addresses. Methods: selection criteria, sources, search, selection, data collection, bias, effects, synthesis method, confidence. Results: study selection, characteristics, results of studies, results of synthesis. Discussion: Interpretation, limitations of evidence, limitations of review, implications.  
+137 #365papers
+https://www.bmj.com/lookup/doi/10.1136/bmj.n71
+The PRISMA 2020 statement: an updated guideline for reporting systematic reviews
+
 ######################################
 
 
 
-
-
-136 #365papers
-137 #365papers
 138 #365papers
+https://www.frontiersin.org/articles/10.3389/frma.2023.1268045/full
+Appraising systematic reviews: a comprehensive guide to ensuring validity and reliability
+
 139 #365papers
 
 May 20
