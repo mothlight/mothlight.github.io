@@ -632,12 +632,12 @@ In which it is asked, why would anybody want to be a scientist. Faced with const
 127 #365papers
 https://journals.biologists.com/jcs/article/138/15/jcs264284/368759/Why-would-anyone-want-to-be-a-scientist
 Why would anyone want to be a scientist?
-#################################################################
+
 In which the cooling capacity of trees (Tilia cordata) that have an unlimited irrigation supply is tested. Observed a row of trees along a roadside in Hanover over 9 months in 2024. Trees were 1) not irrigated, 2) monthly, and 3) weekly. Trees begin to draw water in April, #1 dries out across the summer, while #2 and #3 maintain reasonably high levels of soil moisture (higher in #3). Maximum air temperature reductions compared to #1 was -0.65C and +4.95% RH on days with over 30C temperatures. On average, #2 and #3 reduced temperatures about 0.3C in daytime (5% RH) with nighttime increase of 0.15-0.3C (1-2% RH). Weekly irrigation does provide additional cooling over monthly while both provide cooling over non-irrigation. Is weekly feasible and beneficial enough, might have to consider trade-offs. 
 128 #365papers
 https://linkinghub.elsevier.com/retrieve/pii/S2772411525000369
 Targeted irrigation to improve the cooling potential of urban trees as a nature-based solution
-
+#################################################################
 In which exposure to heat in the downtown Miami transit system is quantified through the Transit Heat Exposure Index (THEI). 1m heat exposure was calculated, Tmrt using SOLWEIG, and overlaid on the public transit network. Heat exposure, THEI, a summation of Tmrt and exposure time (transit time). Modes include walking and waiting for transit (assumed no heat exposure while in vehicles). Greatest exposure is during walking to transit (less than the waiting period), about 86% of the exposure in the first mile. Frequent transit services help mitigate the higher temperatures in the city core. Some streets (~1% of the street links) account for 60% of the exposure. Interventions in those areas could bring large benefits.
 129 #365papers
 https://doi.org/10.1016/j.jtrangeo.2025.104383
@@ -683,6 +683,15 @@ In which the Preferred Reporting Items for Systematic reviews and Meta-Analyses 
 https://www.bmj.com/lookup/doi/10.1136/bmj.n71
 The PRISMA 2020 statement: an updated guideline for reporting systematic reviews
 
+In which a series of actions that can be taken to promote urban biodiversity are outlined. Correcting some myths: small habitat patches can still be useful, should preserve indigenous plants (as opposed to anything green is good), green infrastructure alone won't solve biodiversity, nature still needs management, natural spaces belong in cities, the public does like nature, and it isn't unaffordable. Some actions: phase out offsetting, have biodiversity strategy, work with traditional owners, design with biodiversity in mind, build skills, map existing biodiversity, plant wildlife gardens, get help from experts.
+139 #365papers
+https://melbourne.figshare.com/articles/report/Playbook_for_Urban_Biodiversity/24558505/1
+Playbook for Urban Biodiversity
+
+In which the present day and future projections of power demand for AI are calculated. Power demands have been increasing 4-5x/year since 2018. Model training time increases 26%/year since 2010, with top 10 models 50%/year since 2018. Present day power to train a single model 100-150MW, increase to 1-2GW by 2028, and 4GW by 2030. Hardware efficiency might improve 33-50%/year. Overall, future power demands expected to grow 2.2-2.9X/year, 1-2 GW by 2028 increasing to 4-16GW by 2030. AI is the largest driver of data center power growth. Could consume 5% of US power capacity by 2030. Obviously, this is all utterly unsustainable and an ecological disaster.
+140 #365papers
+Scaling Intelligence: The Exponential Growth of AI’s Power Needs
+https://www.epri.com/research/products/000000003002033669
 ######################################
 
 
@@ -691,10 +700,10 @@ The PRISMA 2020 statement: an updated guideline for reporting systematic reviews
 https://www.frontiersin.org/articles/10.3389/frma.2023.1268045/full
 Appraising systematic reviews: a comprehensive guide to ensuring validity and reliability
 
-139 #365papers
+
 
 May 20
-140 #365papers
+
 141 #365papers
 142 #365papers
 143 #365papers
