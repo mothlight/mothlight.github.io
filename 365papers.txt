@@ -177,7 +177,6 @@ https://academic.oup.com/sf/article/97/2/793/5002999In which the SIMPEL model (a
 Comparison of a simple and a spatially distributed hydrologic model for the simulation of a lowland catchment in Northern Germany
 https://linkinghub.elsevier.com/retrieve/pii/S0304380007003596
 
-
 In which postdoctoral periods are examined for factors leading to career retention and success (transition from postdoc to faculty position). 41% of postdocs leave academia. Those who, as a postdoc or PhD student, have a hit paper (reflected in citation indexes) more likely to remain in academia. Slight changes in topic (widening research) are also helpful. Moving to another country also associated with broadening experience. New faculty hires more often when PhD is from a higher ranked institution, where postdoc hires more often moving to a higher ranked institution.
 39/ #365papers
 Postdoc publications and citations link to academic retention and faculty success
@@ -637,12 +636,12 @@ In which the cooling capacity of trees (Tilia cordata) that have an unlimited ir
 128 #365papers
 https://linkinghub.elsevier.com/retrieve/pii/S2772411525000369
 Targeted irrigation to improve the cooling potential of urban trees as a nature-based solution
-#################################################################
+
 In which exposure to heat in the downtown Miami transit system is quantified through the Transit Heat Exposure Index (THEI). 1m heat exposure was calculated, Tmrt using SOLWEIG, and overlaid on the public transit network. Heat exposure, THEI, a summation of Tmrt and exposure time (transit time). Modes include walking and waiting for transit (assumed no heat exposure while in vehicles). Greatest exposure is during walking to transit (less than the waiting period), about 86% of the exposure in the first mile. Frequent transit services help mitigate the higher temperatures in the city core. Some streets (~1% of the street links) account for 60% of the exposure. Interventions in those areas could bring large benefits.
 129 #365papers
 https://doi.org/10.1016/j.jtrangeo.2025.104383
 Measuring exposure to extreme heat in public transit systems
-
+#################################################################
 In which the challenges of privacy-preserving credential-based age verification systems are discussed. Camenisch-Lysyanskaya Protocol suggested for proof of age, identify provider (IDP) issues primary credential, asking for proof of age documents. Possessor of primary asks IDP for subcredentials, used to log into sites. Subs can be assured they are valid but doesn't know who the possessor is. Subs can have binary attributes (i.e. over 18). Simple solution, but complex implementation (updates of websites/browsers). Perhaps use client-side certificates. Obstacles: no global consistent ID and burden on disadvantaged people. And lots of potential for fraud and abuse. Privacy problem of shared computers (family, libraries). Who pays for the system? Governance, who trusts who to do what? Mission creep, what will a verification system also (eventually) get used for. So, a complex problem after all with no clear solution.
 130 #365papers
 https://www.cs.columbia.edu/~smb/papers/age-verify.pdf
