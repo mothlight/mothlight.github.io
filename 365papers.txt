@@ -641,7 +641,7 @@ In which exposure to heat in the downtown Miami transit system is quantified thr
 129 #365papers
 https://doi.org/10.1016/j.jtrangeo.2025.104383
 Measuring exposure to extreme heat in public transit systems
-#################################################################
+
 In which the challenges of privacy-preserving credential-based age verification systems are discussed. Camenisch-Lysyanskaya Protocol suggested for proof of age, identify provider (IDP) issues primary credential, asking for proof of age documents. Possessor of primary asks IDP for subcredentials, used to log into sites. Subs can be assured they are valid but doesn't know who the possessor is. Subs can have binary attributes (i.e. over 18). Simple solution, but complex implementation (updates of websites/browsers). Perhaps use client-side certificates. Obstacles: no global consistent ID and burden on disadvantaged people. And lots of potential for fraud and abuse. Privacy problem of shared computers (family, libraries). Who pays for the system? Governance, who trusts who to do what? Mission creep, what will a verification system also (eventually) get used for. So, a complex problem after all with no clear solution.
 130 #365papers
 https://www.cs.columbia.edu/~smb/papers/age-verify.pdf
@@ -671,13 +671,14 @@ In which increased danger to pedestrians and cyclists hit by SUVs are examined. 
 135 #365papers
 https://findingspress.org/article/141647-do-sports-utility-vehicles-suvs-cause-more-severe-injuries-to-pedestrians-and-cyclists-than-passenger-cars-in-the-case-of-a-crash-findings-from-gr
 Do Sports Utility Vehicles (SUVs) Cause More Severe Injuries to Pedestrians and Cyclists than Passenger Cars, in the Case of a Crash? Findings from Great Britain, 2004-2023
+#################################################################
 
 In which guidelines for writing a systematic review are outlined. A systematic review differs from a literature review by setting out a pre-set inclusion criteria. Might be based on Preferred Reporting Items for Systematic Reviews and Meta-Analyses (PRISMA) or others. Could be meta-analysis (combining quantitative studies), meta-synthesis (combine qualitative), rapid review (time-limited search), critical review (appraisal focus), scoping review (preliminary SR), and umbrella review (reviews reviews). Start with scoping searches to identify aim of the SR. Search, screen, de-duplicate, final review of inclusions. Extract meta information, trends, results, limitations. Identify common themes and relationships. Critique body of evidence as a whole. Discuss and conclude like a typical paper.
 136 #365papers
 https://linkinghub.elsevier.com/retrieve/pii/S0260691723000977
 Guidelines for writing a systematic review
 
-In which the Preferred Reporting Items for Systematic reviews and Meta-Analyses (PRISMA) statement is discussed. A 27 item checklist and flowchart, updated for 2020. Notable items. Introduction: rationale for and what question review addresses. Methods: selection criteria, sources, search, selection, data collection, bias, effects, synthesis method, confidence. Results: study selection, characteristics, results of studies, results of synthesis. Discussion: Interpretation, limitations of evidence, limitations of review, implications.  
+In which the Preferred Reporting Items for Systematic reviews and Meta-Analyses (PRISMA) statement is discussed. A 27 item checklist and flowchart, updated for 2020. Notable items. Introduction: rationale for and what question review addresses. Methods: selection criteria, sources, search, selection, data collection, bias, effects, synthesis method, confidence. Results: study selection, characteristics, results of studies, results of synthesis. Discussion: Interpretation, limitations of evidence, limitations of review, implications.
 137 #365papers
 https://www.bmj.com/lookup/doi/10.1136/bmj.n71
 The PRISMA 2020 statement: an updated guideline for reporting systematic reviews
@@ -691,19 +692,27 @@ In which the present day and future projections of power demand for AI are calcu
 140 #365papers
 Scaling Intelligence: The Exponential Growth of AI’s Power Needs
 https://www.epri.com/research/products/000000003002033669
+
+In which AI has become a solution in search of a problem. Driven by the need to recoup massive investments, AI is increasingly imposed in (all?) digital products through deceptive patterns. Categories of manipulating visual architecture and emotional and sensory manipulation. Resulting in planned rebound effects, environmental blindness, and concealed impacts (all resulting in huge hidden environmental impacts). AI given prominent positions in interfaces (multiple, difficult to avoid), few clear ways to disable. Symbolism: icons (often sparks) depict "special", distinctive colors (mauve, standing for magic). AI features not subjected to same rules as other features (false hierarchy). 
+-
+AI interferes with non-AI uses, constant hijacking, adding extra steps. Default to AI always on, can't turn off (but "try now" / "maybe later"). AI assistants, a polite subservient teammate. AI positioned as an important skill workers must learn to be professional. All to drive massive to drive massive unsustainable environmental impacts.
+141 #365papers
+http://arxiv.org/abs/2508.08672
+Imposing AI: Deceptive design patterns against sustainability
+
+In which (really can't see any contemporary relevance) an analysis is performed of how Stalin used purges of the security services to maintain power. How do authoritarians reduce the chances of being overthrown by those under them (the agents of domestic coercion)? Study uses documents on 36k NKVD officials (2269 were purged). Hypothesis that both high and low ranking individuals are targeted during purges to undermine collective action. Identifying the ties that bind factional groups can help explain the micro-foundations of power. Elites exercise power through mobilising others to seek rent, power, and oppose rival groups. Anti-corruption campaigns to create competition between rival factions, use of patronage, counter-balance military with security services. Coup leaders more likely to be lower ranked (not always generals). 
+-
+So, strategy of breaking networks by purging by association (decapitation still leaves lower ranking conspirators in place), especially across cross-cutting ties. Costs of purges, alternatives of strategic loyalist appointments or individual punishment if individual motivations are known. Rotation of officials might still allow them to bring "their people" with them. Also, rotation of lower ranks more costly. Issue of loyalty-competence tradeoff. But with NKVD, state education increased after 1918, so less of an issue. The Great Purge (1936-8), society wide but also within the NKVD. Hypothesis, lower ranks more likely purged if politically connected to purged higher-ranked. Results show risk for connected increased about 1.46x. Survival chances for unconnected increase 5-10%.
+138 #365papers
+https://www.tandfonline.com/doi/full/10.1080/09636412.2025.2468755
+How the Strategic Purges of State Security Personnel Protect Dictators
 ######################################
 
 
 
-138 #365papers
-https://www.frontiersin.org/articles/10.3389/frma.2023.1268045/full
-Appraising systematic reviews: a comprehensive guide to ensuring validity and reliability
 
 
 
-May 20
-
-141 #365papers
 142 #365papers
 143 #365papers
 144 #365papers
