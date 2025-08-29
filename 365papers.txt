@@ -671,7 +671,13 @@ In which increased danger to pedestrians and cyclists hit by SUVs are examined. 
 135 #365papers
 https://findingspress.org/article/141647-do-sports-utility-vehicles-suvs-cause-more-severe-injuries-to-pedestrians-and-cyclists-than-passenger-cars-in-the-case-of-a-crash-findings-from-gr
 Do Sports Utility Vehicles (SUVs) Cause More Severe Injuries to Pedestrians and Cyclists than Passenger Cars, in the Case of a Crash? Findings from Great Britain, 2004-2023
-#################################################################
+
+In which (really can't see any contemporary relevance) an analysis is performed of how Stalin used purges of the security services to maintain power. How do authoritarians reduce the chances of being overthrown by those under them (the agents of domestic coercion)? Study uses documents on 36k NKVD officials (2269 were purged). Hypothesis that both high and low ranking individuals are targeted during purges to undermine collective action. Identifying the ties that bind factional groups can help explain the micro-foundations of power. Elites exercise power through mobilising others to seek rent, power, and oppose rival groups. Anti-corruption campaigns to create competition between rival factions, use of patronage, counter-balance military with security services. Coup leaders more likely to be lower ranked (not always generals). 
+-
+So, strategy of breaking networks by purging by association (decapitation still leaves lower ranking conspirators in place), especially across cross-cutting ties. Costs of purges, alternatives of strategic loyalist appointments or individual punishment if individual motivations are known. Rotation of officials might still allow them to bring "their people" with them. Also, rotation of lower ranks more costly. Issue of loyalty-competence tradeoff. But with NKVD, state education increased after 1918, so less of an issue. The Great Purge (1936-8), society wide but also within the NKVD. Hypothesis, lower ranks more likely purged if politically connected to purged higher-ranked. Results show risk for connected increased about 1.46x. Survival chances for unconnected increase 5-10%.
+138 #365papers
+https://www.tandfonline.com/doi/full/10.1080/09636412.2025.2468755
+How the Strategic Purges of State Security Personnel Protect Dictators
 
 In which guidelines for writing a systematic review are outlined. A systematic review differs from a literature review by setting out a pre-set inclusion criteria. Might be based on Preferred Reporting Items for Systematic Reviews and Meta-Analyses (PRISMA) or others. Could be meta-analysis (combining quantitative studies), meta-synthesis (combine qualitative), rapid review (time-limited search), critical review (appraisal focus), scoping review (preliminary SR), and umbrella review (reviews reviews). Start with scoping searches to identify aim of the SR. Search, screen, de-duplicate, final review of inclusions. Extract meta information, trends, results, limitations. Identify common themes and relationships. Critique body of evidence as a whole. Discuss and conclude like a typical paper.
 136 #365papers
@@ -682,7 +688,7 @@ In which the Preferred Reporting Items for Systematic reviews and Meta-Analyses 
 137 #365papers
 https://www.bmj.com/lookup/doi/10.1136/bmj.n71
 The PRISMA 2020 statement: an updated guideline for reporting systematic reviews
-
+#################################################################
 In which a series of actions that can be taken to promote urban biodiversity are outlined. Correcting some myths: small habitat patches can still be useful, should preserve indigenous plants (as opposed to anything green is good), green infrastructure alone won't solve biodiversity, nature still needs management, natural spaces belong in cities, the public does like nature, and it isn't unaffordable. Some actions: phase out offsetting, have biodiversity strategy, work with traditional owners, design with biodiversity in mind, build skills, map existing biodiversity, plant wildlife gardens, get help from experts.
 139 #365papers
 https://melbourne.figshare.com/articles/report/Playbook_for_Urban_Biodiversity/24558505/1
@@ -700,12 +706,22 @@ AI interferes with non-AI uses, constant hijacking, adding extra steps. Default 
 http://arxiv.org/abs/2508.08672
 Imposing AI: Deceptive design patterns against sustainability
 
-In which (really can't see any contemporary relevance) an analysis is performed of how Stalin used purges of the security services to maintain power. How do authoritarians reduce the chances of being overthrown by those under them (the agents of domestic coercion)? Study uses documents on 36k NKVD officials (2269 were purged). Hypothesis that both high and low ranking individuals are targeted during purges to undermine collective action. Identifying the ties that bind factional groups can help explain the micro-foundations of power. Elites exercise power through mobilising others to seek rent, power, and oppose rival groups. Anti-corruption campaigns to create competition between rival factions, use of patronage, counter-balance military with security services. Coup leaders more likely to be lower ranked (not always generals). 
--
-So, strategy of breaking networks by purging by association (decapitation still leaves lower ranking conspirators in place), especially across cross-cutting ties. Costs of purges, alternatives of strategic loyalist appointments or individual punishment if individual motivations are known. Rotation of officials might still allow them to bring "their people" with them. Also, rotation of lower ranks more costly. Issue of loyalty-competence tradeoff. But with NKVD, state education increased after 1918, so less of an issue. The Great Purge (1936-8), society wide but also within the NKVD. Hypothesis, lower ranks more likely purged if politically connected to purged higher-ranked. Results show risk for connected increased about 1.46x. Survival chances for unconnected increase 5-10%.
-138 #365papers
-https://www.tandfonline.com/doi/full/10.1080/09636412.2025.2468755
-How the Strategic Purges of State Security Personnel Protect Dictators
+In which the migration of the science community from Twitter (TW) to Bluesky (BL) is examined. Surveys of about 800 scientists (in 2024?). 92% reported they followed new developments in their field using TW. Other uses: networking, public outreach. 76% reported TW became less useful. 50% still have TW account (but use less frequently), 11% still active. Reporting growing misinformation and reduced engagement. 60% drawn to BL and avoiding TW changes. 43% migrated to follow others who had moved. Majority believe BL offers what TW no long does. (Personally haven't bothered with BL since deleting TW. Don't want to move again when BL inevitably declines.)
+142 #365papers
+https://academic.oup.com/icb/advance-article/doi/10.1093/icb/icaf127/8196180
+Scientists no Longer Find Twitter Professionally Useful, and have Switched to Bluesky
+
+In which a thesis looks at the possible barriers of sensory hyperreactivity (SHR) present to scent marketing. Promise of scent in marketing underestimated? Enhance sales linking scents with emotions/associations/memory. But 6% of Sweden has SHR, hyper sensitive to smells/fragrances. (I guess the concern is how to sell scented things to those with SHR.) Scents are already widely used (new car smell, perfume spraying in shops, scented products). But 16-33% self report (6% medically diagnosed) coughing, breathing problems, etc from scents (unlikely to be asthma). Can impair quality of life with the only option to avoid being exposed. No medicated options available. 
+--
+General public sceptical about SHR. Food additives have to be declared, no requirements for scents. Findings are there are no meaningful limitations to the use of scent, those with SHR feel frustrated and angry at having scents imposed on them, there probably (as of 2006) wasn't much research on what causes SHR and so there are no real solutions. And scented public places and products that don't need scents are unrestrained and health impacts are ignored.
+143 #365papers
+https://www.diva-portal.org/smash/get/diva2:231164/FULLTEXT01.pdf
+‘Scent and sensitivity’: Scent Marketing with regard to sensory hyper-reactivity
+
+In which it is demonstrated that LLMs rely on pattern matching instead of reasoning. Many LLMs (DeepSeek-R1, o3-mini, Claude-3.5 Sonnet, Gemini-2.0-Flash, GPT-4o, and Llama-3.3-70B) can achieve about 80% accuracy when attempting MedQA (multiple choice medical benchmark). Study replaced the correct original answers with "None of the other answers". Hypothesis is that if LLMs performed reasoning, they could maintain a consistent performance level. However, mistakes increased anywhere from 8 to 38%. So, overall a drop from 80 to 42% accuracy due to disrupting the patterns in the testing materials.
+144 #365papers
+https://jamanetwork.com/journals/jamanetworkopen/fullarticle/2837372
+Fidelity of Medical Reasoning in Large Language Models
 ######################################
 
 
@@ -713,9 +729,6 @@ How the Strategic Purges of State Security Personnel Protect Dictators
 
 
 
-142 #365papers
-143 #365papers
-144 #365papers
 145 #365papers
 146 #365papers
 147 #365papers
