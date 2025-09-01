@@ -688,7 +688,7 @@ In which the Preferred Reporting Items for Systematic reviews and Meta-Analyses 
 137 #365papers
 https://www.bmj.com/lookup/doi/10.1136/bmj.n71
 The PRISMA 2020 statement: an updated guideline for reporting systematic reviews
-#################################################################
+
 In which a series of actions that can be taken to promote urban biodiversity are outlined. Correcting some myths: small habitat patches can still be useful, should preserve indigenous plants (as opposed to anything green is good), green infrastructure alone won't solve biodiversity, nature still needs management, natural spaces belong in cities, the public does like nature, and it isn't unaffordable. Some actions: phase out offsetting, have biodiversity strategy, work with traditional owners, design with biodiversity in mind, build skills, map existing biodiversity, plant wildlife gardens, get help from experts.
 139 #365papers
 https://melbourne.figshare.com/articles/report/Playbook_for_Urban_Biodiversity/24558505/1
@@ -717,24 +717,46 @@ General public sceptical about SHR. Food additives have to be declared, no requi
 143 #365papers
 https://www.diva-portal.org/smash/get/diva2:231164/FULLTEXT01.pdf
 ‘Scent and sensitivity’: Scent Marketing with regard to sensory hyper-reactivity
-
+#################################################################
 In which it is demonstrated that LLMs rely on pattern matching instead of reasoning. Many LLMs (DeepSeek-R1, o3-mini, Claude-3.5 Sonnet, Gemini-2.0-Flash, GPT-4o, and Llama-3.3-70B) can achieve about 80% accuracy when attempting MedQA (multiple choice medical benchmark). Study replaced the correct original answers with "None of the other answers". Hypothesis is that if LLMs performed reasoning, they could maintain a consistent performance level. However, mistakes increased anywhere from 8 to 38%. So, overall a drop from 80 to 42% accuracy due to disrupting the patterns in the testing materials.
 144 #365papers
 https://jamanetwork.com/journals/jamanetworkopen/fullarticle/2837372
 Fidelity of Medical Reasoning in Large Language Models
+
+In which "fraud" narratives (linking race and criminality), used by White Americans to reject democratic outcomes, driven by racial resentment and racism. Question of was fraud rhetoric following 2020 election shaped by a racist undercurrent? Focusing fraud accusations on Black individuals (and cities), rejecting specific outcomes while maintaining the entire system as legitimate. Finding fraud discussion in 2020 focused on Black cities, population percentage of Blacks was key predictor in accusation frequency, while racist White's election confidence declined (greater resentment if their candidate lost). Antidemocracy strongly linked to race and maintaining group position, using perceived criminality to discriminate and comfort with rejection of democracy.
+145 #365papers
+https://link.springer.com/10.1007/s11109-025-10065-z
+On Fertile Ground: How Racial Resentment Primes White Americans To Believe Fraud Accusations
+
+In which the impact on online political participation from psychopathy (P), narcissism (N), and FoMO (fear of missing out) are investigated in the US and 7 Asian countries. Hypothesis: N and P positive association with online political participation. FoMO also positive association. And cognitive ability (CA) explains individual differences in political behaviour. N only pos assoc in US, Philippines, Thailand. P and FoMO pos assoc across all. CA negatively assoc across all. FoMO could be fear of exclusion (anxiety driven) rather than interest or knowledge seeking. Finding also higher CA moderates the dark personality traits (P, N, FoMO), through critical thinking, less impulsive, discerning in information sources. Also, countries of Confucian values (collectivist), N was not significant.
+146 #365papers
+https://www.nature.com/articles/s41599-025-05195-y
+Dark personalities in the digital arena: how psychopathy and narcissism shape online political participation
+
+In which links between traits of social dominance orientation (SDO), right-wing authoritarianism (RWA), psychopathic propensities (PPs), and other malevolent dispositions (MD), and reduced empathy are predictive of favourable views of Trump and conservative political ideology (CI) in general. RWA: preferences for social control and conformity. SDO: competitive world view with preference for social hierarchies. Both share low honesty-humility and low openness traits. Who would embrace a leader with malevolent disposition (I could shoot somebody)? Used 2 samples from US: 1) white vs minority status men, 2) men and women. Findings: RWA and SDO strong predictors of CI (minorities as well). Positive assoc between CI/positive about Trump and MD (all samples). White men, pos assoc with PP. Link between personality and CI due to absence of benevolent propensities (and lack of support due to benevolent).
+147 #365papers
+https://linkinghub.elsevier.com/retrieve/pii/S0092656625000704
+Malevolent vs. benevolent dispositions and conservative political ideology in the Trump era
+
+In which the carbon footprint of Antarctic tourism is assessed. Tourism to Antarctic increased from 6500 people in 1991 to 120k in 2023. Most commonly visited via ship departing from S. America with flights from Northern hemisphere. Average flights 2.25 tons carbon. Sea vessels could be 1) cruise only, 2) seaborne, or 3) seaborne to the Ross Sea and continent. Carbon for 1 and 2, around 3-4 tons. Carbon for 3 (longer itinerary, longer on board) of 16 tons. High emissions counteracts claims of visitors acting as ambassadors for Antarctic protection and pro-environment.
+148 #365papers
+https://www.tandfonline.com/doi/full/10.1080/09669582.2025.2542823
+The carbon footprint of Antarctic tourism
+
+In which links between car-based school travel and school enrolment are analysed. Australian children in public schools are expected to enroll in local schools with rare exceptions for out of area placements. But Australia has about 37% enrolment in private schools (generally not near to home). In primary schools, modes for private vs public are car (75%-62), active (13-30), public transport (3-2), bus (8-5). Secondary: car (57-42), active (12-30), PT (16-16), bus (13-10). Distances travelled, public schools <2km where private 2x likely >3km. 
+149 #365papers
+https://findingspress.org/article/143589-the-sector-effect-differences-between-public-and-private-school-travel-in-australia
+The Sector Effect: Differences between Public and Private School Travel in Australia
+
+In which transport poverty (TP) differences between genders are explored in Canada (Montreal and Hamilton). Are there gender differences? Are there clustered areas of TP, inaccessibility (IA), and marginalisation (MA). Index weights IA and MA 50%. MA includes household conditions, resources, age, and immigration. IA evenly weights trip potential for public transport, cycle, and walking. Finding woman have higher TP index. Women have higher MA but also lower IA, but combined leads to higher TP. Also finding through spatial analysis local clusters of high IA and % of women in inner cities while clusters of high IA and MA and % men in the outskirts.
+150 #365papers
+https://findingspress.org/article/143474-are-women-more-transport-poor-than-men-exploring-gender-discrepancies-in-transport-poverty
+Are Women More Transport Poor Than Men? Exploring Gender Discrepancies in Transport Poverty
 ######################################
 
 
 
 
-
-
-145 #365papers
-146 #365papers
-147 #365papers
-148 #365papers
-149 #365papers
-150 #365papers
 151 #365papers
 152 #365papers
 153 #365papers
