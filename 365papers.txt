@@ -717,7 +717,7 @@ General public sceptical about SHR. Food additives have to be declared, no requi
 143 #365papers
 https://www.diva-portal.org/smash/get/diva2:231164/FULLTEXT01.pdf
 ‘Scent and sensitivity’: Scent Marketing with regard to sensory hyper-reactivity
-#################################################################
+
 In which it is demonstrated that LLMs rely on pattern matching instead of reasoning. Many LLMs (DeepSeek-R1, o3-mini, Claude-3.5 Sonnet, Gemini-2.0-Flash, GPT-4o, and Llama-3.3-70B) can achieve about 80% accuracy when attempting MedQA (multiple choice medical benchmark). Study replaced the correct original answers with "None of the other answers". Hypothesis is that if LLMs performed reasoning, they could maintain a consistent performance level. However, mistakes increased anywhere from 8 to 38%. So, overall a drop from 80 to 42% accuracy due to disrupting the patterns in the testing materials.
 144 #365papers
 https://jamanetwork.com/journals/jamanetworkopen/fullarticle/2837372
@@ -732,7 +732,7 @@ In which the impact on online political participation from psychopathy (P), narc
 146 #365papers
 https://www.nature.com/articles/s41599-025-05195-y
 Dark personalities in the digital arena: how psychopathy and narcissism shape online political participation
-
+#################################################################
 In which links between traits of social dominance orientation (SDO), right-wing authoritarianism (RWA), psychopathic propensities (PPs), and other malevolent dispositions (MD), and reduced empathy are predictive of favourable views of Trump and conservative political ideology (CI) in general. RWA: preferences for social control and conformity. SDO: competitive world view with preference for social hierarchies. Both share low honesty-humility and low openness traits. Who would embrace a leader with malevolent disposition (I could shoot somebody)? Used 2 samples from US: 1) white vs minority status men, 2) men and women. Findings: RWA and SDO strong predictors of CI (minorities as well). Positive assoc between CI/positive about Trump and MD (all samples). White men, pos assoc with PP. Link between personality and CI due to absence of benevolent propensities (and lack of support due to benevolent).
 147 #365papers
 https://linkinghub.elsevier.com/retrieve/pii/S0092656625000704
@@ -752,15 +752,35 @@ In which transport poverty (TP) differences between genders are explored in Cana
 150 #365papers
 https://findingspress.org/article/143474-are-women-more-transport-poor-than-men-exploring-gender-discrepancies-in-transport-poverty
 Are Women More Transport Poor Than Men? Exploring Gender Discrepancies in Transport Poverty
+
+In qualitative research is being exploited by scammers using AI. Recruiting research participants is hard and has increasingly moved online since COVID. Researchers are increasingly detecting that participants are fraudulent. In this study, working relationship between pharmacists and community health workers was analysed using 30 minute online or in person interviews. Recruited on Linkedin, many responses were very similar. Online interviews, participants took several seconds to start answering each question, others basic information changed/inconsistent throughout interview, short and vague answers. 
+--
+Other clues, struggle with English, cameras off, mostly interested in how the reimbursement would be paid, and contact details all very similar. Researchers asked for proof of professional credentials which they couldn't provide. Study gives many recommendations on how to detect and avoid fraud, including how to advertise for participants, checking identities, camera on, discourage use of AI, local vouchers (not international), guidance from ethics and universities, establish protocols.
+151 #365papers
+https://researchintegrityjournal.biomedcentral.com/articles/10.1186/s41073-025-00179-7
+I have been scammed in my qualitative research
+
+In which the role of anti-immigrant rhetoric by mainstream (MS) politicians, compared to radical right (RR) in eroding social norms is examined. Most recent research only looks at RR politicians. Mainstream politicians might introduce to 1) prevent rise of RR or 2) just go ahead and adopt their policies. Does accommodation pay off for MS politicians? Does it impact established norms? Surveys in Germany using anti-immigration quotes from CDU (center right) and AfD (RR) participants try to identify who said what and how +/- they are. Results show rhetoric from RR doesn't erode norms, instead creates backlash strengthening norm. However, from MS, norms start to change. However, only if MS alone makes statement, but not when RR also endorses the statement. Also, left-wing individuals backlash against RR statements but not to MS. So, democratic norm erosion due to mainstream rhetoric but not from the radical fringes. 
+152 #365papers
+https://www.cambridge.org/core/product/identifier/S0007123425100586/type/journal_article
+How Mainstream Politicians Erode Norms
+
+In which an analysis is performed on how the business press covers price hikes. Looking across publications such as the Wall Street Journal, NY Times, etc. In looking at how they report responsibility for rising prices, they make two hypothesises, 1) the coverage is unbiased and exogenous demand or cost shocks motivate price hikes, 2) coverage is biased and seller behaviour plays a larger role than is reported. 1900 articles from 9 publications Jan 2023 to present. Random selection of 100 coded on how inflation was reported, and whether it cited seller behaviour as driver of hikes and whether those choices were unfair. From 2023 to 25, large shifts of attributions of "outside factors" (42%->79%) and "seller strategic behaviour" (34%->3%). 2025 tariffs? Shifts in seller behaviour as unfair (42%->8%) and neural framing (45%->80%). By publisher, failure to mention seller behaviour, Axios (100%), CNBC (73%), others (30-70%). Omit unfair framing, Axios (100%), CNBC (73%) while Economist 66% as unfair. In articles where only sources were company spokespeople, 95% not seller behaviour, dropped to 76% when alternative sources cited.
+153 #365papers
+https://econone.com/wp-content/uploads/2025/08/Analysis_of_Business_Press_Coverage_of_Industry_Price_Hikes.pdf
+It’s Beyond Our Control: Analysis of Business Press Coverage of Industry Price Hikes
+
+In which cradle-to-grave GHG emission assessments on light-duty vehicles are performed. Will electrification reduce emissions? Most assessments on sedans, but SUVs/trucks more popular in the US. Assess vehicle production, 211k lifetime miles for SUVs (244k for trucks). Accounting for regional variation (grid carbon intensity, weather). Added carbon for cargo. Types: battery (BEV), internal combustion (ICE), hybrid (HEV), plugin hybrid (PHEV). Finding EVs lower GHG than ICE in every US county. 300 mile BEV ~33% lower GHG than 50 mile PHEV, ~65% lower than HEV, ~72% than ICE. Compact ICE 34% lower than ICE truck. Adding 2500lb cargo increases BEV 13% and 22% in ICE. So, battery better, bigger bad, and variation of local grid intensities.
+154 #365papers
+https://pubs.acs.org/doi/10.1021/acs.est.5c05406
+Greenhouse Gas Reductions Driven by Vehicle Electrification across Powertrains, Classes, Locations, and Use Patterns
 ######################################
 
 
 
 
-151 #365papers
-152 #365papers
-153 #365papers
-154 #365papers
+
+
 155 #365papers
 156 #365papers
 157 #365papers
