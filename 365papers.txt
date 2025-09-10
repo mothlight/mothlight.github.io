@@ -711,9 +711,7 @@ In which the migration of the science community from Twitter (TW) to Bluesky (BL
 https://academic.oup.com/icb/advance-article/doi/10.1093/icb/icaf127/8196180
 Scientists no Longer Find Twitter Professionally Useful, and have Switched to Bluesky
 
-In which a thesis looks at the possible barriers of sensory hyperreactivity (SHR) present to scent marketing. Promise of scent in marketing underestimated? Enhance sales linking scents with emotions/associations/memory. But 6% of Sweden has SHR, hyper sensitive to smells/fragrances. (I guess the concern is how to sell scented things to those with SHR.) Scents are already widely used (new car smell, perfume spraying in shops, scented products). But 16-33% self report (6% medically diagnosed) coughing, breathing problems, etc from scents (unlikely to be asthma). Can impair quality of life with the only option to avoid being exposed. No medicated options available. 
---
-General public sceptical about SHR. Food additives have to be declared, no requirements for scents. Findings are there are no meaningful limitations to the use of scent, those with SHR feel frustrated and angry at having scents imposed on them, there probably (as of 2006) wasn't much research on what causes SHR and so there are no real solutions. And scented public places and products that don't need scents are unrestrained and health impacts are ignored.
+In which a thesis looks at the possible barriers of sensory hyperreactivity (SHR) present to scent marketing. Promise of scent in marketing underestimated? Enhance sales linking scents with emotions/associations/memory. But 6% of Sweden has SHR, hyper sensitive to smells/fragrances. (I guess the concern is how to sell scented things to those with SHR.) Scents are already widely used (new car smell, perfume spraying in shops, scented products). But 16-33% self report (6% medically diagnosed) coughing, breathing problems, etc from scents (unlikely to be asthma). Can impair quality of life with the only option to avoid being exposed. No medicated options available. General public sceptical about SHR. Food additives have to be declared, no requirements for scents. Findings are there are no meaningful limitations to the use of scent, those with SHR feel frustrated and angry at having scents imposed on them, there probably (as of 2006) wasn't much research on what causes SHR and so there are no real solutions. And scented public places and products that don't need scents are unrestrained and health impacts are ignored.
 143 #365papers
 https://www.diva-portal.org/smash/get/diva2:231164/FULLTEXT01.pdf
 ‘Scent and sensitivity’: Scent Marketing with regard to sensory hyper-reactivity
@@ -732,7 +730,7 @@ In which the impact on online political participation from psychopathy (P), narc
 146 #365papers
 https://www.nature.com/articles/s41599-025-05195-y
 Dark personalities in the digital arena: how psychopathy and narcissism shape online political participation
-#################################################################
+
 In which links between traits of social dominance orientation (SDO), right-wing authoritarianism (RWA), psychopathic propensities (PPs), and other malevolent dispositions (MD), and reduced empathy are predictive of favourable views of Trump and conservative political ideology (CI) in general. RWA: preferences for social control and conformity. SDO: competitive world view with preference for social hierarchies. Both share low honesty-humility and low openness traits. Who would embrace a leader with malevolent disposition (I could shoot somebody)? Used 2 samples from US: 1) white vs minority status men, 2) men and women. Findings: RWA and SDO strong predictors of CI (minorities as well). Positive assoc between CI/positive about Trump and MD (all samples). White men, pos assoc with PP. Link between personality and CI due to absence of benevolent propensities (and lack of support due to benevolent).
 147 #365papers
 https://linkinghub.elsevier.com/retrieve/pii/S0092656625000704
@@ -753,9 +751,7 @@ In which transport poverty (TP) differences between genders are explored in Cana
 https://findingspress.org/article/143474-are-women-more-transport-poor-than-men-exploring-gender-discrepancies-in-transport-poverty
 Are Women More Transport Poor Than Men? Exploring Gender Discrepancies in Transport Poverty
 
-In qualitative research is being exploited by scammers using AI. Recruiting research participants is hard and has increasingly moved online since COVID. Researchers are increasingly detecting that participants are fraudulent. In this study, working relationship between pharmacists and community health workers was analysed using 30 minute online or in person interviews. Recruited on Linkedin, many responses were very similar. Online interviews, participants took several seconds to start answering each question, others basic information changed/inconsistent throughout interview, short and vague answers. 
---
-Other clues, struggle with English, cameras off, mostly interested in how the reimbursement would be paid, and contact details all very similar. Researchers asked for proof of professional credentials which they couldn't provide. Study gives many recommendations on how to detect and avoid fraud, including how to advertise for participants, checking identities, camera on, discourage use of AI, local vouchers (not international), guidance from ethics and universities, establish protocols.
+In qualitative research is being exploited by scammers using AI. Recruiting research participants is hard and has increasingly moved online since COVID. Researchers are increasingly detecting that participants are fraudulent. In this study, working relationship between pharmacists and community health workers was analysed using 30 minute online or in person interviews. Recruited on Linkedin, many responses were very similar. Online interviews, participants took several seconds to start answering each question, others basic information changed/inconsistent throughout interview, short and vague answers. Other clues, struggle with English, cameras off, mostly interested in how the reimbursement would be paid, and contact details all very similar. Researchers asked for proof of professional credentials which they couldn't provide. Study gives many recommendations on how to detect and avoid fraud, including how to advertise for participants, checking identities, camera on, discourage use of AI, local vouchers (not international), guidance from ethics and universities, establish protocols.
 151 #365papers
 https://researchintegrityjournal.biomedcentral.com/articles/10.1186/s41073-025-00179-7
 I have been scammed in my qualitative research
@@ -774,23 +770,58 @@ In which cradle-to-grave GHG emission assessments on light-duty vehicles are per
 154 #365papers
 https://pubs.acs.org/doi/10.1021/acs.est.5c05406
 Greenhouse Gas Reductions Driven by Vehicle Electrification across Powertrains, Classes, Locations, and Use Patterns
+
+In which the ratio of UVA/UVB in sunlight is measured. The ratio of different wavelengths of radiation in sunlight is influenced by cloud cover, altitude, and particles (air pollution). At sea level, dominant factor is the sun zenith angle. Findings are that UVA/UVB ratio is mostly constant at 20 for zenith angles <50 degrees. Rapid exponential growth above 50 degrees (amounts of UVB become very small, mostly absorbed by ozone layer). Generalisation about the ratio at ground level is either 20 (UVA defined 320-400nm) or 41.3 (UVA defined 315-400nm).
+155 #365papers
+https://onlinelibrary.wiley.com/doi/10.1111/j.1751-1097.2011.00980.x
+The Value of the Ratio of UVA to UVB in Sunlight
+
+In which an analysis into how hits on the Billboard 100 have changed over the past 65 years. Is it harder to have a hit in the present? Two competing drivers: long tail, increased and long lasting access to more niche products, and winner takes all, concentration on a few superstars. Both pronounced with digital media. Finding: hit duration increase from the 60s, peaked around 2005, rapid drop after. 60-80s, took longer for songs to climb charts than time to leave. Clusters of hit types: brief (only few weeks), climbing (slow climb/slow decay), high-end (leave quickly after top position), high-start (enter chart high), long-lasting. 60-80s, 80% high-end, most of the rest brief. 70s mostly climbing. 90s mostly long-lasting or high-start, some brief. Recently still long-lasting and high-start with 10% as brief. Most artists only few hits, only 5% with more than 10. Hit makers increase until 80s, decrease then rise again 2000s. Presently hit makers 60% of hit songs. Average of top position peaked in 90s (mean 30), presently mean is 50. Summary, presently more and higher positions of hit makers, but still worse on average than previously. Longer hit periods of high performers and high churn at bottom of the chart. So, harder to make hit? Not resolved.
+156 #365papers
+https://epjdatascience.springeropen.com/articles/10.1140/epjds/s13688-025-00571-9
+Is it getting harder to make a hit? Evidence from 65 years of US music chart history
+#################################################################
+
+In which shifting perceptions of urban trees are examined post-COVID-19. Online panel around urban trees summer 2020 in Melbourne (before lockdowns). Cognitive model describes values, beliefs, and attitudes. Values and beliefs develop over time, less changeable while attitudes more variable. Survey used Valued Attributes of Landscape Scale, 5 point scale, values of urban trees around cultural, social, identity, and natural themes. Both 2020 and 23, high level of importance to values around trees (social>natural>identity>cultural), higher positive than negative, and low knowledge about trees. Changes: 2% decrease of importance of trees, 4.3% increase of negative beliefs. Outer urban areas largest shifts. Most demographics shift except >40yr, not female, homeowner.
+157 #365papers
+https://www.nature.com/articles/s42949-025-00230-y
+People’s perceptions of urban trees are more negative after COVID-19 lockdowns
+
+In which the declines in vaccinations in the US is a looming health disaster. Vaccination rates have been declining, further accelerating declines since COVID-19. Increasing outbreaks of diseases that have been previously prevented. US government revising (ending?) childhood vaccinations. Modelling what will happen over the next few decades. At current vaccination rates, measles may reestablish endemicity (851k cases over 25 years). With 10% vaccination decline, 11 million cases of measles over 25 years. 50% decline of vaccination results in 51 million cases of measles, 10M rubella, 4M polio, 10M hospitalisations, and 159k deaths.
+158 #365papers
+https://jamanetwork.com/journals/jama/fullarticle/2833361
+Modeling Reemergence of Vaccine-Eliminated Infectious Diseases Under Declining Vaccination in the US
+
+In which, the authors reply to a study which advocates for considering selection bias in scaling interventions and possible backfire effects for climate change deniers. Currently, 73 and 86% of US and globally believe climate change is happening. Mobilising them more effective than convincing the 14%? So, accounting for backfire is important, but they also found (in their recent study of interventions) no evidence of backfire or significant interactions with political ideology or belief. But they still agree future research should look at how to reach the dismissive and tailor interventions to subpopulations (including various SES types). Recommend a tournament approach to compare strategies.
+Reply to Loh and Ren: Motivating action among climate change believers
+159 #365papers
+https://pnas.org/doi/10.1073/pnas.2515426122
+
+In which (in 2003), the case for banning car alarms in NYC is made. High impacts of noise (health, psychological, amenity). No evidence that car alarms work (95% false alarms, 1% notify the police, insurance claims show no reductions of theft, and professional car thieves undeterred). Better alternatives (brake locks, Lojack, immobilizers). NYC already bans excessive noise, should enforce the laws. 
+https://www.gwern.net/docs/technology/2003-friedman.pdf
+160 #365papers
+Alarmingly Useless: The Case for Banning Car Alarms in New York City
+
+In which the ill advisory of five geoengineering concepts for the polar regions are discussed. Climate change impacts are especially pronounced in the polar regions. Instead of reducing carbon emissions, concepts have been devised to geoengineer instead: 1) stratospheric aerosol injection (SAI) 2) sea curtains 3) sea ice management 4) slowing ice sheet flow 5) ocean fertilization. Obviously, all only mask impacts rather than address root causes. For 1), would require 60k flights annually for lasting effect. Ending in future would cause rapid immediate warming. Would have no impact on polar regions in winter (no sunlight). Cause ozone depletion. Disrupt global climate patterns. Who governs? Cost at least $1 billion/year.
+--
+2) Sea curtains/walls: prevent warm water from reaching polar areas. Engineering, deploying in harsh polar environment? Cause massive disruption of oceans, marine life, pollution, huge emissions to construct and maintain. Cost: at least $80 billion. Governance/Antarctic treaty? 3) Modify albedo/thicken sea ice. Spread hollow glass beads, 360 megatons yearly? (Same as global plastic production) Eco implications unknown. Might actually absorb heat and cause warming. Thicken ice: spray sea water on ice. Would require 1 million pumps. Won't provide any mitigation. Cost $50 billion/yr. 
+--
+4) Slow ice flow through basal water removal (drill/dry, cooling, obstructions). Drill/dry limited feasibility. Deform ice sheets. Require 1 MW per hole ($10-20 million costs?). High impact on sensitive ecosystems. 5) Ocean fertilisation: add nutrients (iron) to promote photosynthesis. Impacts of fisheries, how many ships? Cause de-oxygenation, produce methane and NO2? Costs: 100-1000/ton CO2 (to offset yearly fossil fuels emissions of 40 billion tons?).
+--
+Geoengineering debunking: mitigation is currently scaling up, should use all the options (not if it is a bad option), won't "buy us time" (distraction and diverting time and resources to geoengineering), focus should be on emission reductions. Geoengineering gives false hope that anything but deep emission cuts are necessary, causing complacency and delays (and cover) to continue emissions while pretending to take action.
+161 #365papers
+https://www.frontiersin.org/journals/science/articles/10.3389/fsci.2025.1527393/full
+Safeguarding the polar regions from dangerous geoengineering: a critical assessment of proposed concepts and future prospects
+
+In which whether mainstream parties accommodating radical right parties (RRP) core positions will reduce electoral success of RRP are examined. As RRPs are increasingly successful, what are the causes and consequences? Does accommodation co-opt their success? Or legitimise their policies? Do voters vote for the original or the copy? Hypothesis is that mainstream adoption of authoritarian-nationalism/anti-immigration policies is not effective in reducing RRP success. Data from the European Voter Project. Finding: RRP gained 0.5-2% since 1980s. Gained 0.2-0.8% from each mainstream party since 1980s. No significant effects at 95% macro-level changes. RRP gains pronounced when mainstream competes with consolidated RRPs. Accommodation increasingly ineffective over time. So, accommodating benefits established RRPs. Accommodation combined with lack of cooperation with RRPs also benefits RRPs. Finally, co-opting RRP positions (even if already policy of the mainstream) results in voter defection to the right.
+162 #365papers
+https://www.cambridge.org/core/product/identifier/S2049847022000085/type/journal_article
+Does accommodation work? Mainstream party strategies and the success of radical right parties
 ######################################
 
 
 
 
-
-
-155 #365papers
-156 #365papers
-157 #365papers
-158 #365papers
-159 #365papers
-
-June 9
-160 #365papers
-161 #365papers
-162 #365papers
 163 #365papers
 164 #365papers
 165 #365papers
