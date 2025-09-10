@@ -780,12 +780,14 @@ In which an analysis into how hits on the Billboard 100 have changed over the pa
 156 #365papers
 https://epjdatascience.springeropen.com/articles/10.1140/epjds/s13688-025-00571-9
 Is it getting harder to make a hit? Evidence from 65 years of US music chart history
-#################################################################
 
 In which shifting perceptions of urban trees are examined post-COVID-19. Online panel around urban trees summer 2020 in Melbourne (before lockdowns). Cognitive model describes values, beliefs, and attitudes. Values and beliefs develop over time, less changeable while attitudes more variable. Survey used Valued Attributes of Landscape Scale, 5 point scale, values of urban trees around cultural, social, identity, and natural themes. Both 2020 and 23, high level of importance to values around trees (social>natural>identity>cultural), higher positive than negative, and low knowledge about trees. Changes: 2% decrease of importance of trees, 4.3% increase of negative beliefs. Outer urban areas largest shifts. Most demographics shift except >40yr, not female, homeowner.
 157 #365papers
 https://www.nature.com/articles/s42949-025-00230-y
 People’s perceptions of urban trees are more negative after COVID-19 lockdowns
+#################################################################
+
+
 
 In which the declines in vaccinations in the US is a looming health disaster. Vaccination rates have been declining, further accelerating declines since COVID-19. Increasing outbreaks of diseases that have been previously prevented. US government revising (ending?) childhood vaccinations. Modelling what will happen over the next few decades. At current vaccination rates, measles may reestablish endemicity (851k cases over 25 years). With 10% vaccination decline, 11 million cases of measles over 25 years. 50% decline of vaccination results in 51 million cases of measles, 10M rubella, 4M polio, 10M hospitalisations, and 159k deaths.
 158 #365papers
@@ -804,7 +806,7 @@ Alarmingly Useless: The Case for Banning Car Alarms in New York City
 
 In which the ill advisory of five geoengineering concepts for the polar regions are discussed. Climate change impacts are especially pronounced in the polar regions. Instead of reducing carbon emissions, concepts have been devised to geoengineer instead: 1) stratospheric aerosol injection (SAI) 2) sea curtains 3) sea ice management 4) slowing ice sheet flow 5) ocean fertilization. Obviously, all only mask impacts rather than address root causes. For 1), would require 60k flights annually for lasting effect. Ending in future would cause rapid immediate warming. Would have no impact on polar regions in winter (no sunlight). Cause ozone depletion. Disrupt global climate patterns. Who governs? Cost at least $1 billion/year.
 --
-2) Sea curtains/walls: prevent warm water from reaching polar areas. Engineering, deploying in harsh polar environment? Cause massive disruption of oceans, marine life, pollution, huge emissions to construct and maintain. Cost: at least $80 billion. Governance/Antarctic treaty? 3) Modify albedo/thicken sea ice. Spread hollow glass beads, 360 megatons yearly? (Same as global plastic production) Eco implications unknown. Might actually absorb heat and cause warming. Thicken ice: spray sea water on ice. Would require 1 million pumps. Won't provide any mitigation. Cost $50 billion/yr. 
+2) Sea curtains/walls: prevent warm water from reaching polar areas. Engineering, deploying in harsh polar environment? Cause massive disruption of oceans, marine life, pollution, huge emissions to construct and maintain. Cost: at least $80 billion. Governance/Antarctic treaty? 3) Modify albedo/thicken sea ice. Spread hollow glass beads, 360 megatons of glass yearly? (Same as global plastic production) Eco implications unknown. Might actually absorb heat and cause warming. Thicken ice: spray sea water on ice. Would require 1 million pumps. Won't provide any mitigation. Cost $50 billion/yr. 
 --
 4) Slow ice flow through basal water removal (drill/dry, cooling, obstructions). Drill/dry limited feasibility. Deform ice sheets. Require 1 MW per hole ($10-20 million costs?). High impact on sensitive ecosystems. 5) Ocean fertilisation: add nutrients (iron) to promote photosynthesis. Impacts of fisheries, how many ships? Cause de-oxygenation, produce methane and NO2? Costs: 100-1000/ton CO2 (to offset yearly fossil fuels emissions of 40 billion tons?).
 --
@@ -817,15 +819,32 @@ In which whether mainstream parties accommodating radical right parties (RRP) co
 162 #365papers
 https://www.cambridge.org/core/product/identifier/S2049847022000085/type/journal_article
 Does accommodation work? Mainstream party strategies and the success of radical right parties
+
+In which urban planning document in Victoria are examined for potential to address climate change mitigation and adaptation. Study develops criteria for evaluating policy documents coverage of mitigation, adaptation, and integration. Applies across local and state Victoria, disciplines of planning, climate change, and floods. Key challenges in rapid urbanisation, transportation emissions. High density (housing, employment, mixed use) can facilitate reductions. Possible mechanisms: development restrictions on growth (zoning, boundary), affordable housing, self contained communities/mixed use. At local level, transit-orientated corridors, urban regeneration/infill, new urbanism, flexible parking, design guidelines for pedestrian/car-free/traffic calming.
+--
+Each mechanism, if found in policy documents, given points for implicit yes and yes, none for no. Finding Victoria articulated strong climate change mitigation goals in policy documents, mostly through emissions reductions in electricity. Limited policy around land use planning towards emissions and adaptation. Most land use policy doesn't acknowledge emissions or Paris Agreement, only for liveablity. Mitigation often conflated/interchanged with adaptation. Flood policies do not address mitigation and often ignore future risks (housing in flood areas). So, overall, little mitigation as part of current planning.
+163 #365papers
+https://linkinghub.elsevier.com/retrieve/pii/S0264837720325266
+Urban planning policy must do more to integrate climate change adaptation and mitigation actions
+
+In which Swedish preparation for climate adaptation in spatial planning is analysed. Climate adaptation key area for spatial planning. But practical climate proofing encounters conflicting values, interests and positions as well as limited and fragmented responses when local authorities need guidelines and recommendations. Questions of how do planners approach climate adaptation, settle and enact guidelines? Main risks addressed in Swedish policies of sea-level rise and erosion. Findings that municipalities are being preactive in settling guidelines for new development. However, guidelines are more aspirational than absolute. Applying them brings challenges (accessibility/esthtics), requiring negotiation. And sometimes planners see no use in trying to set guidelines/prevent developments. 
+164 #365papers
+http://link.springer.com/10.1007/s10113-014-0690-0
+The practice of settling and enacting strategic guidelines for climate adaptation in spatial planning: lessons from ten Swedish municipalities
 ######################################
 
 
-
-
-163 #365papers
-164 #365papers
 165 #365papers
+https://linkinghub.elsevier.com/retrieve/pii/S0169204608001746
+Application of climatic guidelines to urban planning
+
+
+In which local city climate change mitigation and adaptation plans (LCPs) from 885 cities in the EU are assessed. Questions about what are the patterns of the LCPs and how is that related to local/national/international policies?
 166 #365papers
+https://linkinghub.elsevier.com/retrieve/pii/S0959652618308977
+How are cities planning to respond to climate change? Assessment of local climate plans from 885 cities in the EU-28
+
+
 167 #365papers
 168 #365papers
 169 #365papers
