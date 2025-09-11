@@ -785,9 +785,6 @@ In which shifting perceptions of urban trees are examined post-COVID-19. Online 
 157 #365papers
 https://www.nature.com/articles/s42949-025-00230-y
 People’s perceptions of urban trees are more negative after COVID-19 lockdowns
-#################################################################
-
-
 
 In which the declines in vaccinations in the US is a looming health disaster. Vaccination rates have been declining, further accelerating declines since COVID-19. Increasing outbreaks of diseases that have been previously prevented. US government revising (ending?) childhood vaccinations. Modelling what will happen over the next few decades. At current vaccination rates, measles may reestablish endemicity (851k cases over 25 years). With 10% vaccination decline, 11 million cases of measles over 25 years. 50% decline of vaccination results in 51 million cases of measles, 10M rubella, 4M polio, 10M hospitalisations, and 159k deaths.
 158 #365papers
@@ -798,6 +795,8 @@ In which, the authors reply to a study which advocates for considering selection
 Reply to Loh and Ren: Motivating action among climate change believers
 159 #365papers
 https://pnas.org/doi/10.1073/pnas.2515426122
+#################################################################
+
 
 In which (in 2003), the case for banning car alarms in NYC is made. High impacts of noise (health, psychological, amenity). No evidence that car alarms work (95% false alarms, 1% notify the police, insurance claims show no reductions of theft, and professional car thieves undeterred). Better alternatives (brake locks, Lojack, immobilizers). NYC already bans excessive noise, should enforce the laws. 
 https://www.gwern.net/docs/technology/2003-friedman.pdf
