@@ -2,23 +2,23 @@
   font-family: 'Abril Fatface';
   font-style: normal;
   font-weight: 400;
-  src: url(http://fonts.gstatic.com/s/abrilfatface/v25/zOL64pLDlL1D99S8g8PtiKchq-dmiA.ttf) format('truetype');
+  src: url(../fonts/zOL64pLDlL1D99S8g8PtiKchq-dmiA.ttf) format('truetype');
 }
 @font-face {
   font-family: 'PT Sans';
   font-style: italic;
   font-weight: 400;
-  src: url(http://fonts.gstatic.com/s/ptsans/v18/jizYRExUiTo99u79D0e0x8mN.ttf) format('truetype');
+  src: url(../fonts/jizYRExUiTo99u79D0e0x8mN.ttf) format('truetype');
 }
 @font-face {
   font-family: 'PT Sans';
   font-style: normal;
   font-weight: 400;
-  src: url(http://fonts.gstatic.com/s/ptsans/v18/jizaRExUiTo99u79D0KEwA.ttf) format('truetype');
+  src: url(../fonts/jizaRExUiTo99u79D0KEwA.ttf) format('truetype');
 }
 @font-face {
   font-family: 'PT Sans';
   font-style: normal;
   font-weight: 700;
-  src: url(http://fonts.gstatic.com/s/ptsans/v18/jizfRExUiTo99u79B_mh0O6tKA.ttf) format('truetype');
+  src: url(../fonts/jizfRExUiTo99u79B_mh0O6tKA.ttf) format('truetype');
 }
