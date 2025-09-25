@@ -827,12 +827,6 @@ https://zenodo.org/doi/10.5281/zenodo.17065099
 Against the Uncritical Adoption of 'AI' Technologies in Academia
 #################################################################
 
-
-
-
-
-
-
 In which using LLMs for peer-review reveals strong in-built biases. Using GPT-4o-mini, they simulate a review process of manuscripts. Manuscripts are reviewed many times varying author gender, ethnicity, institutions, research fields, and unique names. Biases are identified where lower-prestige institutions receive lower quality assessments, higher desk and reviewer rejects. Also more review comments. Only small gender/race effects. But combination of lower-prestige institution/female also lower review scores. Black scholars at higher-prestige higher rejections than white (although not at lower-prestige). Similar sorts of effects are seen with a CV evaluation process. Looks like the promise of unbiased AI reviews doesn't stand up, and perhaps using LLMs for peer-review is not a great idea.
 168 #365papers
 http://arxiv.org/abs/2509.15122
@@ -866,11 +860,17 @@ https://linkinghub.elsevier.com/retrieve/pii/S0959652618308977
 How are cities planning to respond to climate change? Assessment of local climate plans from 885 cities in the EU-28
 
 
-
-
-
+In which caution is urged about using satellite land surface temperatures (LST) to estimate urban heat hazards. LST observations are widely available and are often used as a surrogate for near-surface air temperatures. Other types of urban heat measurements are hard to obtain. However, top of the urban canopy surface temperatures as a proxy for human heat stress can be deeply misleading. 4 main problems: temporal (single observation at overpass, or bad observations due to clouds), spatial mixing (each pixel mixes lots of things), angular bias (shifts of observed temperatures due to viewing angle), uncertainties (emissivities estimates and atmospheric characteristics). 
+--
+Surface air temperatures (SAT) measured at 2m, reflecting an integrated signal of urban-land-atmosphere. Causing different temporal/spatial patterns between SAT/LST with weak daytime correlations and other shifts due to seasons, geometry, and materials. Relationship between LST and heat stress indicators are also weak. Issues in existing research: radiation, wind, humidity underrepresented by LST, strong heat signals in LST muted in SAT, both throwing off public health assessments. Building studies based on LST lead to misleading energy efficiency or other conclusions.
+--
 
 172 #365papers
+http://arxiv.org/abs/2509.16568
+Satellite-derived Land Surface Temperatures Strongly Mischaracterise Urban Heat Hazard
+
+
+
 173 #365papers
 174 #365papers
 175 #365papers
