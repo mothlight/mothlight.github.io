@@ -805,26 +805,53 @@ In which the ill advisory of five geoengineering concepts for the polar regions 
 161 #365papers
 https://www.frontiersin.org/journals/science/articles/10.3389/fsci.2025.1527393/full
 Safeguarding the polar regions from dangerous geoengineering: a critical assessment of proposed concepts and future prospects
-#################################################################
-
-
 
 In which whether mainstream parties accommodating radical right parties (RRP) core positions will reduce electoral success of RRP are examined. As RRPs are increasingly successful, what are the causes and consequences? Does accommodation co-opt their success? Or legitimise their policies? Do voters vote for the original or the copy? Hypothesis is that mainstream adoption of authoritarian-nationalism/anti-immigration policies is not effective in reducing RRP success. Data from the European Voter Project. Finding: RRP gained 0.5-2% since 1980s. Gained 0.2-0.8% from each mainstream party since 1980s. No significant effects at 95% macro-level changes. RRP gains pronounced when mainstream competes with consolidated RRPs. Accommodation increasingly ineffective over time. So, accommodating benefits established RRPs. Accommodation combined with lack of cooperation with RRPs also benefits RRPs. Finally, co-opting RRP positions (even if already policy of the mainstream) results in voter defection to the right.
 162 #365papers
 https://www.cambridge.org/core/product/identifier/S2049847022000085/type/journal_article
 Does accommodation work? Mainstream party strategies and the success of radical right parties
 
-In which urban planning document in Victoria are examined for potential to address climate change mitigation and adaptation. Study develops criteria for evaluating policy documents coverage of mitigation, adaptation, and integration. Applies across local and state Victoria, disciplines of planning, climate change, and floods. Key challenges in rapid urbanisation, transportation emissions. High density (housing, employment, mixed use) can facilitate reductions. Possible mechanisms: development restrictions on growth (zoning, boundary), affordable housing, self contained communities/mixed use. At local level, transit-orientated corridors, urban regeneration/infill, new urbanism, flexible parking, design guidelines for pedestrian/car-free/traffic calming.
---
-Each mechanism, if found in policy documents, given points for implicit yes and yes, none for no. Finding Victoria articulated strong climate change mitigation goals in policy documents, mostly through emissions reductions in electricity. Limited policy around land use planning towards emissions and adaptation. Most land use policy doesn't acknowledge emissions or Paris Agreement, only for liveablity. Mitigation often conflated/interchanged with adaptation. Flood policies do not address mitigation and often ignore future risks (housing in flood areas). So, overall, little mitigation as part of current planning.
+In which urban planning document in Victoria are examined for potential to address climate change mitigation and adaptation. Study develops criteria for evaluating policy documents coverage of mitigation, adaptation, and integration. Applies across local and state Victoria, disciplines of planning, climate change, and floods. Key challenges in rapid urbanisation, transportation emissions. High density (housing, employment, mixed use) can facilitate reductions. Possible mechanisms: development restrictions on growth (zoning, boundary), affordable housing, self contained communities/mixed use. At local level, transit-orientated corridors, urban regeneration/infill, new urbanism, flexible parking, design guidelines for pedestrian/car-free/traffic calming. Each mechanism, if found in policy documents, given points for implicit yes and yes, none for no. Finding Victoria articulated strong climate change mitigation goals in policy documents, mostly through emissions reductions in electricity. Limited policy around land use planning towards emissions and adaptation. Most land use policy doesn't acknowledge emissions or Paris Agreement, only for liveablity. Mitigation often conflated/interchanged with adaptation. Flood policies do not address mitigation and often ignore future risks (housing in flood areas). So, overall, little mitigation as part of current planning.
 163 #365papers
 https://linkinghub.elsevier.com/retrieve/pii/S0264837720325266
 Urban planning policy must do more to integrate climate change adaptation and mitigation actions
 
-In which Swedish preparation for climate adaptation in spatial planning is analysed. Climate adaptation key area for spatial planning. But practical climate proofing encounters conflicting values, interests and positions as well as limited and fragmented responses when local authorities need guidelines and recommendations. Questions of how do planners approach climate adaptation, settle and enact guidelines? Main risks addressed in Swedish policies of sea-level rise and erosion. Findings that municipalities are being preactive in settling guidelines for new development. However, guidelines are more aspirational than absolute. Applying them brings challenges (accessibility/esthtics), requiring negotiation. And sometimes planners see no use in trying to set guidelines/prevent developments. 
+In which Swedish preparation for climate adaptation in spatial planning is analysed. Climate adaptation key area for spatial planning. But practical climate proofing encounters conflicting values, interests and positions as well as limited and fragmented responses when local authorities need guidelines and recommendations. Questions of how do planners approach climate adaptation, settle and enact guidelines? Main risks addressed in Swedish policies of sea-level rise and erosion. Findings that municipalities are being preactive in settling guidelines for new development. However, guidelines are more aspirational than absolute. Applying them brings challenges (accessibility/aesthetics), requiring negotiation. And sometimes planners see no use in trying to set guidelines/prevent developments. 
 164 #365papers
 http://link.springer.com/10.1007/s10113-014-0690-0
 The practice of settling and enacting strategic guidelines for climate adaptation in spatial planning: lessons from ten Swedish municipalities
+
+In which it is urged that universities counter AI marketing hype and safeguard higher education, critical thinking, expertise, academic freedom, and scientific integrity. Refute harmful tropes (lazy students) and false framing (efficiency and inevitably). AI hype cycles go back to at least the 80s. "Artificial intelligence" is itself a marketing phrase. Focus on relationship between technology and society to reclaim AI as scientific field. AI as educational technology, we need to be clear about the *purpose* of education, is AI use incompatible? University administrators see opportunity to cut costs/increase efficiency, continuation of neoliberalising higher education. Inevitability/irreversibility of AI is product of AI hype, but just the latest boom/bust cycle going back to the 80s. Anthropomorphism helps the illusion of intelligence. Will students really not be able to find jobs if they don't learn AI? Concerns about not actually learning, deskilling. Five principals: honesty (no secret AI use/no unfounded claims about capabilities), scrupulousness (only use for well-specified and validated uses, is the technology appropriate for the purpose), transparency (open source and reproducibility), independence (unbiased by AI companies agendas/conflicts of interest), responsibility (no irresponsible/harmful usage). Concluding "That work-the real work of teaching and learning-cannot be automated."
+167 #365papers
+https://zenodo.org/doi/10.5281/zenodo.17065099
+Against the Uncritical Adoption of 'AI' Technologies in Academia
+#################################################################
+
+
+
+
+
+
+
+In which using LLMs for peer-review reveals strong in-built biases. Using GPT-4o-mini, they simulate a review process of manuscripts. Manuscripts are reviewed many times varying author gender, ethnicity, institutions, research fields, and unique names. Biases are identified where lower-prestige institutions receive lower quality assessments, higher desk and reviewer rejects. Also more review comments. Only small gender/race effects. But combination of lower-prestige institution/female also lower review scores. Black scholars at higher-prestige higher rejections than white (although not at lower-prestige). Similar sorts of effects are seen with a CV evaluation process. Looks like the promise of unbiased AI reviews doesn't stand up, and perhaps using LLMs for peer-review is not a great idea.
+168 #365papers
+http://arxiv.org/abs/2509.15122
+Prestige over merit: An adapted audit of LLM bias in peer review
+
+In which estimates of cigarette smuggling/tax evasion in NYC are made. They collect littered packs of cigarettes to find tax stamps (or missing stamps). All should have a NYC tax stamp, but NYC taxes are higher than neighbouring states and especially souther states. Findings are that only 16% have a proper NYC tax stamp (probably decline from 33-45% in 2011 and 17-30% in 2015). 27% have Georgia, 20% from Virginia, and 27% have no stamp (i.e. illicit). Findings also show smoking rates have declined but illicit trade is still a problem.
+169 #365papers
+https://doi.org/10.1136/tc-2025-059387
+Cigarette trafficking in New York City: now and then
+
+In which estimates of future mortality due to wildfire smoke due to climate change are made. Estimates are modelled using future CMIP6 projections, land use change, increased fires with increased PM2.5 and projected smoke mortality. Wildfire projected to increase in all regions, greatest in western US. Average smoke PM2.5 might reach 10 ug/m3 (equal to extreme levels in 2020). Historic data of low level smoke shows increase of county-level mortality rate by 1.5%. Future extreme values (>4ug/m3) could increase rates by 3.9%. Effects across following years add additional deaths. Over 2011-20, probably 41k excess deaths. Future fire increases could add 26-30k additional excess deaths. Quantifying using value of statistical life ($10 million), excess deaths cause $600 billion yearly.
+170 #365papers
+https://www.nature.com/articles/s41586-025-09611-w
+Wildfire smoke exposure and mortality burden in the US under climate change
+
+In which the case for suing for climate liability is made. Can liability through common law be pursued, specifically for damage from heatwaves, droughts, floods, hurricanes, fires? And how to attribute blame? Similar to liability from tobacco and pharmaceuticals. With advances in end-to-end attribution, and growing research on quantifying with econometrics (using scope 1 and 3 emissions data) the relationships between climate hazards and economic outcomes, it is possible. Estimated losses from extreme heat from 111 carbon majors (corporations) are $28 trillion. In the top 5, Saudi Aramco $2.05t, Gazprom $2t. The framework can now inform litigation, assigning liability and damages.
+171 #365papers
+https://www.nature.com/articles/s41586-025-08751-3
+Carbon majors and the scientific case for climate liability
 ######################################
 
 
@@ -839,11 +866,10 @@ https://linkinghub.elsevier.com/retrieve/pii/S0959652618308977
 How are cities planning to respond to climate change? Assessment of local climate plans from 885 cities in the EU-28
 
 
-167 #365papers
-168 #365papers
-169 #365papers
-170 #365papers
-171 #365papers
+
+
+
+
 172 #365papers
 173 #365papers
 174 #365papers
