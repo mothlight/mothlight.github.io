@@ -825,7 +825,6 @@ In which it is urged that universities counter AI marketing hype and safeguard h
 167 #365papers
 https://zenodo.org/doi/10.5281/zenodo.17065099
 Against the Uncritical Adoption of 'AI' Technologies in Academia
-#################################################################
 
 In which using LLMs for peer-review reveals strong in-built biases. Using GPT-4o-mini, they simulate a review process of manuscripts. Manuscripts are reviewed many times varying author gender, ethnicity, institutions, research fields, and unique names. Biases are identified where lower-prestige institutions receive lower quality assessments, higher desk and reviewer rejects. Also more review comments. Only small gender/race effects. But combination of lower-prestige institution/female also lower review scores. Black scholars at higher-prestige higher rejections than white (although not at lower-prestige). Similar sorts of effects are seen with a CV evaluation process. Looks like the promise of unbiased AI reviews doesn't stand up, and perhaps using LLMs for peer-review is not a great idea.
 168 #365papers
@@ -836,6 +835,9 @@ In which estimates of cigarette smuggling/tax evasion in NYC are made. They coll
 169 #365papers
 https://doi.org/10.1136/tc-2025-059387
 Cigarette trafficking in New York City: now and then
+#################################################################
+
+
 
 In which estimates of future mortality due to wildfire smoke due to climate change are made. Estimates are modelled using future CMIP6 projections, land use change, increased fires with increased PM2.5 and projected smoke mortality. Wildfire projected to increase in all regions, greatest in western US. Average smoke PM2.5 might reach 10 ug/m3 (equal to extreme levels in 2020). Historic data of low level smoke shows increase of county-level mortality rate by 1.5%. Future extreme values (>4ug/m3) could increase rates by 3.9%. Effects across following years add additional deaths. Over 2011-20, probably 41k excess deaths. Future fire increases could add 26-30k additional excess deaths. Quantifying using value of statistical life ($10 million), excess deaths cause $600 billion yearly.
 170 #365papers
