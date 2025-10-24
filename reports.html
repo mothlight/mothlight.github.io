@@ -20,6 +20,33 @@
     <link rel="stylesheet" href="css/cssfamilyPTSans400400italic700AbrilFatface.css">
     <link rel="stylesheet" href="css/academicons.min.css">
 <link rel="stylesheet" href="css/all.css">
+<script type="text/javascript" src="abstracts.js">
+</script>
+<script>
+function abstractText(divId) {
+   var x = document.getElementById(divId);
+   if (x.style.display === "none") {
+     x.style.display = "block";
+   } else {
+     x.style.display = "none";
+   }
+}
+function displayAbstract(divId,text) {
+   var x = document.getElementById(divId);
+   if (x.style.display === "none") 
+   {
+     x.innerHTML=text;
+     x.style.display = "block";
+   } else 
+   {
+     x.style.display = "none";
+   }
+}
+function displayText(item)
+{
+document.getElementById(item).innerHTML="Hello World";
+}
+</script>
   <!-- Icons -->
 <link rel="shortcut icon" href="images/favicon-192x192-3127912929.png">
 <meta name="keywords" content="urban,climate,modelling,Australia" />
@@ -83,11 +110,28 @@
 
 <p><center><b>2025</b></center>
 
-<p>Mark Stevenson, <b>Kerry Nice</b>, and Hao Chen (2025). Urban density and equity of access to social services, In: <a href="https://www.aihw.gov.au/reports/australias-welfare/urban-density">Australian Institute of Health and Welfare (AIHW) 17th biennial welfare report – Australia’s welfare 2025</a>.
+<p>Mark Stevenson, <b>Kerry Nice</b>, and Hao Chen (2025). Urban density and equity of access to social services, In: <a href="https://www.aihw.gov.au/reports/australias-welfare/urban-density">Australian Institute of Health and Welfare (AIHW) 17th biennial welfare report – Australia’s welfare 2025</a>.  <a href="https://storymaps.arcgis.com/stories/dc52c486610e44f5887fd27f20e237cd">Storymap</a> | <a href="Publications/Stevenson2025UrbanDensity.pdf">PDF</a> |
+ <button onclick="displayAbstract('Stevenson2025Urban',Stevenson2025Urban)">Abstract</button><div id="Stevenson2025Urban" style="display:none;font-size:80%;line-height:0.9"></div>
 
 <p>Kylie Soanes, Nano Langenheim, Marie Dade, <b>Kerry Nice</b>, Dom Blackham, Thami Croeser, and Sarah Bell, (2025), Re-imagining Breese Street: A community co-design project. Melbourne centre for Cities, University of Melbourne.  <a href="https://www.unimelb.edu.au/retrofit/blog/re-imagining-streets">Website</a> | <a href="https://www.unimelb.edu.au/__data/assets/pdf_file/0004/5341612/Re-imagining-Breese-Street.pdf">Report</a> | <a href="Publications/Soanes2025Re-imagining-Breese-Street-.pdf">PDF</a>
 
-<p>N. Gupta, A. Bhatia, R. Dutta, S. Basanayake, S. Hammer, M. Demuzere, <b>K. Nice</b>, T. T. Duc and J. Sakkhamduang (2025). Urban Heat Resilience: Bridging Science, Policy, and Sustainable Design, Flagship Report. ISBN (e-book): 978-616-91999-4-6. <a href="https://www.adpc.net/urbanheat/">Website</a> | <a href="https://www.adpc.net/urbanheat/wp-content/uploads/2025/06/Flagship-Report.pdf">Report</a> | <a href="Publications/Gupta2025UrbanScienceResilience.pdf">PDF</a>
+<p>N. Gupta, A. Bhatia, R. Dutta, S. Basanayake, S. Hammer, M. Demuzere, <b>K. Nice</b>, T. T. Duc and J. Sakkhamduang (2025). Urban Heat Resilience: Bridging Science, Policy, and Sustainable Design, Flagship Report. ISBN (e-book): 978-616-91999-4-6. <a href="https://www.adpc.net/urbanheat/">Website</a> | <a href="https://www.adpc.net/urbanheat/wp-content/uploads/2025/06/Flagship-Report.pdf">Report</a> | <a href="Publications/Gupta2025UrbanScienceResilience.pdf">PDF</a> |  <button onclick="displayAbstract('Bhatia2025',Bhatia2025)">Abstract</button><div id="Bhatia2025" style="display:none;font-size:80%;line-height:0.9"></div>
+
+
+
+<p><center><b>2023</b></center>
+
+
+
+
+<p>Water Sensitive Cities Australia (2023). Practice Guide – Cooling (Lot scale), David Bergmann, Nigel Bertram, Paul Cheung, Ninad Dharmadhikari, Phil Edwards, Jamie Ewert, Sandra Glass, Greg Hamilton, Kai James, Vinay Kumar, Stephen Livesley, <b>Kerry Nice</b>. | <a href="https://wscaustralia.org.au/practice-guide-cooling-lot-scale/">Report</a> | <a href="Publications/WSC2023Cooling-guide-230927.pdf">PDF</a> |  <button onclick="displayAbstract('WSC2023',WSC2023)">Abstract</button><div id="WSC2023" style="display:none;font-size:80%;line-height:0.9"></div>
+
+
+
+
+
+
+
 
 <p><center><b>2022</b></center>
 
