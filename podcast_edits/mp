@@ -1,0 +1,1 @@
+mplayer -input conf=~/bin/mplayer_input.conf  $1
